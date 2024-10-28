@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --footer-bg: #1a1a1a;
+  --background-new: #121212;
+  --text-new: #e5e7eb;
+}
+
+body {
+  @apply bg-background-new text-text-new font-sans;
+}
+
+/* Optional: Add a class for the new color scheme */
+.new-theme {
+  @apply bg-background-new text-text-new;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Additional global styles can be added here */

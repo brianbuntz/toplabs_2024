@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "object",
+  "properties": {
+    "researchCategories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "organizations": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["id", "name", "organizations"]
+      }
+    },
+    "organizations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" }
+        },
+        "required": ["id", "name"],
+        "additionalProperties": true
+      }
+    },
+    "version": { "type": "string" },
+    "lastUpdated": { "type": "string" },
+    "changeLog": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string" },
+          "description": { "type": "string" }
+        },
+        "required": ["date", "description"]
+      }
+    }
+  },
+  "required": [
+    "researchCategories",
+    "organizations",
+    "version",
+    "lastUpdated",
+    "changeLog"
+  ]
+}

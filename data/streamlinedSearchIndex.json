@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
+    "name": "National Aeronautics and Space Administration",
+    "aliases": [
+      "NASA (Ames Research Center)",
+      "National Aeronautics and Space Administration",
+      "NASA",
+      "NASA (Langley Research Center )",
+      "NASA (Langley Research Center)"
+    ],
+    "description": "Since 1958, NASA has led the United States' journey into the cosmos. From studying our planet's atmosphere to sending rovers to Mars, the agency tackles air and space research across numerous scientific disciplines. At centers like Ames and JPL, NASA engineers develop new technologies for air and space travel, while scientists unravel the mysteries of the universe. Their current work includes sending humans back to the Moon with the Artemis program and searching for signs of past life on Mars.",
+    "profile_link": "/category/aerospace & defense/organization/fd54ace3-9a21-4bd8-8dac-a166f25243d5",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "55712613-44eb-4c11-bf1d-8a23c9dfaa91",
+    "name": "SpaceX",
+    "aliases": [
+      "SpaceX (United States)"
+    ],
+    "description": "SpaceX designs, manufactures, and launches advanced rockets and spacecraft, with a strong focus on research and development to enable human life in space and on other planets. The company conducts extensive R&D activities in reusable rocket technology, spacecraft design, propulsion systems, and potential Mars colonization. SpaceX collaborates with NASA, research institutions, and other space agencies to advance space exploration and scientific research through its Commercial Crew and Cargo programs, as well as specialized missions to the International Space Station (ISS).",
+    "profile_link": "/category/aerospace & defense/organization/55712613-44eb-4c11-bf1d-8a23c9dfaa91",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "ff20d095-48d6-4db7-8fed-62a33d4bfbaa",
+    "name": "Defense Advanced Research Projects Agency",
+    "aliases": [
+      "U.S. Department of Defense",
+      "U.S. Department of Energy",
+      "Defense Advanced Research Projects Agency"
+    ],
+    "description": "DARPA doesn't just develop weapons; it invents the future of warfare. As the research arm of the U.S. Department of Defense, DARPA pursues high-risk, high-reward technologies that often seem like science fiction. From breakthroughs in AI and robotics to hypersonic flight and next-generation materials and helping develop surgical robotics, DARPA funds projects across a spectrum of scientific and engineering disciplines. In the 1960s, its ARPANET emerged as the first operational packet-switching network and laid the foundation for today's global internet infrastructure. The agency bridges the gap between fundamental research and practical military.",
+    "profile_link": "/category/aerospace & defense/organization/ff20d095-48d6-4db7-8fed-62a33d4bfbaa",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "9321db8c-05fb-4d22-b4f3-07e172cda12c",
+    "name": "Rocket Lab",
+    "aliases": [
+      "Rocket Lab"
+    ],
+    "description": "Rocket Lab isn't just making space accessible—they're building a comprehensive ecosystem for the future of space exploration and commerce. While their Electron rocket continues to provide reliable rides to orbit, the company is developing the heavy-lift Neutron rocket, capable of carrying 13-ton payloads, even to interplanetary destinations. They're also expanding their spacecraft offerings, with the Photon platform at the forefront, to support a variety of missions, from Earth observation to deep-space exploration. Rocket Lab is also building solar power systems for spacecraft and developing advanced flight and ground software. Recent achievements, including the successful launch of their 53rd Electron mission, the completion of a second spacecraft for in-space manufacturing company Varda Space Industries, and a mission dedicated to space debris removal, demonstrate the breadth and depth of its growing impact on the space industry.",
+    "profile_link": "/category/aerospace & defense/organization/9321db8c-05fb-4d22-b4f3-07e172cda12c",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "de82ad2d-7b05-4c2b-8270-d0334cafe756",
+    "name": "Blue Origin",
+    "aliases": [
+      "Blue Origin"
+    ],
+    "description": "Blue Origin, founded by Jeff Bezos, envisions a future where millions live and work in space, benefiting Earth in the process. To get there, they're building the infrastructure for a new era of space travel - one that is both accessible and sustainable. The company focuses on reusable rocket technology, epitomized by their New Shepard vehicle, which has already carried out suborbital research missions in collaboration with NASA. But Blue Origin's ambitions reach far beyond. They're developing technologies for lunar exploration, conducting microgravity research, and pushing the boundaries of propulsion systems. Through payload services, they're opening doors for researchers in fields like fluid physics, gravitational biology, and high-altitude science. Blue Origin is laying the foundation for a future where humanity's reach extends far beyond our planet.",
+    "profile_link": "/category/aerospace & defense/organization/de82ad2d-7b05-4c2b-8270-d0334cafe756",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "5daf7223-c0a7-4ab9-b32b-6041ebd91043",
+    "name": "European Space Agency",
+    "aliases": [
+      "European Space Agency"
+    ],
+    "description": "The European Space Agency (ESA) unites 22 nations in a shared pursuit: to explore the cosmos and push the boundaries of human understanding. With a network of laboratories, including the Columbus module on the International Space Station, ESA scientists conduct research across a multitude of disciplines, from observing our own planet to probing the mysteries of the Moon, Mars, and beyond. Their work extends far beyond simply gazing at the stars. ESA develops cutting-edge technologies for telecommunications, Earth observation, and space exploration, bolstering European industry and fostering global scientific collaboration in the process.",
+    "profile_link": "/category/aerospace & defense/organization/5daf7223-c0a7-4ab9-b32b-6041ebd91043",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "b341f908-fff3-4910-bf3f-7586e90fecfc",
+    "name": "Lockheed Martin",
+    "aliases": [
+      "Lockheed Martin Aeronautics Co.",
+      "Lockheed Martin Energy Systems Inc.",
+      "Lockheed Martin (United States)",
+      "Martin Marietta Energy Systems Inc.",
+      "Lockheed Martin Aeronautics",
+      "Lockheed Martin Space Systems Co."
+    ],
+    "description": "Lockheed Martin doesn't just build jets and missiles—it develops the technologies that shape the future of defense. At specialized facilities like the Advanced Technology Laboratories, their engineers and scientists pursue breakthroughs in fields like autonomy, robotics, and artificial intelligence. From countering electromagnetic threats with photonics and advanced computing to harnessing the power of machine learning, Lockheed Martin's research extends across a vast technological landscape. The company's Center for Innovation acts as a central nervous system, connecting its network of labs and research centers to foster collaboration and accelerate the pace of discovery.",
+    "profile_link": "/category/aerospace & defense/organization/b341f908-fff3-4910-bf3f-7586e90fecfc",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "39d1e334-689c-4a6e-8c61-84311f3b32ec",
+    "name": "Boeing",
+    "aliases": [
+      "OpenAI (United States)"
+    ],
+    "description": "Boeing continues to shape the future of aerospace through its Boeing Research & Technology division, investing in sustainability, autonomy, and advanced technologies. Despite recent challenges, the company maintains its focus on innovation, aiming to enhance the safety, efficiency, and environmental impact of air and space travel. Boeing's global network of research centers and university collaborations fosters breakthroughs across multiple disciplines. The company is exploring hydrogen and hybrid-electric aircraft concepts, addressing technical challenges and market viability. In 2023, Boeing expanded its ecoDemonstrator program, evaluating 19 technologies on a 777-200ER, including sustainable components made from recycled carbon fiber and bio-based resin. Additionally, a new Boeing Research & Technology Center in Japan focuses on innovations to support the commercial aviation industry's goal of achieving net-zero carbon emissions by 2050.",
+    "profile_link": "/category/aerospace & defense/organization/39d1e334-689c-4a6e-8c61-84311f3b32ec",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "c40bc4ed-3974-4932-9d23-a9be21cb76f2",
+    "name": "Northrop Grumman",
+    "aliases": [
+      "Northrop Grumman (United States)",
+      "Northrop Grumman"
+    ],
+    "description": "Northrop Grumman's aerospace and defense technologies are developed through its NG Next division, focused on emerging technologies. The company's Advanced Technology Lab in Linthicum, Maryland provides a range of development processes supporting both Northrop Grumman and external clients. Its research portfolio encompasses space systems, cybersecurity, directed energy, autonomous systems, and quantum technologies.",
+    "profile_link": "/category/aerospace & defense/organization/c40bc4ed-3974-4932-9d23-a9be21cb76f2",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "3b803ea8-e668-442f-9271-1a289029eb9a",
+    "name": "RTX",
+    "aliases": [
+      "RTX",
+      "United Technologies",
+      "Raytheon Technologies"
+    ],
+    "description": "RTX, formed in 2020 through the merger of Raytheon and United Technologies, is an aerospace and defense company. Its Technology Research Center (RTRC), staffed by over 11,000 engineers and scientists globally, develops advanced materials, propulsion systems, cybersecurity solutions, quantum information systems, and artificial intelligence. RTX's $7.2 billion annual R&D budget supports these efforts across its four business segments: Collins Aerospace, Pratt & Whitney, Raytheon Intelligence & Space, and Raytheon Missiles & Defense. The company's work spans commercial aviation, military applications, and space exploration, with a focus on reducing CO2 emissions through fuel-efficient engines and sustainable aviation technologies.",
+    "profile_link": "/category/aerospace & defense/organization/3b803ea8-e668-442f-9271-1a289029eb9a",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "45a6db15-e401-4c00-bb40-4c9d8c6288b2",
+    "name": "Airbus",
+    "aliases": [
+      "Airbus (Netherlands)"
+    ],
+    "description": "Airbus Netherlands, with over 200 professionals, contributes to the Airbus group's global aerospace, defense, and related service offerings. Its laboratories conduct research and development for sustainable commercial aerospace technologies, collaborating with industry partners and users worldwide. Airbus Netherlands focuses on innovations in air traffic management, cybersecurity, space-based intelligence, military transport aircraft, satellite communications, unmanned aerial systems, earth observation, and navigation.",
+    "profile_link": "/category/aerospace & defense/organization/45a6db15-e401-4c00-bb40-4c9d8c6288b2",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "eedb6bd2-38de-4c19-bfd6-af01ce013d6c",
+    "name": "General Atomics",
+    "aliases": [
+      "General Atomics (United States)"
+    ],
+    "description": "General Atomics is a leader in advanced technology research and development, with a strong focus on fusion energy, defense systems, and nuclear technologies. The company operates the DIII-D National Fusion Facility for the U.S. Department of Energy, conducts cutting-edge research in advanced fission reactors, and develops state-of-the-art unmanned aircraft systems and electromagnetic technologies. With over 3 million square feet of engineering, laboratory, and manufacturing facilities worldwide, General Atomics is at the forefront of innovation in areas such as fusion technology, aircraft systems, and electromagnetic systems.",
+    "profile_link": "/category/aerospace & defense/organization/eedb6bd2-38de-4c19-bfd6-af01ce013d6c",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "6a41990d-230a-49b7-ac6f-1883ec8a3536",
+    "name": "Thales",
+    "aliases": [
+      "Thales (France)"
+    ],
+    "description": "Thales, a French multinational company, provides electrical systems and services for the aerospace, defense, transportation, and security markets. Its global network of corporate research laboratories, often located on university campuses, facilitates collaboration with research partners. Thales Research & Technology (TRT) leads innovation across the company, focusing on artificial intelligence, cybersecurity, big data, connectivity, autonomous systems, and quantum technology.",
+    "profile_link": "/category/aerospace & defense/organization/6a41990d-230a-49b7-ac6f-1883ec8a3536",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "4f7d4d50-95cd-4a33-baeb-5c5deb017453",
+    "name": "BAE Systems",
+    "aliases": [
+      "BAE Systems (United Kingdom)"
+    ],
+    "description": "BAE Systems, a British multinational defense, security, and aerospace company, invests heavily in R&D, including £1.6 billion in 2020. Its research facilities include FAST Labs (electronic warfare and intelligent autonomy), AI Labs (artificial intelligence and machine learning), and the Microelectronics Center. The company's research legacy dates back to the 1936 Marconi Research Laboratory, now part of BAE Systems' Digital Intelligence business.",
+    "profile_link": "/category/aerospace & defense/organization/4f7d4d50-95cd-4a33-baeb-5c5deb017453",
+    "primaryCategory": "Aerospace & Defense"
+  },
+  {
+    "id": "6e04ddf7-28cb-4aa4-821d-ce3855e0c3b5",
+    "name": "General Motors",
+    "aliases": [
+      "General Motors Co.",
+      "General Motors",
+      "General Motors (United States)",
+      "General Motors Corp."
+    ],
+    "description": "General Motors, founded in 1908, is a global automotive giant focused on research and development. Its R&D team develops technologies related to electric vehicles, autonomous driving, advanced materials, and artificial intelligence. Established in 1955, its research laboratories created the GM-NAA I/O operating system. The company collaborates with institutions like Brown University to develop sustainable and high-performance automotive materials.",
+    "profile_link": "/category/automotive & transportation/organization/6e04ddf7-28cb-4aa4-821d-ce3855e0c3b5",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "38861d8d-1e1b-4638-a627-f03514d19c17",
+    "name": "Continental",
+    "aliases": [
+      "Continental (Germany)"
+    ],
+    "description": "Continental, an automotive supplier and technology company, focuses on transport technologies and connected vehicles. Its Hanover Development Center employs approximately 1,000 researchers, designers, and engineers. Continental led the 2020 European Patent Office's patent index for transport technologies. The company rigorously tests its tires, with new models covering 25 million kilometers annually on test rigs and tracks before production. Continental's research spans autonomous driving, electrification, and software-defined vehicles. Beyond its core facilities, an AI Lab in Berlin and the Taraxagum Lab Anklam research alternative rubber. Continental pioneered vehicle connectivity in 1996 and has since connected over 50 million vehicles.",
+    "profile_link": "/category/automotive & transportation/organization/38861d8d-1e1b-4638-a627-f03514d19c17",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "2306baa6-fdaa-4906-9f47-10fc7c06023b",
+    "name": "BMW",
+    "aliases": [
+      "BMW (Germany)"
+    ],
+    "description": "BMW's Research and Innovation Center (FIZ) in Munich houses over 26,000 employees developing future mobility solutions within a 500,000+ square meter facility. The recent FIZ Nord expansion adds 100 test benches and 200 laboratories, focusing on electrification, digitalization, and sustainability. BMW also maintains a global R&D presence, with centers in China (Shanghai, Beijing, and Shenyang) and Korea.",
+    "profile_link": "/category/automotive & transportation/organization/2306baa6-fdaa-4906-9f47-10fc7c06023b",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "d6bc507b-97e7-4c28-bfae-11e290a41cf6",
+    "name": "Hyundai Motors",
+    "aliases": [
+      "Hyundai Motors (South Korea)"
+    ],
+    "description": "Hyundai Motor Group's R&D efforts center on sustainable mobility, advanced driver assistance systems, and vehicle technologies. The Namyang R&D Center in Hwaseong, Gyeonggi-do, connects Hyundai's local and global research. Hyundai and Kia have restructured their R&D organization to accelerate development of electric and software-defined vehicles using an \"Allianced Tech Organization\" model. Additionally, Hyundai Motor, Kia, and KAIST operate a joint research lab with approximately 30 researchers.",
+    "profile_link": "/category/automotive & transportation/organization/d6bc507b-97e7-4c28-bfae-11e290a41cf6",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "a59b98b6-c8b3-4d4d-926f-6225e9a22f2c",
+    "name": "Tesla",
+    "aliases": [
+      "Tesla (United States)"
+    ],
+    "description": "Tesla, known for its electric vehicles, autonomous driving technologies, and sustainable energy solutions, uses a vertically integrated R&D approach encompassing battery production and software development. Its research facilities include the Tesla Palo Alto research center and the Kato Road battery development facility. Tesla's R&D focuses on electric powertrains, battery technology, autonomous driving, and sustainable energy systems, tapping AI and machine learning.",
+    "profile_link": "/category/automotive & transportation/organization/a59b98b6-c8b3-4d4d-926f-6225e9a22f2c",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "e38734a9-37b9-4be2-93e1-fe1333058626",
+    "name": "Honda",
+    "aliases": [
+      "Honda (Japan)"
+    ],
+    "description": "Honda, a global automotive innovator, conducts R&D through its subsidiary, Honda R&D Co., Ltd. Honda Research Institute Japan focuses on developing intelligent systems for various everyday applications. The company is exploring smart communities, electric vehicles, generative AI, and advanced manufacturing processes. Honda's \"Sales, Engineering, Development\" (SED) system coordinates development across divisions.",
+    "profile_link": "/category/automotive & transportation/organization/e38734a9-37b9-4be2-93e1-fe1333058626",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "30f88ec1-4752-48e6-b965-fff712d681ae",
+    "name": "Baidu",
+    "aliases": [
+      "Baidu (China)"
+    ],
+    "description": "The Chinese technology company focuses on AI, autonomous driving, and cloud computing. Baidu Research operates facilities in Sunnyvale, California, and Beijing, focusing on human-computer interaction using natural language processing, robotics, and autonomous systems. Its Robotics and Autonomous Driving Lab (RAL) develops robotics and autonomous driving technologies. Baidu's work also includes large language models, cross-modal AI, AI chips, and quantum computing.",
+    "profile_link": "/category/advanced technology & computing/organization/30f88ec1-4752-48e6-b965-fff712d681ae",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "0695c781-4bae-4cf2-9a74-ef3de5dfcdd4",
+    "name": "Alphabet",
+    "aliases": [
+      "Alphabet (United States)"
+    ],
+    "description": "Alphabet, headquartered in Mountain View, California, is the parent company of Google and several former Google subsidiaries. Its R&D spans precision health, artificial intelligence, and advanced technologies. Subsidiaries like Verily, X Lab, and DeepMind develop solutions in healthcare, internet accessibility, and other technological fields.",
+    "profile_link": "/category/advanced technology & computing/organization/0695c781-4bae-4cf2-9a74-ef3de5dfcdd4",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "bd1a52d4-d6a4-49a8-8262-55dcd30ffa4c",
+    "name": "Waymo LLC",
+    "aliases": [],
+    "description": "Waymo, a subsidiary of Alphabet Inc. (Google's parent company), was formed in 2009 and is a leader in the development of autonomous driving technology. Leveraging Google's extensive engineering expertise and vast computing resources, Waymo has made significant strides in self-driving technology. The company conducts extensive real-world testing in multiple cities and utilizes private test tracks and advanced simulation environments to develop and validate its autonomous driving systems.",
+    "profile_link": "/category/automotive & transportation/organization/bd1a52d4-d6a4-49a8-8262-55dcd30ffa4c",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "44b218f7-d46d-47a5-adeb-5f3edc09d320",
+    "name": "Renault-Nissan-Mitsubishi Alliance R&D",
+    "aliases": [
+      "Renault-Nissan-Mitsubishi Alliance R&D"
+    ],
+    "description": "The Renault-Nissan-Mitsubishi Alliance, formed in 1999, invests $15 billion annually in R&D and capital expenditures. The Alliance operates 15 manufacturing plants dedicated to next-generation EV technologies and vehicles. Its \"Leader-Follower\" approach optimizes resource sharing and drives innovation in electric vehicles, autonomous driving, and connected technologies. Innovation hubs, including facilities in Tel Aviv and Shanghai, focus on technologies like autonomous driving sensors, cybersecurity, and big data analytics.",
+    "profile_link": "/category/automotive & transportation/organization/44b218f7-d46d-47a5-adeb-5f3edc09d320",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "54c0690a-65ba-55a7-be22-3d62357730c1",
+    "name": "Toyota Central Research and Development Laboratories",
+    "aliases": [
+      "Toyota Central Research and Development Laboratories Inc.",
+      "Toyota Research Institute of North America",
+      "Toyota Boshoku Corporation",
+      "Toyota Motor Corp.",
+      "Toyota Chemical Engineering Co. Ltd.",
+      "Toyota Motor Co.",
+      "Toyota Inc. (Central R&D Lab.)",
+      "Toyota Inc. (Central R&D Lab)"
+    ],
+    "description": "Toyota Central Research and Development Laboratories (TCRDL), established in 1960 in Nagakute, Aichi, Japan, employs approximately 921 people. With a capital of 3 billion yen, TCRDL researches automobile-related technologies, focusing on informatics and mathematical engineering, electrical and electronic engineering, mechanical engineering, and materials science and engineering. The institute collaborates with the Toyota Group and global research organizations.",
+    "profile_link": "/category/automotive & transportation/organization/54c0690a-65ba-55a7-be22-3d62357730c1",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "2bfbfb5f-0ef9-4a87-ae96-cf1e4d8e9d1f",
+    "name": "Ford Motor Company",
+    "aliases": [
+      "Yokohama Research Laboratory",
+      "Ford Motor Company (United States)",
+      "Ford Research Laboratory",
+      "Hughes Research Laboratory"
+    ],
+    "description": "Ford's Research and Advanced Engineering (R&A) division develops future mobility solutions, integrating smart vehicles into a smart world. FordLabs conducts rapid experiments and research to address customer problems. The company's Silicon Valley presence fosters collaboration with technical and design talent. The Ford Robotics Building, a partnership with The University of Michigan, provides facilities for robotics and autonomous systems research.",
+    "profile_link": "/category/automotive & transportation/organization/2bfbfb5f-0ef9-4a87-ae96-cf1e4d8e9d1f",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "df0de3b3-da83-4a2c-98d0-8427ec962967",
+    "name": "Intel",
+    "aliases": [
+      "Intel",
+      "LEL Corp.",
+      "Mitel Corp.",
+      "Ortel Corp.",
+      "Intel (United States)",
+      "Intellifit Corp.",
+      "Mitre Corp.",
+      "Interand Corp.",
+      "IRT Corp."
+    ],
+    "description": "Intel, headquartered in Santa Clara, California, focuses on semiconductor design and manufacturing. Its research organization, Intel Labs, develops technologies related to cloud computing, data center technology, the Internet of Things, artificial intelligence, and advanced computing. Intel Labs addresses current technical challenges and explores future technologies.",
+    "profile_link": "/category/semiconductors & electronics/organization/df0de3b3-da83-4a2c-98d0-8427ec962967",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "017d7d5b-da4d-48b0-96b3-f64138dfc54a",
+    "name": "Robert Bosch",
+    "aliases": [
+      "Robert Bosch (Germany)"
+    ],
+    "description": "Robert Bosch GmbH, a global technology and services company, conducts R&D through Bosch Research, a group of approximately 1,800 experts worldwide. Bosch's research focuses on mobility solutions, artificial intelligence, and sustainable technologies, with an emphasis on practical applications. Its global network of research centers collaborates with universities and industry partners.",
+    "profile_link": "/category/automotive & transportation/organization/017d7d5b-da4d-48b0-96b3-f64138dfc54a",
+    "primaryCategory": "Automotive & Transportation"
+  },
+  {
+    "id": "f8a5d69a-7806-4a61-a839-fe7f7e116594",
+    "name": "IBM",
+    "aliases": [
+      "IBM",
+      "IBM (United States)",
+      "Timex Corp."
+    ],
+    "description": "IBM Research, established in 1945, is the world's largest industrial research organization, with 19 laboratories globally. It has published over 110,000 research papers and focuses on advancements in artificial intelligence, quantum computing, and hybrid cloud technologies. IBM Research emphasizes responsible AI development, open research, and collaboration. Its researchers have received six Nobel Prizes and six Turing Awards.",
+    "profile_link": "/category/advanced technology & computing/organization/f8a5d69a-7806-4a61-a839-fe7f7e116594",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "81b4932e-a48b-4cbf-92c7-e464df4a46f6",
+    "name": "Microsoft",
+    "aliases": [
+      "Microsoft (United States)",
+      "Microsoft Corp."
+    ],
+    "description": "Founded in 1991, Microsoft Research continues to advance computing through fundamental and applied research. With over 1,000 researchers worldwide, including Turing Award and Fields Medal winners, it has contributed to various fields of computer science and technology. Microsoft Research operates labs globally, including facilities in Redmond, New York City, Cambridge (UK), and Asia, focusing on artificial intelligence, quantum computing, and sustainable technologies. The organization collaborates with academia and industry, publishes research, and integrates its findings into Microsoft's products and services. Its estimated annual research budget has been $10-14 billion since 2010.",
+    "profile_link": "/category/advanced technology & computing/organization/81b4932e-a48b-4cbf-92c7-e464df4a46f6",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "06950b5f-8419-499b-984f-41b662667f15",
+    "name": "OpenAI",
+    "aliases": [
+      "OpenAI (United States)"
+    ],
+    "description": "OpenAI, founded in 2015, is an AI research laboratory focused on ensuring artificial general intelligence (AGI) benefits humanity. It has made breakthroughs in machine learning, particularly in natural language processing, generative AI, and reasoning capabilities. OpenAI developed AI models such as GPT-4, DALL·E, Codex, Sora, and the o1 series. The organization combines cutting-edge research, AI safety and ethics, and strategic partnerships to advance AI capabilities across text, image, audio, and video generation. Recent work emphasizes AI reasoning and the safe use of multimodal AI models in scientific settings, exemplified by its collaboration with Los Alamos National Laboratory.",
+    "profile_link": "/category/advanced technology & computing/organization/06950b5f-8419-499b-984f-41b662667f15",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "d8e365bb-f015-4bc8-b4a1-b769c11bd14f",
+    "name": "Samsung Group",
+    "aliases": [
+      "Samsung Group"
+    ],
+    "description": "Samsung's R&D is led by Samsung Research, the hub for its SET (End-products) Business, and the Samsung Advanced Institute of Technology (SAIT). These entities focus on short-term product innovation and long-term breakthrough technologies. Samsung Research America collaborates with partners in Silicon Valley and across the US. Samsung's R&D encompasses next-generation communications, artificial intelligence, digital media, mobile platforms, and semiconductor technologies.",
+    "profile_link": "/category/advanced technology & computing/organization/d8e365bb-f015-4bc8-b4a1-b769c11bd14f",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "4eefe25c-308f-4401-90f8-6cc2d380d549",
+    "name": "Amazon",
+    "aliases": [
+      "Amazon (United States)"
+    ],
+    "description": "Amazon's R&D spans numerous technologies, particularly artificial intelligence and machine learning. Through Amazon Web Services (AWS), it offers AI and ML services, including custom chips like AWS Trainium and Inferentia. Amazon's research covers natural language processing, computer vision, speech recognition, and robotics. The company focuses on energy-efficient ML accelerators and tools for bias detection and fairness. Amazon Lab126, founded in 2004, leads R&D in consumer electronics and AI. Its R&D efforts are integrated across its e-commerce, cloud computing, logistics, and personalized customer experience platforms while supporting sustainability goals and democratizing AI access.",
+    "profile_link": "/category/advanced technology & computing/organization/4eefe25c-308f-4401-90f8-6cc2d380d549",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "f8c3a9b1-6d2e-4f7a-9c5d-8b3e7a2d1c4f",
+    "name": "Meta Platforms, Inc.",
+    "aliases": [
+      "IBM (United States)"
+    ],
+    "description": "Meta's R&D is conducted through Meta AI Research and Reality Labs, which bring together experts to advance artificial intelligence, virtual and augmented reality, and social connection technologies. Meta focuses on addressing real-world problems with its research and uses AI to improve product experiences.",
+    "profile_link": "/category/advanced technology & computing/organization/f8c3a9b1-6d2e-4f7a-9c5d-8b3e7a2d1c4f",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "3c0e5979-4391-4906-9044-15493bdb6538",
+    "name": "Apple",
+    "aliases": [
+      "Apple (United States)"
+    ],
+    "description": "Apple's R&D in AI and related fields emphasizes user privacy, on-device processing, and seamless integration of AI technologies. Its machine learning teams research computer vision, natural language processing, speech recognition, and augmented reality. Apple operates numerous R&D centers globally, including the Apple Multimedia Lab, founded in 1987. Apple Developer Centers host developer sessions, labs, and workshops. Apple integrates AI technologies into products like Siri, Face ID, and Apple Maps.",
+    "profile_link": "/category/advanced technology & computing/organization/3c0e5979-4391-4906-9044-15493bdb6538",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "bfbb6344-47ef-4f05-8ffc-25c811de26eb",
+    "name": "Qualcomm",
+    "aliases": [
+      "Qualcomm (United States)",
+      "Qualcomm"
+    ],
+    "description": "Qualcomm Research, Qualcomm's R&D arm, focuses on wireless technology. With over $95 billion invested in R&D since its inception, Qualcomm has pioneered wireless innovations for decades. Its research covers 5G and 6G, mobile processors, IoT, autonomous vehicles, and extended reality (XR). R&D investment accounts for nearly 20% of Qualcomm's annual revenue since 2006. Programs like the Qualcomm Thinkabit Lab encourage student inventors. Qualcomm collaborates with academic institutions, including the Qualcomm Institute at UC San Diego.",
+    "profile_link": "/category/semiconductors & electronics/organization/bfbb6344-47ef-4f05-8ffc-25c811de26eb",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "7d568a5a-1927-5124-85b5-43aa4b876b90",
+    "name": "Huawei Technologies",
+    "aliases": [
+      "Huawei",
+      "Huawei Technologies"
+    ],
+    "description": "Huawei Technologies, a telecommunications equipment and consumer electronics company, focuses on AI research and development. It developed the Pangu large language models, the HarmonyOS NEXT AI-native operating system, and AI hardware like the Atlas 900 AI supercomputing cluster. Huawei's AI research includes network intelligence, embodied AI, and optoelectronics. The company has invested over CNY 1.11 trillion in R&D in the past decade. Its research centers, including the Lianqiu Lake R&D Center and the Beijing Research Center, house thousands of scientists and engineers. The Inspiration Lab (iLab) focuses on optical technology innovation, and its global research centers contribute to advancements in 5G/6G, IoT, and smart city technologies.",
+    "profile_link": "/category/advanced technology & computing/organization/7d568a5a-1927-5124-85b5-43aa4b876b90",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "b48e18d5-e406-4f7b-a061-940008b717df",
+    "name": "Nvidia",
+    "aliases": [
+      "Nvidia (United States)"
+    ],
+    "description": "NVIDIA Research advances AI across 26 disciplines, focusing on GPU architectures, deep learning, AI hardware acceleration, autonomous systems, and graphics rendering. Its contributions span high-performance computing, computer vision, robotics, and applied perception. NVIDIA collaborates with academic institutions and operates a global network of research facilities. Its research areas include 3D deep learning, algorithms and numerical methods, and AI and machine learning.",
+    "profile_link": "/category/semiconductors & electronics/organization/b48e18d5-e406-4f7b-a061-940008b717df",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "5d3bb050-9c59-46d7-ae21-1c5602b95031",
+    "name": "Vector Institute",
+    "aliases": [
+      "Vector Institute"
+    ],
+    "description": "The Vector Institute bridges academic AI research and industry applications. It attracts AI and machine learning researchers and focuses on machine learning, deep learning, and their applications in health, science, and responsible AI development. The institute fosters collaboration among researchers, startups, enterprises, and health partners, promoting responsible AI practices.",
+    "profile_link": "/category/advanced technology & computing/organization/5d3bb050-9c59-46d7-ae21-1c5602b95031",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "33ec96f7-91de-44a7-8002-1d4d8894418f",
+    "name": "Allen Institute for Artificial Intelligence",
+    "aliases": [
+      "Allen Institute for Artificial Intelligence"
+    ],
+    "description": "The Allen Institute for Artificial Intelligence (AI2), founded in 2013 by Paul G. Allen, is a nonprofit research institute advancing AI for the benefit of humanity. Led by CEO Ali Farhadi, AI2 conducts research and engineering across various AI domains using an open science approach. Its research spans natural language processing, computer vision, machine learning, and reasoning, with a recent focus on large language models, environmental applications of AI, and AI ethics. AI2 has created benchmarks, datasets, and open-source tools for the AI community.",
+    "profile_link": "/category/advanced technology & computing/organization/33ec96f7-91de-44a7-8002-1d4d8894418f",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "cf361ab8-7a7a-43aa-a338-13dcdec659d4",
+    "name": "Tencent",
+    "aliases": [
+      "Tencent (China)"
+    ],
+    "description": "Tencent AI Lab, established in 2016, focuses on AI research and applications. Core research areas include computer vision, speech technology, natural language processing (NLP), and machine learning. Its Applied Research Center (ARC) works on speech/video generation, enhancement, and retrieval. Tencent AI Lab integrates these technologies into products like WeChat, QQ, Tencent News, and QQ Music. It also explores AI applications in life sciences, healthcare, agriculture, and manufacturing. Tencent Media Lab conducts R&D in multimedia technologies. Tencent AI Lab collaborates with academic institutions and contributes to the AI research community.",
+    "profile_link": "/category/advanced technology & computing/organization/cf361ab8-7a7a-43aa-a338-13dcdec659d4",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "25fb3c5f-368c-42ea-aba2-25e411ca38a7",
+    "name": "Fraunhofer Society",
+    "aliases": [
+      "Fraunhofer Society"
+    ],
+    "description": "The Fraunhofer Society, Europe's largest application-oriented research organization, comprises 76 institutes in Germany. Each institute focuses on a different field of applied science, including energy, health, environment, communication, security, and transportation. The organization partners with industry and facilitates technology transfer. Fraunhofer USA extends its research and collaborations internationally.",
+    "profile_link": "/category/energy, environment & sustainability/organization/25fb3c5f-368c-42ea-aba2-25e411ca38a7",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "e886f747-f186-4d38-b2f8-30c8debfddc0",
+    "name": "Pacific Northwest National Laboratory",
+    "aliases": [
+      "PNNL"
+    ],
+    "description": "Pacific Northwest National Laboratory (PNNL), a US Department of Energy research facility, conducts R&D in chemistry, data analytics, Earth science, and technological innovation. Focusing on sustainable energy, national security, environmental molecular sciences, and scientific discovery, PNNL develops technologies addressing challenges in the energy, environment, and national security sectors.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/e886f747-f186-4d38-b2f8-30c8debfddc0",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
+    "name": "NSF National Center for Atmospheric Research",
+    "aliases": [
+      "NSF National Center for Atmospheric Research"
+    ],
+    "description": "The National Center for Atmospheric Research (NCAR) advances understanding of Earth's atmosphere, climate, and related systems. Managed by UCAR and sponsored by the NSF, NCAR conducts research across eight specialized laboratories and programs, covering topics ranging from the Sun's influence on Earth's atmosphere to climate modeling. NCAR utilizes facilities like the Mesa Laboratory in Boulder, Colorado, and the NCAR-Wyoming Supercomputing Center, home to the \"Derecho\" supercomputer. The center combines observational capabilities, supercomputing resources, and community weather and climate models.",
+    "profile_link": "/category/energy, environment & sustainability/organization/c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "59f5a5a6-04de-4bef-8e14-060d1b4c7d9c",
+    "name": "National Renewable Energy Laboratory",
+    "aliases": [
+      "NREL",
+      "National Renewable Energy Laboratory (U.S. Dept. of Energy)",
+      "National Renewable Energy Laboratory",
+      "National Energy Technology Lab",
+      "Idaho National Engineering Laboratory (U.S. Dept. of Energy)",
+      "National Energy Technology Laboratory (U.S. Dept. of Energy)",
+      "Energy Technology Center (U.S. Dept. of Energy)",
+      "National Energy Technology Laboratory"
+    ],
+    "description": "The National Renewable Energy Laboratory (NREL), the US Department of Energy's primary laboratory for renewable energy and energy efficiency, advances the science and engineering of energy efficiency, sustainable transportation, and renewable power technologies. NREL develops and integrates energy system solutions, conducting research ranging from fundamental science to technology solutions to address global energy challenges.",
+    "profile_link": "/category/energy, environment & sustainability/organization/59f5a5a6-04de-4bef-8e14-060d1b4c7d9c",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "ff15731d-9257-4018-87e5-bf00dc361f33",
+    "name": "Lawrence Berkeley National Laboratory",
+    "aliases": [
+      "Berkeley Lab",
+      "Lawrence Berkeley National Laboratory",
+      "LBNL"
+    ],
+    "description": "Lawrence Berkeley National Laboratory (LBNL), a federally funded R&D center in Berkeley, California, conducts multidisciplinary research in fields like computation, biology, chemistry, and astrophysics. LBNL develops energy technologies to address climate challenges in buildings, transportation, and industrial sectors. Its research spans advanced materials, life sciences, energy efficiency, detectors, and accelerators.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/ff15731d-9257-4018-87e5-bf00dc361f33",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "ef84a311-3a1c-4d37-ba66-d3cd5fe5de4e",
+    "name": "Oak Ridge National Laboratory",
+    "aliases": [
+      "Idaho National Laboratory",
+      "Oak Ridge National Laboratory (Dept. of Energy)",
+      "Argonne National Laboratory",
+      "Argonne National Laboratory (U.S. Dept. of Energy), Ionwerks",
+      "ORNL",
+      "Oak Ridge National laboratory",
+      "Oak Ridge National Laboratory",
+      "Oak Ridge National Laboratory (U.S. Dept. of Energy)"
+    ],
+    "description": "Oak Ridge National Laboratory (ORNL), the US Department of Energy's largest multi-disciplinary research institution, delivers scientific discoveries and technical innovations. A world-leading neutron and nuclear power research facility, ORNL houses the Spallation Neutron Source and the High Flux Isotope Reactor. Its research portfolio includes clean energy, climate change mitigation, advanced materials, high-performance computing, neutron science, nuclear science and engineering, and isotope production.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/ef84a311-3a1c-4d37-ba66-d3cd5fe5de4e",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "964cccdb-2ea6-43ba-872e-9548fc669a73",
+    "name": "Argonne National Laboratory",
+    "aliases": [
+      "United States Department of Energy Office of Science Argonne National Laboratory"
+    ],
+    "description": "Argonne National Laboratory is a multidisciplinary science and engineering research center, addressing crucial challenges in clean energy, environment, technology, and national security. Founded in 1946 as the first national laboratory in the United States, Argonne has a rich history of pioneering scientific discoveries and technological innovations. The lab is known for its multidisciplinary approach, cutting-edge facilities, focus on impactful research, and strong emphasis on entrepreneurship and technology transfer.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/964cccdb-2ea6-43ba-872e-9548fc669a73",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "1fc743a5-7d49-45a4-ac5e-967339fc7bbd",
+    "name": "Brookhaven National Laboratory",
+    "aliases": [],
+    "description": "Brookhaven National Laboratory (BNL) is a multi-program national laboratory operated by Brookhaven Science Associates for the U.S. Department of Energy. It conducts research in the physical, biomedical, and environmental sciences, as well as in energy technologies and national security.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/1fc743a5-7d49-45a4-ac5e-967339fc7bbd",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
+    "name": "Stanford University",
+    "aliases": [
+      "Leland Stanford Junior University",
+      "Stanford",
+      "Stanford U"
+    ],
+    "description": "Stanford University, a private research institution founded in 1885, operates over 70 research labs and 15 independent research institutes and centers. Stanford's interdisciplinary research ecosystem addresses complex global challenges, with notable contributions to energy research, artificial intelligence, biomedical sciences, and high-energy physics.",
+    "profile_link": "/category/universities/organization/ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "4ba85440-7518-493c-a902-01e468bbd573",
+    "name": "Massachusetts Institute of Technology",
+    "aliases": [
+      "MIT Mobility Lab (M.I.T)",
+      "MIT",
+      "Massachusetts Institute of Technology (M.I.T.) (Lincoln Laboratory)",
+      "Massachusetts Institute of Technology (M.I.T.), Teradyne Inc.",
+      "Massachusetts Institute of Technology (M.I.T)",
+      "Massachusetts Institute of Technology (M. I. T.)",
+      "Massachusetts Institute of Technology (M.I.T.)",
+      "Kinetrix Inc., Massachusetts Institute of Technology (M.I.T.)",
+      "M.I.T.",
+      "Massachusetts Institute of Technology"
+    ],
+    "description": "MIT, a private research university founded in 1861 in Cambridge, Massachusetts, is known for its research and education in science, technology, engineering, mathematics, and other fields. Its laboratories, centers, and institutes drive innovation across various disciplines. MIT houses facilities like the McGovern Institute for Brain Research, Microsystems Technology Laboratories, and the MIT Media Lab, which develops novel uses of computer technology. Its research spans brain science, artificial intelligence, energy solutions, and artistic collaborations.",
+    "profile_link": "/category/universities/organization/4ba85440-7518-493c-a902-01e468bbd573",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "09140461-1fc7-4f68-9551-8d4c76792dda",
+    "name": "Joint Research Centre",
+    "aliases": [
+      "Joint Research Centre"
+    ],
+    "description": "The European Commission's Joint Research Centre (JRC) provides independent scientific and technical support for EU policy. With over 2,000 staff members across six sites in five EU countries, the JRC uses a multidisciplinary approach and state-of-the-art facilities. Its work encompasses environmental safety, secure energy, sustainable mobility, and consumer protection. The JRC maintains research infrastructures and laboratories, promotes open access for researchers, and focuses on digital transformation and emerging technologies.",
+    "profile_link": "/category/energy, environment & sustainability/organization/09140461-1fc7-4f68-9551-8d4c76792dda",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "427f74b3-fb58-4db7-952e-bd393b029370",
+    "name": "Woods Hole Oceanographic Institution",
+    "aliases": [
+      "Woods Hole Oceanographic Institution"
+    ],
+    "description": "Woods Hole Oceanographic Institution (WHOI), founded in 1930, is an independent ocean research, technology, and education organization. WHOI scientists operate various labs and groups, integrating science, engineering, and ship operations to conduct oceanographic and marine science research. The institution focuses on climate change impacts, ocean innovation, and technology development.",
+    "profile_link": "/category/energy, environment & sustainability/organization/427f74b3-fb58-4db7-952e-bd393b029370",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "b8e5ff0d-45a7-43aa-b1f2-901cdc208385",
+    "name": "International Institute for Applied Systems Analysis",
+    "aliases": [
+      "International Institute for Applied Systems Analysis"
+    ],
+    "description": "IIASA, an international research institute, advances systems analysis and develops policy solutions to address global challenges like climate change, energy security, and sustainable development. With 348 researchers from 50 countries, IIASA uses an integrated systems approach. Its work spans six research programs, each with multiple research groups, focusing on interdisciplinary research.",
+    "profile_link": "/category/energy, environment & sustainability/organization/b8e5ff0d-45a7-43aa-b1f2-901cdc208385",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "a605662e-d683-4f40-ae58-cd36184c5665",
+    "name": "Sandia National Laboratories",
+    "aliases": [
+      "Sandia",
+      "Sandia Labs"
+    ],
+    "description": "Sandia National Laboratories, a US Department of Energy research facility, solves national security challenges through science and engineering. Focusing on systems-engineering solutions, Sandia's multidisciplinary approach addresses nuclear deterrence, global security, energy technologies, and scientific research. Its work encompasses computational biology, physics, materials science, alternative energy, psychology, and microelectromechanical systems (MEMS).",
+    "profile_link": "/category/multidisciplinary research institutes/organization/a605662e-d683-4f40-ae58-cd36184c5665",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "138d2822-8c80-4eaa-a207-e1e23804ce2f",
+    "name": "Siemens",
+    "aliases": [
+      "Siemens (Germany)"
+    ],
+    "description": "Siemens AG, a German multinational conglomerate, focuses on industrial innovation and technological advancement. With Europe's largest private power engineering research lab (established in Erlangen in 1965), Siemens invests in R&D addressing global challenges in energy transition, sustainability, and digital transformation. Its research activities span power engineering, industrial AI, and advanced manufacturing technologies. Siemens operates numerous research centers, testing laboratories, and specialized facilities, including the Siemens AI Lab, which explores industrial AI applications.",
+    "profile_link": "/category/advanced technology & computing/organization/138d2822-8c80-4eaa-a207-e1e23804ce2f",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "97b98653-1884-45bd-b32d-0234a3f02123",
+    "name": "Honeywell",
+    "aliases": [
+      "Intel (United States)"
+    ],
+    "description": "Honeywell International Inc., headquartered in Charlotte, North Carolina, operates in aerospace, building technologies, performance materials and technologies, and safety and productivity solutions. Honeywell focuses on energy transition, automation, and sustainable technologies. Its R&D concentrates on performance-grade solvents, inorganics for laboratory use, and chemicals that enhance product safety, hygiene, reliability, and durability. Its Honeywell Research Chemicals division provides products and solutions for laboratory and research applications.",
+    "profile_link": "/category/energy, environment & sustainability/organization/97b98653-1884-45bd-b32d-0234a3f02123",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "daa0f1b5-aafd-42c5-bbdd-37fb38433815",
+    "name": "Novo Nordisk",
+    "aliases": [
+      "Novo Nordisk (Denmark)"
+    ],
+    "description": "Novo Nordisk, a global healthcare company founded in 1923 and headquartered in Denmark, has emerged as a biopharma heavyweight thanks to its work on GLP-1 therapies for obesity and diabetes. Its R&D centers on early drug discovery and developing innovative therapies. Novo Nordisk maintains early drug discovery laboratories and facilities for production upscaling and clinical trial medicine formulation. Its research extends beyond its core areas into new therapeutic domains.",
+    "profile_link": "/category/life sciences & biotechnology/organization/daa0f1b5-aafd-42c5-bbdd-37fb38433815",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "59daa27a-5a2b-44ad-b5e4-da2ff5a9ebc1",
+    "name": "Eli Lilly",
+    "aliases": [
+      "Eli Lilly (United States)"
+    ],
+    "description": "Eli Lilly and Company, founded in 1876, is a quickly-growing Big Pharma company headquartered in Indianapolis. With a 2023 R&D investment of $9.31 billion, Lilly focuses on diabetes care, oncology, immunology, and neurodegenerative diseases. The company aims to launch 20 new medicines between 2014 and 2023 and is developing genetic medicines, RNA therapeutics, and gene therapies. Its R&D network includes Gateway Labs and innovation centers like the Lilly Seaport Innovation Center in Boston, its hub for genetic medicines research.",
+    "profile_link": "/category/life sciences & biotechnology/organization/59daa27a-5a2b-44ad-b5e4-da2ff5a9ebc1",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "4a6de86a-309a-4242-9e91-4eda79135ccd",
+    "name": "Roche",
+    "aliases": [
+      "Roche (Switzerland)"
+    ],
+    "description": "Roche, a global healthcare company, invested CHF 13.2 billion in R&D in 2023. Its Basel research center houses over 1,800 scientists from nearly 60 countries, and its Zurich facility employs about 185 research scientists. Roche's R&D spans 17 countries across four continents, focusing on oncology, personalized medicine, genomic sequencing, diagnostics, and digital health solutions. The company integrates diagnostics and pharmaceuticals and held 336 active patent families in 2023. Roche leads Swiss companies in patent applications and ranks 24th globally across all industries.",
+    "profile_link": "/category/life sciences & biotechnology/organization/4a6de86a-309a-4242-9e91-4eda79135ccd",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "71976d86-b57f-4cb3-aea7-a4bf38d63a1b",
+    "name": "Johnson & Johnson",
+    "aliases": [
+      "Johnson & Johnson (United States)"
+    ],
+    "description": "Johnson & Johnson, founded in 1886, focuses on innovative medicine and medical technology. Its R&D encompasses immunology, oncology, neuroscience, and infectious diseases, using technologies like AI and precision medicine. J&J's innovation ecosystem includes JLABS, a life science incubator and accelerator program. The company invests in R&D through its research facilities and collaborations with academic institutions.",
+    "profile_link": "/category/life sciences & biotechnology/organization/71976d86-b57f-4cb3-aea7-a4bf38d63a1b",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "d5c78a9e-4dc7-4cc5-b75c-8dcb62139dda",
+    "name": "Medtronic",
+    "aliases": [
+      "Medtronic (United States)"
+    ],
+    "description": "Medtronic, a global healthcare technology company specializing in medical devices and therapies, invested $2.74 billion in R&D and held 202 active patent families in 2023. Its technologies address over 70 health conditions, integrating AI, data analytics, and robotics into healthcare. Medtronic's innovation strategy includes an AI Center of Excellence, an Innovation Lab, and strategic partnerships. Medtronic LABS' SPICE, an open-source digital platform, uses machine learning to improve healthcare delivery in underserved communities.",
+    "profile_link": "/category/life sciences & biotechnology/organization/d5c78a9e-4dc7-4cc5-b75c-8dcb62139dda",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "22bcc0db-daca-4194-acbd-5dbe7ab1449f",
+    "name": "MSD",
+    "aliases": [
+      "MSD (United States)"
+    ],
+    "description": "MSD (United States), also known as Merck & Co., is a multinational pharmaceutical company with over 130 years of history. The company invested $12.2 billion in R&D in 2021. Its research network includes hubs in New Jersey, Pennsylvania, Massachusetts, and California. MSD uses AI, machine learning, and data science to accelerate drug discovery and development, focusing on oncology, vaccines, infectious diseases, immunology, and neuroscience. The Merck Digital Sciences Studio and IDEA Studios support early-stage biomedical startups.",
+    "profile_link": "/category/life sciences & biotechnology/organization/22bcc0db-daca-4194-acbd-5dbe7ab1449f",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "99db831c-a63c-4271-90c1-367b6c81928c",
+    "name": "Intuitive Surgical",
+    "aliases": [
+      "Intuitive Surgical (United States)"
+    ],
+    "description": "Intuitive Surgical, headquartered in Sunnyvale, California, develops robotic-assisted surgery technologies, including the da Vinci Surgical System and Ion endoluminal system. In 2023, Intuitive invested $998.8 million in R&D and held 216 active patent families. Its research focuses on advancing robotic-assisted surgery using AI, machine learning, and data-driven insights. R&D areas include AI-assisted surgical guidance, 3D modeling for pre-operative planning, data-driven personalized learning for surgeons, and advanced visualization tools. Intuitive operates in 71 countries with over 8,600 da Vinci systems installed worldwide and over 14,000 employees.",
+    "profile_link": "/category/life sciences & biotechnology/organization/99db831c-a63c-4271-90c1-367b6c81928c",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "d77cec67-0ad5-445b-9cef-54f37895aad1",
+    "name": "Boston Scientific",
+    "aliases": [
+      "Boston Scientific Corporation"
+    ],
+    "description": "Boston Scientific is dedicated to transforming lives through innovative medical solutions that improve the health of patients around the world. The company focuses on medical device innovation, particularly in areas like cardiovascular, endoscopy, neurology, and urology. With an annual R&D investment of $1.4 billion, Boston Scientific launched nearly 90 new products in 2023 alone. The company emphasizes 'meaningful innovation' as a core value, addressing unmet patient and physician needs through product development, process improvement, and fostering an innovative culture. Boston Scientific collaborates extensively with physicians and healthcare institutions, running over 150 clinical trials worldwide and operating nine Institute for Advancing Science locations for hands-on physician training.",
+    "profile_link": "/category/life sciences & biotechnology/organization/d77cec67-0ad5-445b-9cef-54f37895aad1",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "8e88a861-e5c1-4ccd-a74f-3eea2882b309",
+    "name": "Regeneron",
+    "aliases": [
+      "Amgen (United States)"
+    ],
+    "description": "Regeneron Pharmaceuticals, headquartered in Tarrytown, New York, develops innovative medicines for serious medical conditions. Its research spans eye diseases, allergic and inflammatory diseases, cancer, cardiovascular and metabolic diseases, pain, and infectious diseases. Regeneron uses its VelociSuite technologies to accelerate drug discovery and development. The Regeneron Genetics Center, one of the world's largest genetics sequencing efforts, helps identify and validate drug targets. Regeneron invested $4.44 billion in R&D in 2023.",
+    "profile_link": "/category/life sciences & biotechnology/organization/8e88a861-e5c1-4ccd-a74f-3eea2882b309",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "8e636ef9-6ae1-5239-a748-d9713e767dbe",
+    "name": "Siemens Healthineers",
+    "aliases": [
+      "Siemens Medical Solutions",
+      "Siemens Healthcare"
+    ],
+    "description": "Siemens Healthineers, a global medical technology company, drives digital transformation through AI, precision medicine, and healthcare automation. It invests about 8.5% of its annual revenue (€1.8 billion) in R&D and holds over 23,000 intellectual property rights, including 15,000 patents. Its R&D spans laboratory diagnostics, imaging systems, and AI-driven healthcare solutions. The company's UK and Ireland R&D team develops healthcare breakthroughs. Siemens Healthineers also operates the Siemens Clinical Laboratory (SCL), specializing in complex testing solutions.",
+    "profile_link": "/category/life sciences & biotechnology/organization/8e636ef9-6ae1-5239-a748-d9713e767dbe",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "5108b109-4d69-4567-bbcb-2383cfa94811",
+    "name": "GE HealthCare",
+    "aliases": [
+      "GE HealthCare (USA)"
+    ],
+    "description": "GE HealthCare, headquartered in Chicago, focuses on diagnostic imaging, patient care solutions, and pharmaceutical diagnostics. Its R&D efforts advance medical imaging technologies, AI-enabled healthcare solutions, and 5G applications for remote patient care. GE HealthCare's research covers diagnostic imaging, MRI technologies, ultrasound systems, imaging software, patient monitoring systems, contrast media, and molecular imaging agents. The company invested $1.21 billion in R&D in 2023, focusing on AI-enabled medical devices and imaging technologies.",
+    "profile_link": "/category/life sciences & biotechnology/organization/5108b109-4d69-4567-bbcb-2383cfa94811",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "ee78224a-9984-4620-9ae9-22e44685c076",
+    "name": "Edwards Lifesciences",
+    "aliases": [
+      "Edwards Lifesciences (United States)"
+    ],
+    "description": "Headquartered in Irvine, California, Edwards Lifesciences develops medical innovations for structural heart disease, critical care, and surgical monitoring. Its R&D focuses on advanced cardiovascular technologies, including transcatheter and surgical heart valves, heart valve repair systems, and hemodynamic monitoring solutions. The company also researches investigational devices and new treatments for cardiovascular diseases. Edwards Lifesciences collaborates with academic institutions, including the Edwards Lifesciences Foundation Cardiovascular Innovation and Research Center at the University of California, Irvine.",
+    "profile_link": "/category/life sciences & biotechnology/organization/ee78224a-9984-4620-9ae9-22e44685c076",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "20750c6e-e802-4e91-bd86-6754f097a65a",
+    "name": "Stryker",
+    "aliases": [
+      "Stryker (United States)"
+    ],
+    "description": "Stryker, a medical technology company headquartered in Kalamazoo, Michigan, specializes in orthopedic implants, medical and surgical equipment, and neurotechnology. With a 2023 R&D investment of $1.39 billion and 146 active patent families, Stryker recently opened the Stryker Global Technology Centre (SGTC). Its BioSkills Lab and Mobile Lab provide product training for surgeons and healthcare professionals. Under CEO Kevin A. Lobo, Stryker has grown significantly since 2012.",
+    "profile_link": "/category/life sciences & biotechnology/organization/20750c6e-e802-4e91-bd86-6754f097a65a",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "59717eed-48ab-4128-a1e5-d9f394da4e22",
+    "name": "Amgen",
+    "aliases": [
+      "Amgen (United States)"
+    ],
+    "description": "Amgen, a biotechnology company, discovers, develops, manufactures, and delivers human therapeutics. The company focuses on understanding human biology and addressing unmet medical needs. Its second-largest R&D facility focuses on therapeutics for serious illnesses. Amgen scientists integrate AI and advanced computing to enhance drug discovery, improve clinical trials, and increase efficiency. Their work ranges from studying DNA to working with patients in clinical trials.",
+    "profile_link": "/category/life sciences & biotechnology/organization/59717eed-48ab-4128-a1e5-d9f394da4e22",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "79004d42-6176-4a03-92bc-078953d5c0d4",
+    "name": "Thermo Fisher Scientific",
+    "aliases": [
+      "Thermo Fisher Scientific (United States)",
+      "Thermo Fisher Scientific"
+    ],
+    "description": "Thermo Fisher Scientific, an American multinational corporation, focuses on R&D in genomics, proteomics, and precision medicine. Its research spans life sciences, analytical instruments, specialty diagnostics, and laboratory products. Thermo Fisher develops next-generation sequencing technologies, advanced mass spectrometry instruments, and automation solutions for diagnostic testing and cell therapy applications. Its R&D efforts advance translational omics, biobanking, and sustainable laboratory practices.",
+    "profile_link": "/category/life sciences & biotechnology/organization/79004d42-6176-4a03-92bc-078953d5c0d4",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "53b6d4d9-e34d-5f8f-994a-f850c4d0ee05",
+    "name": "Chinese Academy of Sciences",
+    "aliases": [
+      "Eesti Teaduste Akadeemia",
+      "ETA"
+    ],
+    "description": "The Chinese Academy of Sciences (CAS) is China's premier research institution, spearheading scientific research and innovation across a wide spectrum of disciplines. With over 100 research institutes, 3 universities, and numerous key laboratories, CAS drives breakthrough science and technology in fields such as quantum physics, biotechnology, nanotechnology, and environmental science. The academy's Innovation 2020 programme and strategic initiatives like the Pioneer Initiative focus on cutting-edge research and its application to national priorities and societal needs. CAS emphasizes basic research in molecular structures, nanodevices, and nanomaterials applications, as evidenced by its Key Laboratory of Molecular Nanostructure and Nanotechnology. The academy also excels in developing advanced research infrastructure, including the Beijing Electron Positron Collider and the FAST Radio Telescope, supporting its multidisciplinary research efforts.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/53b6d4d9-e34d-5f8f-994a-f850c4d0ee05",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "6ae04ed3-c127-4adb-95b9-fc36f07cc126",
+    "name": "Max Planck Society",
+    "aliases": [
+      "Max Planck Society"
+    ],
+    "description": "The Max Planck Society is Germany's premier, non-university research organization dedicated to cutting-edge research across 84 Max Planck Institutes. It conducts basic research in natural sciences, life sciences, social sciences, and humanities, with a strong focus on interdisciplinary approaches. The Society's institutes are at the forefront of innovative research, from neural circuits mediating planning and decisions for goal-directed spatial navigation to disorders of neural circuit function. Each institute houses multiple specialized research labs, fostering a collaborative environment for groundbreaking discoveries.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/6ae04ed3-c127-4adb-95b9-fc36f07cc126",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "70d1c521-cad5-4feb-8040-f49b664c59f7",
+    "name": "Weizmann Institute of Science",
+    "aliases": [
+      "Weizmann Institute of Science"
+    ],
+    "description": "The Weizmann Institute of Science, a multidisciplinary research institution located in Rehovot, Israel, conducts research in the natural and exact sciences. With 250 experimental and theoretical research groups across five faculties, the institute's research spans fields from cancer immunotherapy to particle physics. The Weizmann Institute ranked second globally in the Nature Index. Its technology transfer arm, Yeda Research and Development Company, translates basic research into practical applications.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/70d1c521-cad5-4feb-8040-f49b664c59f7",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "15cf8b0f-2911-461e-987f-c116e44dc1f9",
+    "name": "Indian Institute of Science Bangalore",
+    "aliases": [
+      "Indian Institute of Science Bangalore"
+    ],
+    "description": "The Indian Institute of Science (IISc) Bangalore conducts R&D across various scientific and engineering disciplines. With over 40 departments and centers across six divisions, IISc fosters interdisciplinary collaboration and innovation. Its research labs, staffed by faculty and students, focus on specific areas of study. IISc produces thousands of publications and numerous patents annually.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/15cf8b0f-2911-461e-987f-c116e44dc1f9",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "8e8b3bc3-c095-50d9-8e0b-51bcecfd027d",
+    "name": "SRI International",
+    "aliases": [
+      "RTI",
+      "Research Triangle Institute"
+    ],
+    "description": "SRI International, a nonprofit research and development institute headquartered in Menlo Park, California, conducts client-sponsored research for government agencies, businesses, and foundations. Founded in 1946, SRI's R&D spans artificial intelligence, robotics, biosciences, advanced materials, cybersecurity, education, and space systems. The organization bridges fundamental research and practical applications. Its multidisciplinary teams address complex challenges and develop solutions for global industries.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/8e8b3bc3-c095-50d9-8e0b-51bcecfd027d",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "b09ddcfb-0a71-40e5-b5fd-2011233a9a94",
+    "name": "Howard Hughes Medical Institute",
+    "aliases": [
+      "Howard Hughes Medical Institute"
+    ],
+    "description": "The Howard Hughes Medical Institute (HHMI) advances biomedical research and science education by funding scientists, fostering interdisciplinary collaboration, and supporting high-risk, high-reward research. HHMI operates the Janelia Research Campus, focused on neuroscience and imaging. Its substantial endowment enables long-term projects. HHMI invests in science education, diversity in science, and AI in biological research through initiatives like AI@HHMI.",
+    "profile_link": "/category/life sciences & biotechnology/organization/b09ddcfb-0a71-40e5-b5fd-2011233a9a94",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
+    "name": "Centre National de la Recherche Scientifique",
+    "aliases": [
+      "Centre National de la Recherche Scientifique"
+    ],
+    "description": "The French National Centre for Scientific Research (CNRS), Europe's largest fundamental science agency, conducts basic research across all scientific disciplines through its ten institutes and over 1,100 laboratories in France and abroad. Its interdisciplinary approach addresses global challenges through collaborations with public sector, social, and economic stakeholders. CNRS has implemented six major societal challenges since 2020. With an annual budget of €4 billion and 33,000 staff, including 11,137 researchers, CNRS advances scientific knowledge and technology.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "70504991-8893-43db-8ecd-2206f09e21c1",
+    "name": "National Institutes of Health",
+    "aliases": [
+      "National Institutes of Health"
+    ],
+    "description": "The National Institutes of Health (NIH), the primary US government agency for biomedical and public health research, is the world's largest public funder of biomedical research. The NIH conducts research in its own labs and clinics and supports external research through grants, covering topics from basic science to clinical trials.",
+    "profile_link": "/category/life sciences & biotechnology/organization/70504991-8893-43db-8ecd-2206f09e21c1",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "e81236a4-0750-4652-af70-2a7b040caf48",
+    "name": "RIKEN",
+    "aliases": [
+      "Rikagaku Kenkyūjo",
+      "Institute of Physical and Chemical Research",
+      "RIKEN"
+    ],
+    "description": "RIKEN, Japan's largest research organization, operates a network of research centers focusing on various scientific disciplines. Founded in 1917, RIKEN's research spans brain science, quantum computing, and sustainable resource science. It houses facilities like the SPring-8 synchrotron radiation facility and the Fugaku supercomputer, enabling research in physics, chemistry, biology, and computational science. RIKEN promotes interdisciplinary collaboration and innovation in areas like genomics, AI research, and stem cell studies.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/e81236a4-0750-4652-af70-2a7b040caf48",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "2f123f6a-9f62-43df-9f9c-ddd71ff2a956",
+    "name": "Scripps Research Institute",
+    "aliases": [
+      "Scripps Research Institute"
+    ],
+    "description": "Scripps Research, a nonprofit American medical research facility founded in 1924, focuses on life sciences and chemistry. It combines fundamental research with translational approaches to accelerate drug development. Scripps Research's laboratories focus on biomedical sciences, including genomics, computational biology, and technology development for investigating infectious diseases. It also conducts research on marine ecosystems.",
+    "profile_link": "/category/life sciences & biotechnology/organization/2f123f6a-9f62-43df-9f9c-ddd71ff2a956",
+    "primaryCategory": "Life Sciences & Biotechnology"
+  },
+  {
+    "id": "8c9d685e-de4a-5c21-bcd7-8eae1dbdd13c",
+    "name": "National Research Council of Italy",
+    "aliases": [
+      "National Research Council (CNR) of Italy",
+      "CNR"
+    ],
+    "description": "The National Research Council (CNR) of Italy operates over 100 scientific research institutes, conducting research and promoting innovation across various disciplines. CNR promotes international collaboration and operates Joint Archaeological Laboratories. Its S&T Digital Library provides access to research products and datasets.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/8c9d685e-de4a-5c21-bcd7-8eae1dbdd13c",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "26d7f31e-1606-4f6d-b0ae-7a9be02424eb",
+    "name": "Consejo Superior de Investigaciones Científicas",
+    "aliases": [
+      "Consejo Superior de Investigaciones Científicas"
+    ],
+    "description": "The Spanish National Research Council (CSIC), Spain's largest public research institution, operates under the Ministry of Science and Innovation, fostering scientific and technological progress. Its research is structured around Society, Life, and Matter, with four connecting axes enabling interdisciplinary work. CSIC's 120+ research institutes and centers conduct research in areas ranging from biotechnology and environmental sciences to materials science and information technology. Its Interdisciplinary Thematic Platforms (PTIs) focus on climate change, renewable energy, and biomedical research.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/26d7f31e-1606-4f6d-b0ae-7a9be02424eb",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "0ef9ed84-392a-49e5-9cfb-0d038ebc0cd1",
+    "name": "Korea Institute of Science and Technology",
+    "aliases": [
+      "KIST"
+    ],
+    "description": "The Korea Institute of Science and Technology (KIST), founded in 1966, conducts research in brain science, artificial intelligence, advanced materials, and clean energy. KIST's specialized research centers include the Brain Technology Research Center, Brain Function Research Center, Computational Science Research Center, and Electronic Materials Research Center. The institute aims to produce research outcomes with economic and social impact and serves as a hub for open innovation and convergence research. KIST collaborates with universities through the KIST-Academia Collaborative Education Program.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/0ef9ed84-392a-49e5-9cfb-0d038ebc0cd1",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "ce884bb9-d6b9-4764-8505-09041e121392",
+    "name": "Harvard University",
+    "aliases": [
+      "Harvard College",
+      "Harvard"
+    ],
+    "description": "Harvard University conducts research across various disciplines. Its labs, research centers, and initiatives foster discoveries and innovations in fields like biotechnology, artificial intelligence, sustainability, and social sciences. Harvard's research ecosystem includes the Wyss Institute for Biologically Inspired Engineering, the Harvard Paulson School of Engineering and Applied Sciences, and the Pagliuca Harvard Life Lab.",
+    "profile_link": "/category/universities/organization/ce884bb9-d6b9-4764-8505-09041e121392",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "f9a903bc-40da-4adc-829e-8b0dda4c534c",
+    "name": "ETH Zurich",
+    "aliases": [
+      "École Polytechnique Fédérale de Zurich",
+      "Swiss Federal Institute of Technology",
+      "Eidgenössische Technische Hochschule Zürich",
+      "ETH Zurich"
+    ],
+    "description": "ETH Zurich conducts basic and applied research across various disciplines, including microelectronics, optoelectronics, nanotechnologies, chemistry, and applied biosciences. The institution translates fundamental research into practical applications addressing societal needs.",
+    "profile_link": "/category/universities/organization/f9a903bc-40da-4adc-829e-8b0dda4c534c",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "59316c9c-39f9-4e7a-8b51-4caa803e993f",
+    "name": "University of California, Berkeley",
+    "aliases": [
+      "UCB",
+      "Cal",
+      "UC Berkeley",
+      "California, Berkeley"
+    ],
+    "description": "UC Berkeley, a public research university, fosters innovation across diverse fields. Its research ecosystem includes numerous centers, institutes, and collaborations, including the Lawrence Berkeley National Laboratory. The university's interdisciplinary research spans the social sciences and humanities to technology and environmental studies. UC Berkeley's research infrastructure supports advancements in areas such as CRISPR gene editing, quantum computing, climate solutions, and artificial intelligence.",
+    "profile_link": "/category/universities/organization/59316c9c-39f9-4e7a-8b51-4caa803e993f",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "3bd800fc-6229-44e0-a414-2b8343f06bc9",
+    "name": "Nanyang Technological University",
+    "aliases": [
+      "Nanyang Technological University"
+    ],
+    "description": "Nanyang Technological University (NTU) focuses on interdisciplinary research and innovation. Its research institutes and centers conduct R&D across various disciplines, including AI, sustainability, healthcare technologies, advanced materials, biomedical engineering, clean energy, and nanotechnology. NTU fosters entrepreneurship and develops practical technologies.",
+    "profile_link": "/category/universities/organization/3bd800fc-6229-44e0-a414-2b8343f06bc9",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "f45dc698-0dfe-45cc-ac49-65f82e5cb320",
+    "name": "Technical University of Denmark",
+    "aliases": [
+      "Technical University of Denmark"
+    ],
+    "description": "DTU, an international technical university founded in 1829, is renowned for its research, scientific expertise, and innovation. As a national center for technological development, DTU operates specialized laboratories and research facilities. The university contributes to sustainable technologies, biotechnology, and energy-efficient solutions, focusing on innovation, scientific consultancy, industry collaboration, and practical applications.",
+    "profile_link": "/category/universities/organization/f45dc698-0dfe-45cc-ac49-65f82e5cb320",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "1310ab66-7426-4929-9acd-29d63617514e",
+    "name": "Imperial College London",
+    "aliases": [
+      "Imperial College London"
+    ],
+    "description": "Imperial College London, a public research university founded in 1907, focuses on science, engineering, medicine, and business. Its research labs and facilities include the Adaptive and Intelligent Robotics Lab, Aerial Robotics Lab, Biomechanics Lab, and the Energy Futures Lab. The institution translates research into commercial applications and fosters entrepreneurship.",
+    "profile_link": "/category/universities/organization/1310ab66-7426-4929-9acd-29d63617514e",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "2dc7e635-1aa6-4d75-bdb5-228d6756a8ed",
+    "name": "École Polytechnique Fédérale de Lausanne",
+    "aliases": [
+      "École Polytechnique Fédérale de Lausanne"
+    ],
+    "description": "The École Polytechnique Fédérale de Lausanne (EPFL), a public research university in Switzerland, operates over 500 laboratories and research groups, conducting research in fields ranging from information and communication technologies to life sciences and engineering. The EPFL+ECAL Lab combines design, engineering, and social sciences. EPFL collaborates with industry partners and academic institutions.",
+    "profile_link": "/category/universities/organization/2dc7e635-1aa6-4d75-bdb5-228d6756a8ed",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
+    "name": "Carnegie Mellon University",
+    "aliases": [
+      "CMU",
+      "Carnegie Mellon"
+    ],
+    "description": "Carnegie Mellon University (CMU), a private research institution, operates over 100 research centers and institutes. Its research portfolio ranges from basic, open research to specialized industry projects. CMU focuses on interdisciplinary collaboration and cutting-edge technology in fields like machine learning, robotics, and artificial intelligence, also contributing to areas such as drama, music technology, and environmental policy.",
+    "profile_link": "/category/universities/organization/6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "17269d06-87e6-496c-a7ae-607b48df8bf5",
+    "name": "California Institute of Technology",
+    "aliases": [
+      "Caltech"
+    ],
+    "description": "Caltech, a private research university in Pasadena, California, is known for its research in physical sciences and engineering. The institute houses over 50 research centers and institutes, fostering cross-disciplinary collaborations. About 90% of Caltech undergraduates participate in research. The university manages facilities like the Jet Propulsion Laboratory (JPL) for NASA and operates the Seismological Laboratory and a network of astronomical observatories. Caltech maintains a 3:1 student-to-faculty ratio.",
+    "profile_link": "/category/universities/organization/17269d06-87e6-496c-a7ae-607b48df8bf5",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "0e7582b5-75ac-441c-8734-edfd9991485d",
+    "name": "Princeton University",
+    "aliases": [
+      "Princeton",
+      "PU"
+    ],
+    "description": "Princeton University, an Ivy League research institution, utilizes world-class facilities and an interdisciplinary research approach. The university conducts research in fields ranging from quantum science and engineering to climate modeling and cancer research, fostering innovation with its laboratories and collaborative research centers.",
+    "profile_link": "/category/universities/organization/0e7582b5-75ac-441c-8734-edfd9991485d",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "046e01b5-593f-5a4a-a779-af14b2853890",
+    "name": "Georgia Institute of Technology",
+    "aliases": [
+      "Institute of Gas Technology"
+    ],
+    "description": "Georgia Tech, an R1 Doctoral University, conducts research in artificial intelligence, national security, and healthcare innovation. Its research arm, the Georgia Tech Research Institute (GTRI), contributes to national defense and applied science projects. With seven research laboratories, including five on its main campus in Midtown Atlanta, Georgia Tech uses interdisciplinary research and industry partnerships to address global challenges.",
+    "profile_link": "/category/universities/organization/046e01b5-593f-5a4a-a779-af14b2853890",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "0e1b5536-52c2-430f-860b-09c00458e1d8",
+    "name": "Delft University of Technology",
+    "aliases": [
+      "Technische Universiteit Delft",
+      "Delft Technical University",
+      "TU Delft"
+    ],
+    "description": "Delft University of Technology (TU Delft), the largest engineering sciences university in the Netherlands, focuses on developing technological solutions for societal challenges. Its research facilities and laboratories include the IDE Research Labs (Applied Labs and Foundational Labs), the Model Making and Machine Lab, the Physical and Ergonomics Lab, and the Product Evaluatie Laboratorium. The university's research spans robotics, AI, quantum technology, and the circular economy, emphasizing innovation, entrepreneurship, and sustainability.",
+    "profile_link": "/category/universities/organization/0e1b5536-52c2-430f-860b-09c00458e1d8",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "11e953ed-a429-4d5f-9c07-a089539c367f",
+    "name": "KU Leuven",
+    "aliases": [
+      "KU Leuven"
+    ],
+    "description": "KU Leuven, a research-intensive university, combines interdisciplinary research across nine key areas: human health, medical technologies, biosciences & environment, matter, materials & energy, nature unlimited, manufacturing & ICT, arts, religion & culture, economy, law & society, and humanities & social sciences. The university utilizes world-class infrastructure, maintains industry partnerships, and focuses on emerging technologies. With over 7,000 researchers and 81% of its research funding from external sources, KU Leuven ranks among Europe's most innovative universities.",
+    "profile_link": "/category/universities/organization/11e953ed-a429-4d5f-9c07-a089539c367f",
+    "primaryCategory": "Universities"
+  },
+  {
+    "id": "ac689167-aa77-4301-8907-6e3cc179e8bc",
+    "name": "Yaskawa Electric",
+    "aliases": [
+      "Yaskawa Electric (Japan)"
+    ],
+    "description": "Yaskawa Electric Corporation, founded in 1915, is a Japanese industrial automation and robotics company. Yaskawa pioneered the concept of \"mechatronics\" and develops AC drives, servo drives, industrial robots, and machine controllers. Its research facilities, including the Tsukuba Research Laboratory and the Corporate Research & Development Center, focus on IoT, AI, robotics, motion control, and power conversion. Yaskawa established the Yaskawa Technology Center in 2021 for advanced R&D.",
+    "profile_link": "/category/robotics & automation/organization/ac689167-aa77-4301-8907-6e3cc179e8bc",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "88d36e75-4eb6-42ce-a7f1-0255823ed432",
+    "name": "Boston Dynamics",
+    "aliases": [
+      "Boston Dynamics"
+    ],
+    "description": "Boston Dynamics, founded in 1992 as an MIT spin-off, develops advanced robots specializing in legged locomotion and human-like mobility. Its R&D focuses on biomimetic design, AI integration, and continuous improvement, creating robots like Spot, Atlas, and Stretch. The company invests in software development, including perception, navigation, and autonomous decision-making systems. The Boston Dynamics AI Institute, a $400 million initiative, advances robotics research in athletic AI and cognitive AI. Now part of Hyundai Motor Group, Boston Dynamics expands commercial applications of its technology.",
+    "profile_link": "/category/robotics & automation/organization/88d36e75-4eb6-42ce-a7f1-0255823ed432",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "b0452610-3f6a-48fb-bace-40e8e663dfca",
+    "name": "ABB",
+    "aliases": [
+      "ABB (Switzerland)"
+    ],
+    "description": "ABB, a global power and automation technology company, conducts R&D at its Corporate Research Center in Baden-Dättwil, Switzerland. ABB develops and commercializes technologies, products, and solutions across its business segments, with research spanning robotics, industrial automation, artificial intelligence, and digital services. The company has installed over 500,000 robots worldwide.",
+    "profile_link": "/category/robotics & automation/organization/b0452610-3f6a-48fb-bace-40e8e663dfca",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "6ebc256e-7183-4296-9dd6-fc04507b082b",
+    "name": "Fanuc",
+    "aliases": [
+      "Fanuc (Japan)"
+    ],
+    "description": "FANUC Corporation, founded in 1956, manufactures factory automation, robotics, and CNC systems. With over 1 million robots installed worldwide, FANUC focuses on its \"one FANUC\" approach across its Factory Automation (FA), ROBOT, and ROBOMACHINE business areas. Its R&D emphasizes \"intelligence,\" \"ultra precision,\" and \"high functionality\" in its products. FANUC's research laboratories develop CNC hardware and leverage electronics technology for industrial applications.",
+    "profile_link": "/category/robotics & automation/organization/6ebc256e-7183-4296-9dd6-fc04507b082b",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "5c9b437d-cba9-4ddb-afc6-b3cc9aff27b4",
+    "name": "KUKA",
+    "aliases": [
+      "KUKA (Germany)"
+    ],
+    "description": "KUKA AG, founded in 1898, manufactures industrial robots and factory automation systems. KUKA conducts in-house R&D and partners with universities. Its Chief Innovation Officer and Business Innovation Lab lead innovation in automation technology and robotics. KUKA collaborates with research institutes globally, focusing on Industry 4.0 and manufacturing advancements.",
+    "profile_link": "/category/robotics & automation/organization/5c9b437d-cba9-4ddb-afc6-b3cc9aff27b4",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "93c0b312-5000-4697-8552-77b39dfc8dde",
+    "name": "Universal Robots",
+    "aliases": [
+      "Universal Robots"
+    ],
+    "description": "Universal Robots, founded in 2005, manufactures collaborative robot arms (cobots). Its R&D advances human-robot interaction, robot control systems, and cobot applications. Research areas include robot teaching by demonstration and physical collaboration tasks. Universal Robots' cobots are used in education and scientific communities for data gathering and analysis. Ongoing R&D includes expanding the UR+ ecosystem, integrating AI into cobot systems, and improving end-of-arm tooling and robot vision systems.",
+    "profile_link": "/category/robotics & automation/organization/93c0b312-5000-4697-8552-77b39dfc8dde",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "b5c0cd3d-cff6-47a8-b388-9ad1737bd53c",
+    "name": "iRobot",
+    "aliases": [
+      "iRobot (United States)"
+    ],
+    "description": "iRobot Corporation, founded in 1990, develops consumer robotics, including the Roomba vacuum and Braava mopping robots. iRobot has sold nearly 50 million robots globally and holds over 1,915 patents. Its R&D focuses on robotics technologies like mapping, navigation, artificial intelligence, and human-robot interaction, with projects including soft robotic fingers, door-opening robots, and a robotic sea turtle.",
+    "profile_link": "/category/robotics & automation/organization/b5c0cd3d-cff6-47a8-b388-9ad1737bd53c",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "e0ccd678-5815-4c84-8622-edd0c73c0a00",
+    "name": "SoftBank Group",
+    "aliases": [
+      "SoftBank Group (Japan)"
+    ],
+    "description": "SoftBank Group focuses on robotics and AI research, developing advanced technologies. Through its Research Institute of Advanced Technology and collaborations with institutions like Keio University, SoftBank is developing robotics, AI, and automation technologies. It is also establishing SB Intuitions, an AI research lab.",
+    "profile_link": "/category/robotics & automation/organization/e0ccd678-5815-4c84-8622-edd0c73c0a00",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "769cc920-ba19-439e-a29d-b2fa5a5d5769",
+    "name": "SZ DJI Technology Co., Ltd.",
+    "aliases": [
+      "SZ DJI Technology Co., Ltd."
+    ],
+    "description": "DJI, a Chinese technology company headquartered in Shenzhen, Guangdong, specializes in unmanned aerial vehicles (UAVs). DJI holds over 90% of the global consumer drone market as of June 2024. Its R&D advances drone technology, autonomous systems, image processing, and precision agriculture. DJI collaborates with universities and industry partners on AI integration, thermal imaging, and cloud computing for UAV applications. Its research extends to enterprise solutions, conservation technology, and disaster relief.",
+    "profile_link": "/category/robotics & automation/organization/769cc920-ba19-439e-a29d-b2fa5a5d5769",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "b41f604e-118c-4531-817e-e4dc36bf9903",
+    "name": "Omron Robotics and Safety Technologies",
+    "aliases": [
+      "Omron Robotics and Safety Technologies"
+    ],
+    "description": "Omron Robotics and Safety Technologies develops robotics solutions, including collaborative robots, mobile robots, and integrated systems for factory automation. Its R&D focuses on AI-powered manufacturing, sustainable automation, and human-robot interaction, encompassing collaborative and mobile robotics, machine vision, industrial safety, and predictive maintenance. Omron's \"i-Automation\" initiative and \"Shape the Future 2030\" strategic plan aim to create intelligent automation solutions.",
+    "profile_link": "/category/robotics & automation/organization/b41f604e-118c-4531-817e-e4dc36bf9903",
+    "primaryCategory": "Robotics & Automation"
+  },
+  {
+    "id": "85431f24-58f1-4563-9219-7a7a086018b0",
+    "name": "Taiwan Semiconductor Manufacturing Company",
+    "aliases": [
+      "Taiwan Semiconductor Manufacturing Company (Taiwan)"
+    ],
+    "description": "TSMC, the world's largest dedicated independent semiconductor foundry, is headquartered in Hsinchu, Taiwan. Founded in 1987, TSMC manufactures chips for technology companies and develops advanced CMOS logic technologies. Its R&D focuses on cutting-edge node technologies, including 3nm and 2nm processes. TSMC's research institute advances fabrication technologies, chip design, and semiconductor industry talent development in Taiwan.",
+    "profile_link": "/category/semiconductors & electronics/organization/85431f24-58f1-4563-9219-7a7a086018b0",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "af42c701-4d3f-4f7d-86e1-89cbc3f773fa",
+    "name": "Micron Technology Incorporated",
+    "aliases": [
+      "Micron Technology Incorporated"
+    ],
+    "description": "Micron Technology, headquartered in Boise, Idaho, develops memory and storage solutions. Founded in 1978, Micron operates an innovation center in Boise focused on memory technologies, including DRAM, NAND flash, and emerging memory solutions. Its Global Customer Labs foster collaboration on developments in computer memory and data storage applications.",
+    "profile_link": "/category/semiconductors & electronics/organization/af42c701-4d3f-4f7d-86e1-89cbc3f773fa",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "9fa8f3dd-ee2d-473a-8e23-a66a1257d43c",
+    "name": "Advanced Micro Devices",
+    "aliases": [
+      "Advanced Micro Devices (United States)"
+    ],
+    "description": "AMD, a fabless semiconductor company, conducts R&D through AMD Research. Its Research and Advanced Development (RAD) division advances AMD's technologies within academic communities. AMD's R&D spans CPU and GPU architectures, artificial intelligence, machine learning, and high-performance computing.",
+    "profile_link": "/category/semiconductors & electronics/organization/9fa8f3dd-ee2d-473a-8e23-a66a1257d43c",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "06034e55-646f-4976-90f6-c11e665cd56a",
+    "name": "NXP Semiconductors NV",
+    "aliases": [
+      "NXP Semiconductors NV"
+    ],
+    "description": "NXP Semiconductors, headquartered in Eindhoven, Netherlands, specializes in secure connectivity solutions for embedded applications. The company has expanded its R&D capabilities with facilities like the NXP Advanced Manufacturing Lab in Austin and the Smart Home Innovation Lab, focusing on smart home devices, automotive technology, and IoT connectivity solutions.",
+    "profile_link": "/category/semiconductors & electronics/organization/06034e55-646f-4976-90f6-c11e665cd56a",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "ee4bfeda-e6e6-4768-bd82-613137e9d863",
+    "name": "SK Group",
+    "aliases": [
+      "SK Group (South Korea)"
+    ],
+    "description": "SK Group, a South Korean conglomerate, includes SK hynix, the world's second-largest memory chip maker. The group's R&D focuses on semiconductors, life sciences, and pharmaceuticals. SK hynix specializes in memory technology, offering DRAM, SSD, and NAND storage. Subsidiaries like SK Life Science and SK bioscience focus on drug discovery and vaccine development, emphasizing precision medicine for oncology and immunology.",
+    "profile_link": "/category/semiconductors & electronics/organization/ee4bfeda-e6e6-4768-bd82-613137e9d863",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "f4a77fbd-d731-4b13-9351-366bf6b9d40c",
+    "name": "Applied Materials",
+    "aliases": [
+      "Applied Materials",
+      "Applied Materials Inc.",
+      "Applied Materials (United States)"
+    ],
+    "description": "Applied Materials provides materials engineering solutions for the semiconductor, display, and related industries. Its extensive R&D focuses on developing technologies for atomic-level materials modification and industrial-scale implementation. The company's research and development activities, spanning multiple countries, drive innovation in chip manufacturing, advanced displays, and sustainable technologies.",
+    "profile_link": "/category/semiconductors & electronics/organization/f4a77fbd-d731-4b13-9351-366bf6b9d40c",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "8b7cf982-72d4-4c9f-a7e4-ceba84a99f21",
+    "name": "Texas Instruments",
+    "aliases": [
+      "Texas Instruments (United States)",
+      "Texas Instruments Corp.",
+      "Texas Instruments",
+      "Antek Instruments",
+      "Anasys Instruments"
+    ],
+    "description": "Texas Instruments Incorporated (TI) is a global semiconductor company headquartered in Dallas, Texas, known for its innovative R&D in analog and embedded processing chips. TI's research activities span across various domains, with a strong focus on developing cutting-edge semiconductor solutions. The company supports academic research through initiatives like the Texas Instruments Innovation Lab at UTDesign Studio, fostering collaboration between industry and academia. TI also maintains a comprehensive online educational platform, TI Precision Labs (TIPL), which serves as a valuable resource for analog signal chain and embedded processing designers worldwide.",
+    "profile_link": "/category/semiconductors & electronics/organization/8b7cf982-72d4-4c9f-a7e4-ceba84a99f21",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "4f8c8f57-c872-4078-a9e3-c5edb9b7ec91",
+    "name": "ASM International",
+    "aliases": [
+      "ASM International (Netherlands)"
+    ],
+    "description": "SM International, founded in 1968 and headquartered in the Netherlands, supplies the semiconductor industry, specializing in atomic layer deposition (ALD) equipment and process solutions for wafer processing. ASM International develops thin film deposition solutions for semiconductor device fabrication, focusing its R&D on materials and processes for next-generation chip manufacturing using ALD technology.",
+    "profile_link": "/category/semiconductors & electronics/organization/4f8c8f57-c872-4078-a9e3-c5edb9b7ec91",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "58210947-148d-4844-bb44-94b4e57a8176",
+    "name": "Marvell Technology",
+    "aliases": [
+      "Apple (United States)"
+    ],
+    "description": "Marvell Technology, headquartered in Santa Clara, California, develops data infrastructure solutions. Its R&D focuses on technologies for the enterprise, cloud, automotive, and carrier sectors. Marvell operates research facilities, including the Marvell Nanofabrication Laboratory, and collaborates with national laboratories like Los Alamos National Laboratory to develop advanced computing architectures.",
+    "profile_link": "/category/semiconductors & electronics/organization/58210947-148d-4844-bb44-94b4e57a8176",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "a5a28d72-6165-4f1f-b566-3940449bb822",
+    "name": "Analog Devices",
+    "aliases": [
+      "Analog Devices",
+      "Analog Devices (United States)"
+    ],
+    "description": "Analog Devices, Inc. (ADI), founded in 1965, specializes in data conversion, signal processing, and power management technology. ADI manufactures analog, mixed-signal, and digital signal processing (DSP) integrated circuits. Its R&D initiatives include the Analog Garage, a collaborative space for engineers and data scientists. ADI partners with academic institutions to advance research and education in analog and mixed-signal technologies.",
+    "profile_link": "/category/semiconductors & electronics/organization/a5a28d72-6165-4f1f-b566-3940449bb822",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "318d75d1-4fd6-4448-beb5-832a4305a8e0",
+    "name": "Microchip Technology",
+    "aliases": [
+      "Microchip Technology (United States)"
+    ],
+    "description": "Microchip Technology, headquartered in Chandler, Arizona, provides embedded control and processing solutions. Its R&D focuses on microcontroller, analog, and memory technologies. Microchip innovates in areas such as atomic frequency standards for metrology laboratories. The company's R&D efforts focus on advancing microcontroller, analog, and memory technologies. With state-of-the-art engineering labs and a 18,000 square foot facility, Microchip continues to innovate in areas such as atomic frequency standards for metrology laboratories, showcasing its commitment to precision and cutting-edge research.",
+    "profile_link": "/category/semiconductors & electronics/organization/318d75d1-4fd6-4448-beb5-832a4305a8e0",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "1747a052-5cc1-44fc-b3e4-cadc69e80401",
+    "name": "Broadcom",
+    "aliases": [
+      "Broadcom (United States)",
+      "Broadcom"
+    ],
+    "description": "Broadcom Inc., headquartered in Palo Alto, California, develops semiconductor and infrastructure software solutions. The company partners with academic institutions like Caltech to advance quantum science research. Broadcom's R&D spans semiconductor design, networking technologies, cloud computing, and enterprise security, with a focus on quantum computing applications.",
+    "profile_link": "/category/semiconductors & electronics/organization/1747a052-5cc1-44fc-b3e4-cadc69e80401",
+    "primaryCategory": "Semiconductors & Electronics"
+  },
+  {
+    "id": "4bc40365-76e2-4cff-810d-db9d538e8735",
+    "name": "Helmholtz Association of German Research Centres",
+    "aliases": [
+      "Helmholtz Association of German Research Centres"
+    ],
+    "description": "The Helmholtz Association, Germany's largest scientific organization, comprises 18 research centers. It addresses challenges in science, society, and industry through R&D. The association operates facilities such as X-ray lasers, research vessels, supercomputers, and particle accelerators.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/4bc40365-76e2-4cff-810d-db9d538e8735",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "8b8744b1-13c4-5832-9942-4772c2e1f2d5",
+    "name": "Lawrence Livermore National Laboratory",
+    "aliases": [
+      "Lawrence Livermore National Laboratory (Dept. of Energy)",
+      "Lawerence Livermore National Laboratory (U.S. Dept. of Energy), Pinnacle Technologies",
+      "Lawrence Berkely National Laboratory (U.S. Dept. of Energy)",
+      "Lawrence Berkeley National Laboratory (U.S. Dept. of Energy)",
+      "Lawrence Livermore National Laboratory",
+      "Lawerence Berkeley National Laboratory (U.S. Dept. of Energy)",
+      "Lawrence Berkeley National Laboratory",
+      "Lawrence Livermore Laboratory",
+      "Lawrence Livermore National Laboratory (U.S. Dept. of Energy)",
+      "LLNL",
+      "Lawrence Livermore National Laboratory (U.S. Dept. of Energy), Veeco Instruments Inc.",
+      "Savannah River National Laboratory (u.S. Dept. of Energy)",
+      "Lawerence Livermore National Laboratory (U.S. Dept. of Energy)"
+    ],
+    "description": "Lawrence Livermore National Laboratory (LLNL), a federal research facility founded in 1952 in Livermore, California, is primarily funded by the US Department of Energy. LLNL focuses on national security, energy, and biomedical research.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/8b8744b1-13c4-5832-9942-4772c2e1f2d5",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "44ade180-21b4-554d-8d77-ab110996920b",
+    "name": "MIT Lincoln Laboratory",
+    "aliases": [
+      "M.I.T. Lincoln Laboratory (Lincoln Laboratory)",
+      "Lincoln Lab",
+      "MIT LL"
+    ],
+    "description": "MIT Lincoln Laboratory, an FFRDC operated by MIT for the US Department of Defense, conducts R&D related to national security, including space systems and technology, air and missile defense, communication systems, cybersecurity, intelligence, surveillance, and reconnaissance, advanced technology, and biotechnology. The laboratory develops operational prototypes and utilizes facilities such as a semiconductor research and fabrication laboratory, a flight facility, and a supercomputing center. It fosters interdisciplinary collaboration and transfers technologies to government agencies, industry, and academia.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/44ade180-21b4-554d-8d77-ab110996920b",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "78f17a37-5723-57a6-99a8-a1c49be6a3de",
+    "name": "Los Alamos National Laboratory",
+    "aliases": [
+      "SLAC National Accelerator Laboratory (U.S. Dept. of Energy)",
+      "Argonne National Laboratories (U.S. Dept. of Energy)",
+      "Sandia National Laboratories (U.S. Dept. of Energy)",
+      "Argonne National Laboratory (U.S. Dept. of Energy)",
+      "Pacific Northwest National Laboratory (U.S. Dept. of Energy)",
+      "Brookhaven National Laboratory (U.S. Dept. of Energy)",
+      "Los Alamos National Laboratory",
+      "Ames Laboratory (U.S. Dept. of Energy)",
+      "Sandia National Laboratoryoratories (U.S. Dept. of Energy)",
+      "Los Alamos National Laboratory (U.S. Dept. of Energy)",
+      "Ames National Laboratory",
+      "Idaho National Laboratory (U.S. Dept. of Energy)"
+    ],
+    "description": "Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. It is one of the largest science and technology institutions in the world, with a focus on national security, energy security, and emerging threats.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/78f17a37-5723-57a6-99a8-a1c49be6a3de",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "3bded62a-4865-5725-b8f6-7c05c6993f06",
+    "name": "Idaho National Laboratory",
+    "aliases": [
+      "INL"
+    ],
+    "description": "Idaho National Laboratory (INL) is a multiprogram national laboratory that conducts research and development in nuclear energy, national and homeland security, and energy and environment. It is one of the U.S. Department of Energy's national laboratories and is managed by the Battelle Energy Alliance.",
+    "profile_link": "/category/energy, environment & sustainability/organization/3bded62a-4865-5725-b8f6-7c05c6993f06",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "9260d00d-7537-5892-838d-5672d5395308",
+    "name": "Battelle Memorial Institute",
+    "aliases": [
+      "Battelle Memorial Institute"
+    ],
+    "description": "Battelle Memorial Institute (or simply Battelle) is a private nonprofit applied science and technology development company headquartered in Columbus, Ohio. It is one of the world's leading research institutes, conducting research and development work for government and commercial clients.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/9260d00d-7537-5892-838d-5672d5395308",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "7e273b12-adf2-586d-a3d6-79f2b28771df",
+    "name": "Southwest Research Institute",
+    "aliases": [
+      "Midwest Research Institutie",
+      "Gas Research Institute",
+      "Southwest Research Institute",
+      "Midwest Research Institute",
+      "IIT Research Institute"
+    ],
+    "description": "Southwest Research Institute (SwRI) is an independent, nonprofit research and development organization based in San Antonio, Texas. Founded in 1947, SwRI is one of the oldest and largest independent, nonprofit, applied research and development organizations in the United States.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/7e273b12-adf2-586d-a3d6-79f2b28771df",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "aacfcdb7-3f54-5998-8cd1-4c40643708b6",
+    "name": "General Electric Company",
+    "aliases": [],
+    "description": "General Electric Company (GE) is a multinational conglomerate corporation that operates in various industries, including aviation, healthcare, power, renewable energy, and digital industries. GE is known for its research and development activities, and it has made significant contributions to various fields of technology.",
+    "profile_link": "/category/energy, environment & sustainability/organization/aacfcdb7-3f54-5998-8cd1-4c40643708b6",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "847bb5b2-fa71-5f32-b10f-6b2ae8c67e15",
+    "name": "Hitachi Ltd.",
+    "aliases": [
+      "Hitachi"
+    ],
+    "description": "Hitachi Ltd. is a Japanese multinational conglomerate corporation headquartered in Chiyoda, Tokyo, Japan. It is one of the leading companies in the fields of information technology, energy, industry, mobility, and smart life.",
+    "profile_link": "/category/advanced technology & computing/organization/847bb5b2-fa71-5f32-b10f-6b2ae8c67e15",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "4b4fdcdd-7080-58a1-afc5-9473c1504952",
+    "name": "Industrial Technology Research Institute",
+    "aliases": [],
+    "description": "ITRI is a world-leading applied technology research institute headquartered in Taiwan. Its mission is to drive industrial development and economic growth through technological innovations.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/4b4fdcdd-7080-58a1-afc5-9473c1504952",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "acdfe540-0016-5831-a1ed-b54011766fbd",
+    "name": "Hewlett Packard Enterprise",
+    "aliases": [
+      "HP"
+    ],
+    "description": "Hewlett Packard Enterprise (HPE) is a global technology company that provides innovative solutions for enterprises to advance their digital transformation. It focuses on developing cutting-edge technologies in areas such as high-performance computing, artificial intelligence, edge computing, and cybersecurity.",
+    "profile_link": "/category/advanced technology & computing/organization/acdfe540-0016-5831-a1ed-b54011766fbd",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "67ba6b9c-9f26-57e1-b67f-c7fe3a73e12f",
+    "name": "Bell Labs",
+    "aliases": [
+      "Bell Telephone Laboratories",
+      "Bell Laboratories",
+      "AT&T Bell Laboratories"
+    ],
+    "description": "Bell Labs, officially Nokia Bell Labs, is a renowned research and scientific development company owned by Finnish company Nokia. It has been at the forefront of many pioneering innovations in telecommunications and technology.",
+    "profile_link": "/category/advanced technology & computing/organization/67ba6b9c-9f26-57e1-b67f-c7fe3a73e12f",
+    "primaryCategory": "Advanced Technology & Computing"
+  },
+  {
+    "id": "7434235c-f0ac-5c39-b278-a581d929dbde",
+    "name": "Dow Chemical Company",
+    "aliases": [
+      "Dow Chemical",
+      "The Dow Chemical Co.",
+      "The Dow Chemical Company",
+      "Dow",
+      "Dow Inc.",
+      "Dow Chemical Co.",
+      "Nalco Chemical Co.",
+      "Dow Automotive Solutions"
+    ],
+    "description": "Dow Chemical Company is a multinational corporation headquartered in Midland, Michigan. It is a leading materials science company that develops and manufactures a wide range of innovative products for various industries, including agriculture, automotive, building and construction, consumer care, energy, and packaging.",
+    "profile_link": "/category/energy, environment & sustainability/organization/7434235c-f0ac-5c39-b278-a581d929dbde",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  },
+  {
+    "id": "4091a9fc-8709-527b-b76b-a23935f91284",
+    "name": "National Institute of Standards and Technology",
+    "aliases": [
+      "National Bureau of Standards"
+    ],
+    "description": "NIST is a non-regulatory federal agency within the United States Department of Commerce that promotes and maintains measurement standards. It conducts research in various fields including physics, chemistry, engineering, information technology, and nanotechnology.",
+    "profile_link": "/category/multidisciplinary research institutes/organization/4091a9fc-8709-527b-b76b-a23935f91284",
+    "primaryCategory": "Multidisciplinary Research Institutes"
+  },
+  {
+    "id": "2fa79afd-c856-4739-8653-fc3266382c89",
+    "name": "Electric Power Research Institute",
+    "aliases": [],
+    "description": "EPRI is an independent, non-profit organization that conducts research and development related to the generation, delivery, and use of electricity. It focuses on advancing safe, reliable, affordable, and environmentally responsible electricity for society.",
+    "profile_link": "/category/energy, environment & sustainability/organization/2fa79afd-c856-4739-8653-fc3266382c89",
+    "primaryCategory": "Energy, Environment & Sustainability"
+  }
+]
