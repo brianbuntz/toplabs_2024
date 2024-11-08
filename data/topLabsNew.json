@@ -302,7 +302,7 @@
     {
       "id": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
       "name": "National Aeronautics and Space Administration",
-      "description": "Since President Eisenhower signed the National Aeronautics and Space Act in 1958, NASA has piloted American space exploration and aeronautics research. The agency's early breakthroughs included Alan Shepard's 1961 suborbital flight and John Glenn's Earth orbit. The agency's early years were marked by rapid progress, including Alan Shepard's suborbital flight in 1961 and John Glenn's Earth orbit in 1962. NASA's crowning achievement of the 1960s was the Apollo program, which culminated in the historic Moon landings, beginning with Apollo 11 in 1969. The program, employing approximately 400,000 Americans, cost $28 billion at the time (equivalent to more than $280 billion today) and represented a milestone of human progress. Following the Apollo era, NASA shifted focus to the Space Shuttle program, which operated from 1981 to 2011. During its 30-year run, the program completed 135 missions, with 133 successes and 2 tragic failures (Challenger and Columbia). The Space Shuttle enabled the launch and maintenance of satellites, space probes, and played a crucial role in building the International Space Station and servicing the Hubble Space Telescope. Throughout its history, NASA has also been a pioneer in robotic space exploration. Missions like Mariner 2's Venus flyby in 1962, the Voyager probes launched in 1977, and the Mars rovers have greatly expanded our understanding of the solar system. In recent years, NASA has launched missions such as the Curiosity and Perseverance rovers on Mars, and the James Webb Space Telescope. The agency's current focus includes the Artemis program, which aims to return humans to the Moon with Artemis 2 scheduled for September 2025, followed by the first lunar landing mission (Artemis 3) in September 2026.",
+      "description": "Since President Eisenhower signed the National Aeronautics and Space Act in 1958, NASA has piloted American space exploration and aeronautics research. The agency's early breakthroughs included Alan Shepard's 1961 suborbital flight and John Glenn's Earth orbit. The agency's early years were marked by rapid progress, including Alan Shepard's suborbital flight in 1961 and John Glenn's Earth orbit in 1962. NASA's crowning achievement of the 1960s was the Apollo program, which culminated in the historic Moon landings, beginning with Apollo 11 in 1969. The program, employing approximately 400,000 Americans, cost $28 billion at the time (equivalent to more than $280 billion today) and represented a milestone of human progress. Following the Apollo era, NASA shifted focus to the Space Shuttle program, which operated from 1981 to 2011. During its 30-year run, the program completed 135 missions, with 133 successes and 2 tragic failures (Challenger and Columbia). In recent years, NASA has launched missions such as the Curiosity and Perseverance rovers on Mars, and the James Webb Space Telescope. The agency's current focus includes the Artemis program.",
       "primaryCategory": "Aerospace & Defense",
       "additionalCategories": [
         "Aeronautics Research",
@@ -560,20 +560,14 @@
           "type": "Contract"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "National Aeronautics and Space Administration",
       "rorId": "https://ror.org/027ka1x80",
       "location": {},
       "organizationType": "Government",
       "status": "Active",
-      "aliases": [
-        "National Aeronautics and Space Administration"
-      ],
-      "acronyms": [
-        "NASA; NASA HQ"
-      ],
+      "aliases": ["National Aeronautics and Space Administration"],
+      "acronyms": ["NASA; NASA HQ"],
       "yearEstablished": 1958,
       "externalIds": {
         "GRID": "grid.238252.c",
@@ -581,9 +575,7 @@
         "FundRef": "100000104.0"
       },
       "parentOrganization": "",
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "industryCodes": {
         "NAICS": "541715"
       },
@@ -940,17 +932,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "SpaceX (United States)"
-      ],
+      "aliases": ["SpaceX (United States)"],
       "acronyms": [],
       "yearEstablished": 2002,
       "externalIds": {
         "GRID": "grid.499343.0"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "industryCodes": {
         "NAICS": "541715"
       },
@@ -1075,10 +1063,7 @@
       "name": "Defense Advanced Research Projects Agency",
       "description": "DARPA doesn't just develop weapons; it aims to invent the future of warfare. As the research arm of the U.S. Department of Defense, DARPA pursues high-risk, high-reward technologies that often seem like science fiction. DARPA funds projects across a spectrum of scientific and engineering disciplines, from breakthroughs in AI and robotics to hypersonic flight and next-generation materials. In the 1960s, its ARPANET emerged as the first operational packet-switching network, laying the foundation for today's global internet infrastructure. In the 1990s, DARPA funded research that led to the concept of telepresence surgery, allowing surgeons to operate remotely on patients in dangerous or inaccessible locations. Intuitive Surgical's da Vinci system was built upon earlier DARPA-funded research. The agency bridges the gap between fundamental research and practical military applications.",
       "primaryCategory": "Aerospace & Defense",
-      "additionalCategories": [
-        "Technology Innovation",
-        "National Security"
-      ],
+      "additionalCategories": ["Technology Innovation", "National Security"],
       "researchAreas": [
         "Biology",
         "Medicine",
@@ -1167,21 +1152,15 @@
       },
       "organizationType": "Government",
       "status": "Active",
-      "aliases": [
-        "Defense Advanced Research Projects Agency"
-      ],
-      "acronyms": [
-        "DARPA; ARPA"
-      ],
+      "aliases": ["Defense Advanced Research Projects Agency"],
+      "acronyms": ["DARPA; ARPA"],
       "yearEstablished": 1958,
       "externalIds": {
         "GRID": "grid.421816.8",
         "FundRef": "100000185.0"
       },
       "parentOrganization": "U.S. Department of Defense",
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "collaborations": [],
       "facilities": [],
       "industryCodes": {
@@ -1328,9 +1307,7 @@
         {
           "name": "Peter Beck",
           "role": "Founder and CEO",
-          "awards": [
-            "New Zealand Order of Merit"
-          ],
+          "awards": ["New Zealand Order of Merit"],
           "affiliation": "Rocket Lab"
         }
       ],
@@ -1493,13 +1470,8 @@
           "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2016/06/HSF_Moon.jpg"
         }
       ],
-      "subsidiaries": [
-        "Rocket Lab USA",
-        "Rocket Lab New Zealand"
-      ],
-      "categories": [
-        "AD"
-      ],
+      "subsidiaries": ["Rocket Lab USA", "Rocket Lab New Zealand"],
+      "categories": ["AD"],
       "officialName": "Rocket Lab USA, Inc.",
       "rorId": "https://ror.org/05qb21h30",
       "location": "{",
@@ -1570,9 +1542,7 @@
         }
       ],
       "standardized_name": "Rocket Lab",
-      "aliases": [
-        "Rocket Lab"
-      ],
+      "aliases": ["Rocket Lab"],
       "employees": 1650,
       "annualRevenue": 102500000,
       "numberOfResearchers": null,
@@ -1965,9 +1935,7 @@
           "type": "Contract"
         }
       ],
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "officialName": "Blue Origin, LLC",
       "rorId": "https://ror.org/00pnqnx54",
       "location": {},
@@ -2048,9 +2016,7 @@
         }
       ],
       "standardized_name": "Blue Origin",
-      "aliases": [
-        "Blue Origin"
-      ],
+      "aliases": ["Blue Origin"],
       "employees": 11000,
       "annualRevenue": null,
       "numberOfResearchers": null,
@@ -2381,27 +2347,19 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2018/02/Views_in_the_Main_Control_Room_12052189474.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "European Space Agency",
       "rorId": "https://ror.org/03wd9za21",
       "location": {},
       "organizationType": "Nonprofit",
       "status": "Active",
-      "aliases": [
-        "European Space Agency"
-      ],
-      "acronyms": [
-        "ASE; ESA"
-      ],
+      "aliases": ["European Space Agency"],
+      "acronyms": ["ASE; ESA"],
       "yearEstablished": null,
       "externalIds": {
         "GRID": "grid.410379.8"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "researchFocus": [
         "Planetary Science",
         "Astrophysics",
@@ -2752,9 +2710,7 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Lockheed Martin (United States)"
-      ],
+      "aliases": ["Lockheed Martin (United States)"],
       "acronyms": [],
       "yearEstablished": 1995,
       "externalIds": {
@@ -2762,9 +2718,7 @@
         "FundRef": "100002186.0",
         "Wikidata": "Q7240"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "researchFocus": [
         "Autonomy and Robotics",
         "Artificial Intelligence",
@@ -3133,17 +3087,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "OpenAI (United States)"
-      ],
+      "aliases": ["OpenAI (United States)"],
       "acronyms": [],
       "yearEstablished": 1916,
       "externalIds": {
         "GRID": "grid.423121.7"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "fundingSources": [],
       "researchFocus": [
         "Advanced Materials",
@@ -3498,9 +3448,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2023/10/53147954781_f5c37215c4_o.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Northrop Grumman (United States)",
       "rorId": "https://ror.org/05kewds18",
       "location": {
@@ -3509,18 +3457,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Northrop Grumman (United States)"
-      ],
+      "aliases": ["Northrop Grumman (United States)"],
       "acronyms": [],
       "yearEstablished": 1994,
       "externalIds": {
         "GRID": "grid.421350.1",
         "Wikidata": "Q329953"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "fundingSources": [],
       "researchFocus": [
         "Space Systems",
@@ -3683,11 +3627,7 @@
         "Advanced Propulsion",
         "Integrated Systems"
       ],
-      "subsidiaries": [
-        "Collins Aerospace",
-        "Pratt & Whitney",
-        "Raytheon"
-      ],
+      "subsidiaries": ["Collins Aerospace", "Pratt & Whitney", "Raytheon"],
       "teamMembers": [
         "Gregory J. Hayes (Chairman and CEO)",
         "Christopher T. Calio (President and COO)",
@@ -3844,18 +3784,14 @@
       "location": {},
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "iRobot (United States)"
-      ],
+      "aliases": ["iRobot (United States)"],
       "acronyms": [],
       "yearEstablished": 1922.0,
       "externalIds": {
         "GRID": "grid.417480.e",
         "Wikidata": "Q156644"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "headquarters": "Arlington, VA",
       "researchFocus": [
         "Advanced Materials and Manufacturing",
@@ -4229,17 +4165,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Airbus (Netherlands)"
-      ],
+      "aliases": ["Airbus (Netherlands)"],
       "acronyms": [],
       "yearEstablished": 1968,
       "externalIds": {
         "GRID": "grid.433919.5"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "researchFocus": [
         "Air Traffic Management",
         "Cyber Security",
@@ -4570,17 +4502,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "General Atomics (United States)"
-      ],
+      "aliases": ["General Atomics (United States)"],
       "acronyms": [],
       "yearEstablished": 1955,
       "externalIds": {
         "GRID": "grid.192673.8"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "researchFocus": [
         "Nuclear Fusion",
         "Advanced Fission Reactors",
@@ -4881,17 +4809,13 @@
       "location": {},
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Thales (France)"
-      ],
+      "aliases": ["Thales (France)"],
       "acronyms": [],
       "yearEstablished": 2000,
       "externalIds": {
         "GRID": "grid.410363.3"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "researchFocus": [
         "Artificial Intelligence",
         "Cybersecurity",
@@ -5081,9 +5005,7 @@
           "affiliation": "BAE Systems"
         }
       ],
-      "collaborations": [
-        "Add a new collaboration entry for GCAP"
-      ],
+      "collaborations": ["Add a new collaboration entry for GCAP"],
       "facilities": [
         {
           "name": "FAST Labs",
@@ -5102,9 +5024,7 @@
           "description": "Facility focused on advanced microelectronics research and development"
         }
       ],
-      "currentProjects": [
-        "Global Combat Air Programme (GCAP)"
-      ],
+      "currentProjects": ["Global Combat Air Programme (GCAP)"],
       "fundingSources": [
         {
           "name": "Internal R&D Investment",
@@ -5171,9 +5091,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2023/08/RD-100-Finalist-graphic.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "BAE Systems (United Kingdom)",
       "rorId": "https://ror.org/04p8ejq70",
       "location": {
@@ -5182,17 +5100,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "BAE Systems (United Kingdom)"
-      ],
+      "aliases": ["BAE Systems (United Kingdom)"],
       "acronyms": [],
       "yearEstablished": 1999,
       "externalIds": {
         "GRID": "grid.1343.5"
       },
-      "categories": [
-        "AD"
-      ],
+      "categories": ["AD"],
       "industryCodes": {
         "NAICS": "541715"
       },
@@ -5346,11 +5260,7 @@
       "name": "General Motors",
       "description": "Founded in 1908, General Motors established the world's first automotive research organization in 1920 under Charles Kettering. The GM Research Labs achieved several notable firsts, including the development of successful lacquer paint systems that dramatically reduced production time, and the creation of the first vehicle emissions control device (PCV valve). A significant milestone was the development of the 1966 Electrovair II with a 532-volt silver-zinc battery pack, demonstrating early innovation in electric vehicles. The company made computing history in 1956 when Robert L. Patrick and Owen Mock created the world's first computer operating system, GM-NAA I/O. Today, GM's R&D team focuses on three primary objectives: achieving zero crashes through safety technologies, zero emissions through electrification, and zero congestion through autonomous driving development. The company maintains strong academic partnerships, particularly with Brown University, where collaboration began in 2001 through the GM/Brown Collaborative Research Laboratory. In 2017, the company launched Super Cruise, a hands-free driver assistance system. This system incorporates driver attention features using head position and gaze tracking, while also integrating multiple sensor technologies including cameras, LiDAR, GPS, and radar for autonomous capabilities.",
       "primaryCategory": "Automotive & Transportation",
-      "additionalCategories": [
-        "Manufacturing",
-        "Technology",
-        "Energy"
-      ],
+      "additionalCategories": ["Manufacturing", "Technology", "Energy"],
       "researchAreas": [
         "Electric Vehicles",
         "Autonomous Driving",
@@ -5359,13 +5269,7 @@
         "Artificial Intelligence",
         "Sound Design for Electric Vehicles"
       ],
-      "subsidiaries": [
-        "Buick",
-        "Cadillac",
-        "GMC",
-        "Chevrolet",
-        "Cruise"
-      ],
+      "subsidiaries": ["Buick", "Cadillac", "GMC", "Chevrolet", "Cruise"],
       "teamMembers": [
         {
           "name": "Mary Barra",
@@ -5378,9 +5282,7 @@
           "affiliation": "General Motors"
         }
       ],
-      "collaborations": [
-        "Add a new collaboration entry:"
-      ],
+      "collaborations": ["Add a new collaboration entry:"],
       "awards": [
         {
           "name": "J.D. Power Initial Quality Study Awards",
@@ -5529,19 +5431,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "General Motors (United States)"
-      ],
-      "acronyms": [
-        "GM"
-      ],
+      "aliases": ["General Motors (United States)"],
+      "acronyms": ["GM"],
       "yearEstablished": 1908,
       "externalIds": {
         "GRID": "grid.418162.8"
       },
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "researchFocus": [
         "Electric Vehicle Technology",
         "Autonomous Driving Systems",
@@ -5709,9 +5605,7 @@
         "Safety technologies",
         "Software and electronics for software-defined vehicles"
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "collaborations": [
         {
           "name": "Continental Automotive France",
@@ -5868,17 +5762,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Continental (Germany)"
-      ],
+      "aliases": ["Continental (Germany)"],
       "acronyms": [],
       "yearEstablished": 1871,
       "externalIds": {
         "GRID": "grid.423649.e"
       },
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "fundingSources": [],
       "researchFocus": [
         "Artificial Intelligence for automotive applications",
@@ -6294,18 +6184,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "BMW (Germany)"
-      ],
+      "aliases": ["BMW (Germany)"],
       "acronyms": [],
       "yearEstablished": 1916,
       "externalIds": {
         "GRID": "grid.14039.3f"
       },
       "parentOrganization": "",
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "researchFocus": [
         "Electric Mobility",
         "Artificial Intelligence",
@@ -6487,11 +6373,7 @@
         "Advanced Safety Systems",
         "Big Data Analytics"
       ],
-      "subsidiaries": [
-        "Kia Corporation",
-        "Hyundai Mobis",
-        "Hyundai Steel"
-      ],
+      "subsidiaries": ["Kia Corporation", "Hyundai Mobis", "Hyundai Steel"],
       "teamMembers": [
         {
           "name": "Dr. Sung Hwan Cho",
@@ -6531,9 +6413,7 @@
           "description": "Award for advancements in eco-friendly technologies"
         }
       ],
-      "facilities": [
-        "Ulsan Plant"
-      ],
+      "facilities": ["Ulsan Plant"],
       "currentProjects": [
         {
           "name": "Project IONIQ: Advanced EV Platform",
@@ -6656,18 +6536,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Hyundai Motors (South Korea)"
-      ],
+      "aliases": ["Hyundai Motors (South Korea)"],
       "acronyms": [],
       "yearEstablished": 1967,
       "externalIds": {
         "GRID": "grid.473140.5"
       },
       "parentOrganization": "",
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "researchFocus": [
         "Electric Powertrains",
         "Battery Technology",
@@ -6978,17 +6854,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Tesla (United States)"
-      ],
+      "aliases": ["Tesla (United States)"],
       "acronyms": [],
       "yearEstablished": 2003,
       "externalIds": {
         "GRID": "grid.481772.f"
       },
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "collaborations": [],
       "headquarters": "Austin, Texas",
       "industryCodes": {
@@ -7176,9 +7048,7 @@
         "Energy Systems",
         "Aerodynamics"
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "facilities": [
         {
           "name": "Honda R&D Co., Ltd.",
@@ -7294,19 +7164,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Honda (Japan)"
-      ],
+      "aliases": ["Honda (Japan)"],
       "acronyms": [],
       "yearEstablished": 1946,
       "externalIds": {
         "GRID": "grid.471052.5",
         "Wikidata": "Q9584"
       },
-      "categories": [
-        "AT",
-        "RA"
-      ],
+      "categories": ["AT", "RA"],
       "paperCount": 0,
       "patentCount": 0,
       "collaborations": [],
@@ -7630,19 +7495,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Baidu (China)"
-      ],
+      "aliases": ["Baidu (China)"],
       "acronyms": [],
       "yearEstablished": 2000,
       "externalIds": {
         "GRID": "grid.459383.0",
         "FundRef": "100018903.0"
       },
-      "categories": [
-        "AT",
-        "ATC"
-      ],
+      "categories": ["AT", "ATC"],
       "paperCount": 0,
       "patentCount": 0,
       "collaborations": [],
@@ -7950,19 +7810,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Alphabet (United States)"
-      ],
+      "aliases": ["Alphabet (United States)"],
       "acronyms": [],
       "yearEstablished": 2015,
       "externalIds": {
         "GRID": "grid.497059.6",
         "ISNI": "0000 0004 4908 7370"
       },
-      "categories": [
-        "AT",
-        "ATC"
-      ],
+      "categories": ["AT", "ATC"],
       "paperCount": 0,
       "patentCount": 0,
       "collaborations": [],
@@ -8249,10 +8104,14 @@
       },
       "website": "https://waymo.com",
       "isFeatured": false,
-      "relatedContent": [],
-      "subsidiaries": [
-        ""
+      "relatedContent": [
+        {
+          "headline": "Google Driverless Cars Are Mastering City Streets",
+          "url": "https://www.rdworldonline.com/google-driverless-cars-are-mastering-city-streets/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/10/DriverlessCarGoogle-320-300x218.jpg"
+        }
       ],
+      "subsidiaries": [""],
       "geocoordinates": {
         "lat": 37.38605,
         "lng": -122.08385
@@ -8272,10 +8131,7 @@
         "GRID": "grid.497059.6",
         "ISNI": "0000 0004 4908 7370"
       },
-      "categories": [
-        "AT",
-        "ATC"
-      ],
+      "categories": ["AT", "ATC"],
       "paperCount": 0,
       "patentCount": 0,
       "collaborations": [],
@@ -8829,9 +8685,7 @@
         "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1000px"
       },
       "isFeatured": false,
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "officialName": "",
       "rorId": "https://ror.org/05jhnee77",
       "location": {},
@@ -8892,9 +8746,7 @@
       ],
       "keyPeople": [],
       "standardized_name": "Renault-Nissan-Mitsubishi Alliance R&D",
-      "aliases": [
-        "Renault-Nissan-Mitsubishi Alliance R&D"
-      ],
+      "aliases": ["Renault-Nissan-Mitsubishi Alliance R&D"],
       "employees": 450000,
       "annualRevenue": null,
       "numberOfResearchers": null,
@@ -9015,9 +8867,7 @@
           "description": "For cooling technology for hybrid and electric vehicle electronics"
         }
       ],
-      "facilities": [
-        "Main research center in Nagakute, Aichi, Japan"
-      ],
+      "facilities": ["Main research center in Nagakute, Aichi, Japan"],
       "currentProjects": [
         {
           "name": "Bio-inspired paint",
@@ -9131,20 +8981,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Toyota Central Research and Development Laboratories Inc."
-      ],
-      "acronyms": [
-        "TCRDL"
-      ],
+      "aliases": ["Toyota Central Research and Development Laboratories Inc."],
+      "acronyms": ["TCRDL"],
       "yearEstablished": 1960,
       "externalIds": {
         "GRID": "grid.450319.a"
       },
       "parentOrganization": "",
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "researchFocus": [
         "Informatics and Mathematical Engineering",
         "Electrical and Electronic Engineering",
@@ -9470,10 +9314,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2021/10/AdobeStock_122942306.jpeg"
         }
       ],
-      "subsidiaries": [
-        "Lincoln Motor Company",
-        "Ford Credit"
-      ],
+      "subsidiaries": ["Lincoln Motor Company", "Ford Credit"],
       "officialName": "Ford Motor Company (United States)",
       "rorId": "https://ror.org/00g2tkw06",
       "location": {
@@ -9482,17 +9323,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Ford Motor Company (United States)"
-      ],
+      "aliases": ["Ford Motor Company (United States)"],
       "acronyms": [],
       "yearEstablished": 1903,
       "externalIds": {
         "GRID": "grid.417922.b"
       },
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "collaborations": [],
       "researchFocus": [
         "Electric and hybrid vehicle technology",
@@ -9686,9 +9523,7 @@
         "Machine learning for automotive safety",
         "Crowdsourced mapping technology"
       ],
-      "teamMembers": [
-        "["
-      ],
+      "teamMembers": ["["],
       "collaborations": [
         {
           "name": "BMW Partnership",
@@ -9890,9 +9725,7 @@
           "type": "Other"
         }
       ],
-      "subsidiaries": [
-        "Mobileye"
-      ],
+      "subsidiaries": ["Mobileye"],
       "officialName": "Intel (United States)",
       "rorId": "https://ror.org/01ek73717",
       "location": {
@@ -9901,19 +9734,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Intel (United States)"
-      ],
+      "aliases": ["Intel (United States)"],
       "acronyms": [],
       "yearEstablished": 1968,
       "externalIds": {
         "GRID": "grid.419318.6",
         "FundRef": "100002418.0"
       },
-      "categories": [
-        "AT",
-        "SE"
-      ],
+      "categories": ["AT", "SE"],
       "paperCount": 0,
       "patentCount": 0,
       "researchFocus": [
@@ -10268,17 +10096,13 @@
       "location": {},
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Robert Bosch (Germany)"
-      ],
+      "aliases": ["Robert Bosch (Germany)"],
       "acronyms": [],
       "yearEstablished": 1886,
       "externalIds": {
         "GRID": "grid.6584.f"
       },
-      "categories": [
-        "AT"
-      ],
+      "categories": ["AT"],
       "researchFocus": [
         "Automated Driving",
         "Electrification",
@@ -10440,11 +10264,7 @@
         "Hybrid Cloud",
         "Neuromorphic Computing"
       ],
-      "subsidiaries": [
-        "Red Hat",
-        "The Weather Company",
-        "IBM Consulting"
-      ],
+      "subsidiaries": ["Red Hat", "The Weather Company", "IBM Consulting"],
       "awards": [
         {
           "name": "Nobel Prizes",
@@ -10595,18 +10415,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "IBM (United States)"
-      ],
+      "aliases": ["IBM (United States)"],
       "acronyms": [],
       "yearEstablished": 1945,
       "externalIds": {
         "GRID": "grid.410484.d",
         "FundRef": "100004316.0"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "collaborations": [],
       "fundingSources": [],
       "researchFocus": [
@@ -11007,9 +10823,7 @@
       "location": {},
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Microsoft (United States)"
-      ],
+      "aliases": ["Microsoft (United States)"],
       "acronyms": [],
       "yearEstablished": 1991,
       "externalIds": {
@@ -11017,9 +10831,7 @@
         "FundRef": "100004318.0",
         "Wikidata": "Q2283"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "researchFocus": [
         "Artificial Intelligence",
         "Machine Learning",
@@ -11318,17 +11130,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "OpenAI (United States)"
-      ],
+      "aliases": ["OpenAI (United States)"],
       "acronyms": [],
       "yearEstablished": 2015,
       "externalIds": {
         "GRID": "grid.511328.c"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "researchFocus": [
         "Artificial Intelligence",
         "Machine Learning",
@@ -11587,26 +11395,20 @@
           "type": "Technology Achievement"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Samsung (South Korea)",
       "rorId": "https://ror.org/04w3jy968",
       "location": {},
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Samsung Group"
-      ],
+      "aliases": ["Samsung Group"],
       "acronyms": [],
       "yearEstablished": 1938,
       "externalIds": {
         "GRID": "grid.419666.a",
         "Wikidata": "Q20716"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "collaborations": [],
       "researchFocus": [
         "Next Generation Communications (6G)",
@@ -12031,17 +11833,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Amazon (United States)"
-      ],
+      "aliases": ["Amazon (United States)"],
       "acronyms": [],
       "yearEstablished": 1994,
       "externalIds": {
         "GRID": "grid.467171.2"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "researchFocus": [
         "Artificial Intelligence",
         "Machine Learning",
@@ -12301,12 +12099,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/08/sapiens.png"
         }
       ],
-      "subsidiaries": [
-        "Facebook",
-        "Instagram",
-        "WhatsApp",
-        "Threads"
-      ],
+      "subsidiaries": ["Facebook", "Instagram", "WhatsApp", "Threads"],
       "officialName": "Meta (United States)",
       "rorId": "https://ror.org/01zbnvs85",
       "location": {
@@ -12315,21 +12108,15 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "IBM (United States)"
-      ],
-      "acronyms": [
-        "FB"
-      ],
+      "aliases": ["IBM (United States)"],
+      "acronyms": ["FB"],
       "yearEstablished": 2004,
       "externalIds": {
         "GRID": "grid.453567.6",
         "FundRef": "100019827.0",
         "Wikidata": "Q380"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "collaborations": [],
       "researchFocus": [
         "Artificial Intelligence",
@@ -12719,17 +12506,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Apple (United States)"
-      ],
+      "aliases": ["Apple (United States)"],
       "acronyms": [],
       "yearEstablished": 1976,
       "externalIds": {
         "GRID": "grid.455360.1"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "collaborations": [],
       "researchFocus": [
         "Machine Learning",
@@ -12856,9 +12639,7 @@
         "Semiconductor Technology",
         "Autonomous Vehicles"
       ],
-      "researchAreas": [
-        "Add \\\"6G technology\\\" to the existing list"
-      ],
+      "researchAreas": ["Add \\\"6G technology\\\" to the existing list"],
       "facilities": [
         {
           "name": "Qualcomm Headquarters",
@@ -12961,9 +12742,7 @@
           "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2017/07/SC1708_qualcomm.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Qualcomm (United States)",
       "rorId": "https://ror.org/002zrf773",
       "location": {
@@ -12972,18 +12751,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Qualcomm (United States)"
-      ],
+      "aliases": ["Qualcomm (United States)"],
       "acronyms": [],
       "yearEstablished": 1985,
       "externalIds": {
         "GRID": "grid.430388.4"
       },
-      "categories": [
-        "ATC",
-        "SE"
-      ],
+      "categories": ["ATC", "SE"],
       "paperCount": 1154,
       "patentCount": 15826,
       "collaborations": [],
@@ -13108,9 +12882,7 @@
         "Smart City Technologies",
         "Semiconductor Design"
       ],
-      "teamMembers": [
-        "Ren Zhengfei (Founder and CEO)"
-      ],
+      "teamMembers": ["Ren Zhengfei (Founder and CEO)"],
       "facilities": [
         {
           "name": "Huawei Lianqiu Lake R&D Center",
@@ -13261,9 +13033,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/07/Huawei-RD-center.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Huawei Technologies Co., Ltd.",
       "rorId": "https://ror.org/00cmhce21",
       "location": {
@@ -13272,18 +13042,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Huawei Technologies",
-        "Huawei"
-      ],
+      "aliases": ["Huawei Technologies", "Huawei"],
       "acronyms": [],
       "yearEstablished": 1987,
       "externalIds": {
         "GRID": "grid.453400.6"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "collaborations": [],
       "researchFocus": [
         "Artificial Intelligence",
@@ -13578,9 +13343,7 @@
           "headline": "Nvidia Cements Ai Leadership With More Powerful Cpu In This Weeks Rd Power Index/"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "NVIDIA Corporation",
       "rorId": "https://ror.org/03jdj4y14",
       "location": {
@@ -13589,18 +13352,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Nvidia (United States)"
-      ],
+      "aliases": ["Nvidia (United States)"],
       "acronyms": [],
       "yearEstablished": 1993,
       "externalIds": {
         "GRID": "grid.451133.1"
       },
-      "categories": [
-        "ATC",
-        "SE"
-      ],
+      "categories": ["ATC", "SE"],
       "paperCount": 0,
       "patentCount": 0,
       "collaborations": [],
@@ -13867,18 +13625,14 @@
       },
       "organizationType": "Non-profit Research Institute",
       "status": "Active",
-      "aliases": [
-        "Vector Institute"
-      ],
+      "aliases": ["Vector Institute"],
       "acronyms": [],
       "externalIds": {
         "GRID": "grid.494618.6",
         "ISNI": "0000 0005 0272 1351",
         "FundRef": "501100019117.0"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "collaborations": [],
       "yearEstablished": 2017,
       "teamMembers": [],
@@ -14187,20 +13941,14 @@
       },
       "organizationType": "Nonprofit",
       "status": "Active",
-      "aliases": [
-        "Allen Institute for Artificial Intelligence"
-      ],
-      "acronyms": [
-        "AI2"
-      ],
+      "aliases": ["Allen Institute for Artificial Intelligence"],
+      "acronyms": ["AI2"],
       "yearEstablished": 2013,
       "externalIds": {
         "GRID": "grid.502992.5",
         "FundRef": "100017005.0"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "researchFocus": [
         "Natural Language Processing",
         "Computer Vision",
@@ -14320,9 +14068,7 @@
           "name": "Tencent YouTu Lab",
           "description": "YouTu Lab specializes in computer vision research and development, creating technologies for image and facial recognition, object detection, and video analysis.",
           "address": "Shanghai, China",
-          "additionalLocations": [
-            "Shenzhen, China"
-          ]
+          "additionalLocations": ["Shenzhen, China"]
         },
         {
           "name": {
@@ -14423,18 +14169,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Tencent (China)"
-      ],
+      "aliases": ["Tencent (China)"],
       "acronyms": [],
       "yearEstablished": 1998,
       "externalIds": {
         "GRID": "grid.471330.2",
         "FundRef": "100015803.0"
       },
-      "categories": [
-        "ATC"
-      ],
+      "categories": ["ATC"],
       "collaborations": [],
       "currentProjects": [],
       "fundingSources": [],
@@ -14704,10 +14446,7 @@
           "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2018/12/Fraunhofer%20Institute.jpg"
         }
       ],
-      "subsidiaries": [
-        "Fraunhofer USA",
-        "76 institutes throughout Germany"
-      ],
+      "subsidiaries": ["Fraunhofer USA", "76 institutes throughout Germany"],
       "officialName": "Fraunhofer Society",
       "rorId": "https://ror.org/05hkkdn48",
       "location": {
@@ -14716,20 +14455,13 @@
       },
       "organizationType": "Government",
       "status": "Active",
-      "aliases": [
-        "Fraunhofer Society"
-      ],
-      "acronyms": [
-        "FHG"
-      ],
+      "aliases": ["Fraunhofer Society"],
+      "acronyms": ["FHG"],
       "yearEstablished": 1949,
       "externalIds": {
         "GRID": "grid.4561.6"
       },
-      "categories": [
-        "EES",
-        "MRI"
-      ],
+      "categories": ["EES", "MRI"],
       "paperCount": 0,
       "patentCount": 0,
       "researchFocus": [
@@ -14834,11 +14566,7 @@
       "name": "Pacific Northwest National Laboratory",
       "description": "Pacific Northwest National Laboratory (PNNL), a US Department of Energy research facility, conducts R&D in chemistry, data analytics, Earth science, and technological innovation. Focusing on sustainable energy, national security, environmental molecular sciences, and scientific discovery, PNNL develops technologies addressing challenges in the energy, environment, and national security sectors.",
       "primaryCategory": "Multidisciplinary Research Institutes",
-      "additionalCategories": [
-        "CS",
-        "ENS",
-        "CH"
-      ],
+      "additionalCategories": ["CS", "ENS", "CH"],
       "researchAreas": [
         "Climate Science",
         "Environmental Molecular Sciences",
@@ -14985,21 +14713,15 @@
       },
       "organizationType": "Facility",
       "status": "Active",
-      "aliases": [
-        "PNNL"
-      ],
-      "acronyms": [
-        "PNNL"
-      ],
+      "aliases": ["PNNL"],
+      "acronyms": ["PNNL"],
       "yearEstablished": 1965,
       "externalIds": {
         "GRID": "grid.451303.0",
         "FundRef": "100011661.0"
       },
       "parentOrganization": "U.S. Department of Energy",
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "multimedia": [
         {
           "type": "video",
@@ -15262,20 +14984,14 @@
       "location": {},
       "organizationType": "Federally Funded Research and Development Center (FFRDC)",
       "status": "Active",
-      "aliases": [
-        "NSF National Center for Atmospheric Research"
-      ],
-      "acronyms": [
-        "NCAR"
-      ],
+      "aliases": ["NSF National Center for Atmospheric Research"],
+      "acronyms": ["NCAR"],
       "yearEstablished": 1960,
       "externalIds": {
         "GRID": "grid.57828.30"
       },
       "parentOrganization": "",
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "researchFocus": [
         "Atmospheric science",
         "Climate modeling and prediction",
@@ -15551,20 +15267,14 @@
       "location": {},
       "organizationType": "Facility",
       "status": "Active",
-      "aliases": [
-        "NREL"
-      ],
-      "acronyms": [
-        "NREL"
-      ],
+      "aliases": ["NREL"],
+      "acronyms": ["NREL"],
       "yearEstablished": 1977,
       "externalIds": {
         "GRID": "grid.419357.d"
       },
       "parentOrganization": "U.S. Department of Energy",
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "researchFocus": [
         "Photovoltaics and solar energy",
         "Wind energy technologies",
@@ -15886,18 +15596,14 @@
         "Lawrence Berkeley National Laboratory",
         "Berkeley Lab"
       ],
-      "acronyms": [
-        "LBNL; LBL"
-      ],
+      "acronyms": ["LBNL; LBL"],
       "yearEstablished": 1931,
       "externalIds": {
         "GRID": "grid.184769.5",
         "Wikidata": "Q1133630"
       },
       "parentOrganization": "\\\"https://ror.org/01bj3aw27\\\" (U.S. Department of Energy)",
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "researchFocus": [
         "Energy Storage and Conversion",
         "Advanced Materials for Energy Infrastructure",
@@ -16217,9 +15923,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/09/181491_web-368x300.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Oak Ridge National Laboratory",
       "rorId": "https://ror.org/01qz5mb56",
       "location": {
@@ -16228,22 +15932,15 @@
       },
       "organizationType": "Facility",
       "status": "Active",
-      "aliases": [
-        "Oak Ridge National Laboratory",
-        "ORNL"
-      ],
-      "acronyms": [
-        "ORNL"
-      ],
+      "aliases": ["Oak Ridge National Laboratory", "ORNL"],
+      "acronyms": ["ORNL"],
       "yearEstablished": 1943,
       "externalIds": {
         "GRID": "grid.135519.a",
         "Wikidata": "Q714439"
       },
       "parentOrganization": "",
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "teamMembers": [],
       "multimedia": [
         {
@@ -16663,17 +16360,13 @@
       "aliases": [
         "United States Department of Energy Office of Science Argonne National Laboratory"
       ],
-      "acronyms": [
-        "ANL"
-      ],
+      "acronyms": ["ANL"],
       "yearEstablished": 1946,
       "externalIds": {
         "GRID": "grid.187073.a"
       },
       "parentOrganization": "U.S. Department of Energy",
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "employees": 3957,
       "annualRevenue": 750000000,
       "numberOfResearchers": 1400,
@@ -16726,9 +16419,7 @@
       "name": "Brookhaven National Laboratory",
       "officialName": "Brookhaven National Laboratory",
       "aliases": [],
-      "acronyms": [
-        "BNL"
-      ],
+      "acronyms": ["BNL"],
       "description": "Brookhaven National Laboratory (BNL) is a multi-program national laboratory operated by Brookhaven Science Associates for the U.S. Department of Energy. It conducts research in the physical, biomedical, and environmental sciences, as well as in energy technologies and national security.",
       "primaryCategory": "Multidisciplinary Research Institutes",
       "additionalCategories": [
@@ -16811,7 +16502,13 @@
       },
       "website": "https://www.bnl.gov",
       "isFeatured": false,
-      "relatedContent": [],
+      "relatedContent": [
+        {
+          "headline": "Top 10 Areas Of Amazing Science At Brookhaven Lab In 2021",
+          "url": "https://www.rdworldonline.com/top-10-areas-of-amazing-science-at-brookhaven-lab-in-2021/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2021/12/emeritus-11-d0060704-studier-hr-768x609.jpg"
+        }
+      ],
       "recognitions": [
         {
           "name": "Enrico Fermi Award",
@@ -17090,9 +16787,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/09/teamledbysta-368x300.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Stanford University",
       "rorId": "https://ror.org/00f54p054",
       "location": {},
@@ -17103,19 +16798,14 @@
         "Stanford U",
         "Stanford"
       ],
-      "acronyms": [
-        "SU"
-      ],
+      "acronyms": ["SU"],
       "yearEstablished": 1885,
       "externalIds": {
         "GRID": "grid.168010.e",
         "FundRef": "100010869.0",
         "Wikidata": "Q41506"
       },
-      "categories": [
-        "EES",
-        "UNI"
-      ],
+      "categories": ["EES", "UNI"],
       "paperCount": 0,
       "patentCount": 0,
       "facilities": [
@@ -17385,9 +17075,7 @@
           "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2018/10/MIT-Computer-Announce-01_0.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Massachusetts Institute of Technology",
       "rorId": "https://ror.org/042nb2s44",
       "location": {
@@ -17396,22 +17084,15 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "MIT"
-      ],
-      "acronyms": [
-        "MIT"
-      ],
+      "aliases": ["MIT"],
+      "acronyms": ["MIT"],
       "yearEstablished": 1861,
       "externalIds": {
         "GRID": "grid.116068.8",
         "FundRef": "100006919.0",
         "Wikidata": "Q49108"
       },
-      "categories": [
-        "EES",
-        "UNI"
-      ],
+      "categories": ["EES", "UNI"],
       "paperCount": 0,
       "patentCount": 0,
       "researchFocus": [
@@ -17549,9 +17230,7 @@
         "Climate Change",
         "Sustainable Development"
       ],
-      "teamMembers": [
-        "["
-      ],
+      "teamMembers": ["["],
       "collaborations": [
         {
           "name": "Medicines Patent Pool",
@@ -17678,20 +17357,14 @@
       },
       "organizationType": "Government",
       "status": "Active",
-      "aliases": [
-        "Joint Research Centre"
-      ],
-      "acronyms": [
-        "JRC"
-      ],
+      "aliases": ["Joint Research Centre"],
+      "acronyms": ["JRC"],
       "yearEstablished": 1961,
       "externalIds": {
         "GRID": "grid.424133.3"
       },
       "parentOrganization": "",
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "researchFocus": [
         "Key Enabling Technologies (KETs)",
         "Societal Grand Challenges (SGCs)",
@@ -17956,9 +17629,7 @@
           "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2018/01/5a6f131b8ffe5.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Woods Hole Oceanographic Institution",
       "rorId": "https://ror.org/03zbnzt98",
       "location": {
@@ -17967,20 +17638,14 @@
       },
       "organizationType": "Nonprofit",
       "status": "Active",
-      "aliases": [
-        "Woods Hole Oceanographic Institution"
-      ],
-      "acronyms": [
-        "WHOI"
-      ],
+      "aliases": ["Woods Hole Oceanographic Institution"],
+      "acronyms": ["WHOI"],
       "yearEstablished": 1930,
       "externalIds": {
         "GRID": "grid.56466.37",
         "FundRef": "100005991.0"
       },
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "collaborations": [],
       "awards": [],
       "multimedia": [
@@ -18098,9 +17763,7 @@
         "Land Use",
         "Environmental Pollution"
       ],
-      "teamMembers": [
-        "348 researchers from 50 countries"
-      ],
+      "teamMembers": ["348 researchers from 50 countries"],
       "collaborations": [
         {
           "name": "Global network of over 3,500 scholars",
@@ -18217,20 +17880,14 @@
       },
       "organizationType": "Nonprofit",
       "status": "Active",
-      "aliases": [
-        "International Institute for Applied Systems Analysis"
-      ],
-      "acronyms": [
-        "IIASA"
-      ],
+      "aliases": ["International Institute for Applied Systems Analysis"],
+      "acronyms": ["IIASA"],
       "yearEstablished": 1972,
       "externalIds": {
         "GRID": "grid.75276.31",
         "FundRef": "501100011859.0"
       },
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "paperCount": 0,
       "patentCount": 0,
       "researchFocus": [
@@ -18525,9 +18182,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/08/CFA0363la.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Sandia National Laboratories",
       "rorId": "https://ror.org/01apwpt12",
       "location": {
@@ -18536,10 +18191,7 @@
       },
       "organizationType": "Facility",
       "status": "Active",
-      "aliases": [
-        "Sandia Labs",
-        "Sandia"
-      ],
+      "aliases": ["Sandia Labs", "Sandia"],
       "acronyms": [],
       "yearEstablished": 1949,
       "externalIds": {
@@ -18547,9 +18199,7 @@
         "FundRef": "100006234.0"
       },
       "parentOrganization": "",
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "multimedia": [
         {
           "type": "video",
@@ -18694,9 +18344,7 @@
         "Hydrogen technologies",
         "Artificial intelligence"
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "teamMembers": [
         {
           "name": "Dr. Bernd Montag",
@@ -18817,17 +18465,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Siemens (Germany)"
-      ],
+      "aliases": ["Siemens (Germany)"],
       "acronyms": [],
       "yearEstablished": 1847,
       "externalIds": {
         "GRID": "grid.5406.7"
       },
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "researchers": "",
       "collaborations": [],
       "currentProjects": [],
@@ -19052,9 +18696,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/10/hon-corp-1man9793-industrial-workers.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Honeywell (United States)",
       "rorId": "https://ror.org/02t71h845",
       "location": {
@@ -19063,17 +18705,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Intel (United States)"
-      ],
+      "aliases": ["Intel (United States)"],
       "acronyms": [],
       "yearEstablished": 1906,
       "externalIds": {
         "GRID": "grid.420747.2"
       },
-      "categories": [
-        "EES"
-      ],
+      "categories": ["EES"],
       "funding": "",
       "researchers": "",
       "collaborations": [],
@@ -19329,18 +18967,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Novo Nordisk (Denmark)"
-      ],
+      "aliases": ["Novo Nordisk (Denmark)"],
       "acronyms": [],
       "yearEstablished": 1923,
       "externalIds": {
         "GRID": "grid.425956.9"
       },
       "parentOrganization": "",
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "funding": "",
       "fundingSources": [],
       "researchFocus": [
@@ -19427,9 +19061,7 @@
         "Genetic Medicine",
         "Immunology"
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "teamMembers": [
         {
           "name": "David A. Ricks",
@@ -19637,18 +19269,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Eli Lilly (United States)"
-      ],
+      "aliases": ["Eli Lilly (United States)"],
       "acronyms": [],
       "yearEstablished": 1876,
       "externalIds": {
         "GRID": "grid.417540.3",
         "FundRef": "100004312.0"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "researchFocus": [
         "Diabetes and metabolic disorders",
         "Oncology",
@@ -19742,9 +19370,7 @@
         "Ophthalmology",
         "Digital Health Solutions"
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "teamMembers": [
         {
           "name": "Thomas Schinecker",
@@ -19892,9 +19518,9 @@
       "isFeatured": true,
       "relatedContent": [
         {
-          "headline": "Roche to Acquire Flatiron Health to Accelerate Development of Medicines for Patients with Cancer",
-          "url": "https://www.drugdiscoverytrends.com/roche-to-acquire-flatiron-health-to-accelerate-development-of-medicines-for-patients-with-cancer/",
-          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/10/RMD_Molecular-Home_Roche-Molecular-Diagnostics_Hero.avif"
+          "headline": "Roche, Foundation Medicine Team Up for Cancer Treatment Research",
+          "url": "https://www.rdworldonline.com/roche-foundation-medicine-team-up-for-cancer-treatment-research/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/10/Roche_ml_21.jpg"
         }
       ],
       "officialName": "Roche (Switzerland)",
@@ -19905,18 +19531,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Roche (Switzerland)"
-      ],
+      "aliases": ["Roche (Switzerland)"],
       "acronyms": [],
       "yearEstablished": 1896,
       "externalIds": {
         "GRID": "grid.417570.0",
         "FundRef": "100004337.0"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "researchFocus": [
         "Oncology",
         "Personalized Medicine",
@@ -19987,11 +19609,7 @@
         "Pulmonary Hypertension",
         "Retina"
       ],
-      "subsidiaries": [
-        "Janssen Pharmaceuticals",
-        "DePuy Synthes",
-        "Ethicon"
-      ],
+      "subsidiaries": ["Janssen Pharmaceuticals", "DePuy Synthes", "Ethicon"],
       "teamMembers": [
         {
           "name": "Joaquin Duato",
@@ -20129,9 +19747,9 @@
       },
       "relatedContent": [
         {
-          "headline": "Johnson & Johnson Announces Completion of Acquisition of Actelion",
-          "url": "https://www.drugdiscoverytrends.com/johnson-johnson-announces-completion-of-acquisition-of-actelion/",
-          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/10/JohnsonJohnson_0.jpg"
+          "headline": "J&J Announces 15 New Collaborations",
+          "url": "https://www.rdworldonline.com/jj-announces-15-new-collaborations/",
+          "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2018/01/shutterstock_635798789_0.jpg"
         }
       ],
       "heroImage": {
@@ -20154,18 +19772,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Johnson & Johnson (United States)"
-      ],
+      "aliases": ["Johnson & Johnson (United States)"],
       "acronyms": [],
       "yearEstablished": 1886,
       "externalIds": {
         "GRID": "grid.417429.d",
         "FundRef": "100004331.0"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "researchFocus": [
         "Immunology",
         "Oncology",
@@ -20252,9 +19866,7 @@
         "Extracorporeal Membrane Oxygenation (ECMO)",
         "Spine Surgery"
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "teamMembers": [
         {
           "name": "Geoff Martha",
@@ -20405,18 +20017,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Medtronic (United States)"
-      ],
+      "aliases": ["Medtronic (United States)"],
       "acronyms": [],
       "yearEstablished": 1949,
       "externalIds": {
         "GRID": "grid.419673.e",
         "FundRef": "100004374.0"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "researchFocus": [
         "AI and Machine Learning in Healthcare",
         "Robotic-Assisted Surgery",
@@ -20651,9 +20259,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2023/08/AdobeStock_122942306.jpeg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "MSD (United States)",
       "rorId": "https://ror.org/02891sr49",
       "location": {
@@ -20662,20 +20268,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "MSD (United States)"
-      ],
-      "acronyms": [
-        "MSD"
-      ],
+      "aliases": ["MSD (United States)"],
+      "acronyms": ["MSD"],
       "yearEstablished": 1891,
       "externalIds": {
         "GRID": "grid.417993.1",
         "FundRef": "100004334.0"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "researchFocus": [
         "Oncology",
         "Vaccines",
@@ -20830,10 +20430,7 @@
         },
         "funding": null,
         "researchers": null,
-        "keyProjects": [
-          "da Vinci Surgical System",
-          "Ion endoluminal system"
-        ],
+        "keyProjects": ["da Vinci Surgical System", "Ion endoluminal system"],
         "notes": {
           "dataSource": null
         }
@@ -20857,10 +20454,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2016/04/intuitive.avif"
         }
       ],
-      "subsidiaries": [
-        "Ion",
-        "Intuitive Foundation"
-      ],
+      "subsidiaries": ["Ion", "Intuitive Foundation"],
       "officialName": "Intuitive Surgical (United States)",
       "rorId": "https://ror.org/05g2n4m79",
       "location": {
@@ -20869,17 +20463,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Intuitive Surgical (United States)"
-      ],
+      "aliases": ["Intuitive Surgical (United States)"],
       "acronyms": [],
       "yearEstablished": 1995,
       "externalIds": {
         "GRID": "grid.420371.3"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "collaborations": [],
       "fundingSources": [],
       "researchFocus": [
@@ -21115,9 +20705,7 @@
       "website": "https://www.bostonscientific.com",
       "isFeatured": false,
       "relatedContent": [],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "geocoordinates": {
         "lat": 42.361154,
         "lng": -71.56156
@@ -21130,20 +20718,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Boston Scientific Corporation"
-      ],
-      "acronyms": [
-        "BSC"
-      ],
+      "aliases": ["Boston Scientific Corporation"],
+      "acronyms": ["BSC"],
       "yearEstablished": 1979,
       "externalIds": {
         "GRID": "grid.418905.1",
         "FundRef": "100008497.0"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "paperCount": 898,
       "patentCount": 1683,
       "employees": 48000,
@@ -21199,9 +20781,7 @@
         {
           "name": "Leonard S. Schleifer, M.D., Ph.D.",
           "role": "co-Chairman, President, and Chief Executive Officer",
-          "awards": [
-            "Ernst & Young's New York Entrepreneur Of The Year 2011"
-          ],
+          "awards": ["Ernst & Young's New York Entrepreneur Of The Year 2011"],
           "affiliation": "Regeneron Pharmaceuticals Inc"
         },
         {
@@ -21396,17 +20976,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Amgen (United States)"
-      ],
+      "aliases": ["Amgen (United States)"],
       "acronyms": [],
       "yearEstablished": 1988,
       "externalIds": {
         "GRID": "grid.418961.3"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "researchFocus": [
         "Biopharmaceuticals",
         "Immune-Related Diseases",
@@ -21668,19 +21244,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Siemens Medical Solutions",
-        "Siemens Healthcare"
-      ],
+      "aliases": ["Siemens Medical Solutions", "Siemens Healthcare"],
       "acronyms": [],
       "yearEstablished": 1847,
       "externalIds": {
         "GRID": "grid.481749.7",
         "FundRef": "501100011699.0"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "collaborations": [],
       "researchFocus": [
         "Laboratory Diagnostics",
@@ -21888,9 +21459,9 @@
       "isFeatured": false,
       "relatedContent": [
         {
-          "headline": "GE Healthcare Enhances Single-Use Manufacturing Capabilities",
-          "url": "https://www.pharmaceuticalprocessingworld.com/ge-healthcare-enhances-single-use-manufacturing-capabilities/",
-          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/10/GE-to-Invest-150M-Euros-in-Bio-Manufacturing-Campus-in-Ireland.jpg"
+          "headline": "Affitech, GE Healthcare execute exclusive licensing agreement",
+          "url": "https://www.rdworldonline.com/affitech-ge-healthcare-execute-exclusive-licensing-agreement/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/10/GE-HealthCare_GE-Healthcare-AI-Res_264ec84d-1-768x576.webp"
         }
       ],
       "subsidiaries": [
@@ -21900,9 +21471,7 @@
         "Luxembourg ; GE Hungary Co. Ltd. 100",
         "Hungary."
       ],
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "collaborations": [],
       "officialName": "GE HealthCare Technologies, Inc.",
       "rorId": "https://ror.org/02j8e4c21",
@@ -21945,9 +21514,7 @@
         "Pharmaceutical Diagnostics facilities (specific locations not provided in the data)"
       ],
       "standardized_name": "GE HealthCare (USA)",
-      "aliases": [
-        "GE HealthCare (USA)"
-      ],
+      "aliases": ["GE HealthCare (USA)"],
       "employees": 50000,
       "annualRevenue": 19550000000,
       "numberOfResearchers": null,
@@ -22090,17 +21657,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Edwards Lifesciences (United States)"
-      ],
+      "aliases": ["Edwards Lifesciences (United States)"],
       "acronyms": [],
       "yearEstablished": 2000,
       "externalIds": {
         "GRID": "grid.467358.b"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "funding": "",
       "researchers": "",
       "relatedContent": [],
@@ -22154,7 +21717,7 @@
           "images": [
             {
               "url": "https://www.rdworldonline.com/wp-content/uploads/2024/10/EVOQUE1101HeroFINAL091818.jpg",
-              "caption": "Placeholder image for Transcatheter Heart Valve Replacement",
+              "caption": "Image for Transcatheter Heart Valve Replacement",
               "credit": "Image courtesy of Edwards Lifesciences"
             }
           ]
@@ -22274,9 +21837,7 @@
       },
       "website": "https://www.stryker.com/us/en/index.html",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Stryker (United States)",
       "rorId": "https://ror.org/043affe91",
       "location": {
@@ -22285,9 +21846,7 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Stryker (United States)"
-      ],
+      "aliases": ["Stryker (United States)"],
       "acronyms": [],
       "yearEstablished": 1946,
       "externalIds": {
@@ -22295,9 +21854,7 @@
         "FundRef": "100008894.0",
         "Wikidata": "Q2357515"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "relatedContent": [],
       "collaborations": [],
       "fundingSources": [],
@@ -22405,9 +21962,7 @@
         {
           "name": "Arleen Paulino",
           "role": "Senior Vice President of Manufacturing",
-          "awards": [
-            "Inducted into Women in Manufacturing Hall of Fame"
-          ],
+          "awards": ["Inducted into Women in Manufacturing Hall of Fame"],
           "affiliation": "Amgen"
         }
       ],
@@ -22614,18 +22169,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Amgen (United States)"
-      ],
+      "aliases": ["Amgen (United States)"],
       "acronyms": [],
       "yearEstablished": 1980,
       "externalIds": {
         "GRID": "grid.417886.4",
         "FundRef": "100002429.0"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "researchFocus": [
         "Oncology",
         "Cardiovascular Disease",
@@ -22697,11 +22248,7 @@
         "Mass Spectrometry",
         "Translational Omics"
       ],
-      "subsidiaries": [
-        "Life Technologies",
-        "Patheon",
-        "PPD"
-      ],
+      "subsidiaries": ["Life Technologies", "Patheon", "PPD"],
       "teamMembers": [
         {
           "name": "Marc N. Casper",
@@ -22880,9 +22427,7 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Thermo Fisher Scientific (United States)"
-      ],
+      "aliases": ["Thermo Fisher Scientific (United States)"],
       "acronyms": [],
       "yearEstablished": 2006,
       "externalIds": {
@@ -22890,9 +22435,7 @@
         "FundRef": "100005180.0",
         "Wikidata": "Q643674"
       },
-      "categories": [
-        "LSB"
-      ],
+      "categories": ["LSB"],
       "researchFocus": [
         "Genomics and next-generation sequencing",
         "Proteomics and mass spectrometry",
@@ -23162,21 +22705,14 @@
       "location": {},
       "organizationType": "Government",
       "status": "Active",
-      "aliases": [
-        "Eesti Teaduste Akadeemia",
-        "ETA"
-      ],
-      "acronyms": [
-        "CAS"
-      ],
+      "aliases": ["Eesti Teaduste Akadeemia", "ETA"],
+      "acronyms": ["CAS"],
       "yearEstablished": 1949,
       "externalIds": {
         "GRID": "grid.9227.e",
         "FundRef": "501100002367.0"
       },
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "researchFocus": [
         "Quantum Physics and Communication",
         "Biotechnology and Stem Cell Research",
@@ -23466,28 +23002,19 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/09/quantumcommu-368x300.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Max Planck Society",
       "rorId": "https://ror.org/01hhn8329",
       "location": {},
       "organizationType": "Nonprofit",
       "status": "Active",
-      "aliases": [
-        "Max Planck Society"
-      ],
-      "acronyms": [
-        "MPG"
-      ],
+      "aliases": ["Max Planck Society"],
+      "acronyms": ["MPG"],
       "yearEstablished": 1911,
       "externalIds": {
         "GRID": "grid.4372.2"
       },
-      "categories": [
-        "MRI",
-        "RA"
-      ],
+      "categories": ["MRI", "RA"],
       "paperCount": 0,
       "patentCount": 0,
       "researchFocus": [
@@ -23872,18 +23399,14 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Weizmann Institute of Science"
-      ],
+      "aliases": ["Weizmann Institute of Science"],
       "acronyms": [],
       "yearEstablished": 1934,
       "externalIds": {
         "GRID": "grid.13992.30",
         "FundRef": "501100001735.0"
       },
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "researchFocus": [
         "Cancer Research and Immunotherapy",
         "Neuroscience",
@@ -24148,20 +23671,14 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Indian Institute of Science Bangalore"
-      ],
-      "acronyms": [
-        "IISc"
-      ],
+      "aliases": ["Indian Institute of Science Bangalore"],
+      "acronyms": ["IISc"],
       "yearEstablished": 1909,
       "externalIds": {
         "GRID": "grid.34980.36",
         "FundRef": "100007780.0"
       },
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "researchFocus": [
         "Physical and Chemical Sciences",
         "Life Sciences & Biotechnology",
@@ -24479,22 +23996,21 @@
       },
       "organizationType": "Nonprofit",
       "status": "Active",
-      "aliases": [
-        "RTI",
-        "Research Triangle Institute"
-      ],
-      "acronyms": [
-        "SRI"
-      ],
+      "aliases": ["RTI", "Research Triangle Institute"],
+      "acronyms": ["SRI"],
       "yearEstablished": 1946,
       "externalIds": {
         "GRID": "grid.98913.3a",
         "FundRef": "100017069.0"
       },
-      "categories": [
-        "MRI"
+      "categories": ["MRI"],
+      "relatedContent": [
+        {
+          "headline": "SRI International And Sanofi Enter A Drug Discovery And Research Collaboration",
+          "url": "https://www.rdworldonline.com/sri-international-and-sanofi-enter-a-drug-discovery-and-research-collaboration/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2021/07/iStock-1051616796_1504x800-768x409.jpg"
+        }
       ],
-      "relatedContent": [],
       "researchFocus": [
         "Artificial Intelligence and Machine Learning",
         "Robotics and Automation",
@@ -24676,9 +24192,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/09/howzikainfec-368x300.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Howard Hughes Medical Institute",
       "rorId": "https://ror.org/006w34k90",
       "location": {
@@ -24688,19 +24202,13 @@
       },
       "organizationType": "Nonprofit",
       "status": "Active",
-      "aliases": [
-        "Howard Hughes Medical Institute"
-      ],
-      "acronyms": [
-        "HHMI"
-      ],
+      "aliases": ["Howard Hughes Medical Institute"],
+      "acronyms": ["HHMI"],
       "yearEstablished": 1953,
       "externalIds": {
         "GRID": "grid.413575.1"
       },
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "multimedia": [
         {
           "type": "video",
@@ -24912,29 +24420,21 @@
       },
       "website": "https://www.cnrs.fr/en",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Centre National de la Recherche Scientifique",
       "rorId": "https://ror.org/02feahw73",
       "location": {},
       "organizationType": "Government",
       "status": "Active",
-      "aliases": [
-        "Centre National de la Recherche Scientifique"
-      ],
-      "acronyms": [
-        "CNRS"
-      ],
+      "aliases": ["Centre National de la Recherche Scientifique"],
+      "acronyms": ["CNRS"],
       "yearEstablished": 1939,
       "externalIds": {
         "GRID": "grid.4444.0",
         "ISNI": "0000 0001 2259 7504",
         "Wikidata": "Q280413"
       },
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "relatedContent": [],
       "researchFocus": [
         "Chemistry",
@@ -25044,9 +24544,7 @@
         "Systems Biology",
         "Virology"
       ],
-      "subsidiaries": [
-        "["
-      ],
+      "subsidiaries": ["["],
       "teamMembers": [
         {
           "name": "Lawrence A. Tabak",
@@ -25195,20 +24693,14 @@
       },
       "organizationType": "Government",
       "status": "Active",
-      "aliases": [
-        "National Institutes of Health"
-      ],
-      "acronyms": [
-        "NIH"
-      ],
+      "aliases": ["National Institutes of Health"],
+      "acronyms": ["NIH"],
       "yearEstablished": 1887,
       "externalIds": {
         "GRID": "grid.94365.3d"
       },
       "parentOrganization": "",
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "researchFocus": [
         "Cancer",
         "Genetics",
@@ -25447,7 +24939,18 @@
       },
       "website": "https://www.riken.jp/en/",
       "isFeatured": false,
-      "relatedContent": [],
+      "relatedContent": [
+        {
+          "headline": "Quantinuum Provides Riken Large Scale Hybrid Quantum Supercomputing Platform",
+          "url": "https://www.rdworldonline.com/quantinuum-provides-riken-large-scale-hybrid-quantum-supercomputing-platform/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-19-50-11-Quantinuum-Hardware-System-Model-H1.jpg"
+        },
+        {
+          "headline": "LANL awarded spot in 'top 50 best companies to work for' by LATINA Style Inc.",
+          "url": "https://discover.lanl.gov/news/awards-and-recognitions/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/08/RD100-1.jpg"
+        }
+      ],
       "officialName": "RIKEN",
       "rorId": "https://ror.org/01sjwvz98",
       "location": {
@@ -25459,9 +24962,7 @@
       "externalIds": {
         "GRID": "grid.7597.c"
       },
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "researchFocus": [
         "Brain Science",
         "Quantum Computing",
@@ -25703,20 +25204,14 @@
       },
       "organizationType": "Nonprofit",
       "status": "Active",
-      "aliases": [
-        "Scripps Research Institute"
-      ],
-      "acronyms": [
-        "TSRI"
-      ],
+      "aliases": ["Scripps Research Institute"],
+      "acronyms": ["TSRI"],
       "yearEstablished": 1991,
       "externalIds": {
         "GRID": "grid.214007.0",
         "FundRef": "100011769.0"
       },
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "teamMembers": [],
       "multimedia": [
         {
@@ -25777,11 +25272,7 @@
       "name": "National Research Council of Italy",
       "description": "The National Research Council (CNR) is Italy's largest public research institution, employing over 8,000 staff members, with more than half being researchers and technologists, plus approximately 4,000 young researchers engaged in postgraduate studies. CNR's multidisciplinary research spans across seven departments including biomedical sciences, physical sciences, earth and environmental sciences, chemical sciences, engineering and ICT, agricultural sciences, and humanities. The organization actively promotes international collaborations, and notably, registered Italy's first internet domain (cnr.it) in December 1987.",
       "primaryCategory": "Multidisciplinary Research Institutes",
-      "additionalCategories": [
-        "Science",
-        "Technology",
-        "Innovation"
-      ],
+      "additionalCategories": ["Science", "Technology", "Innovation"],
       "researchAreas": [
         "Biomedical Sciences",
         "Physical Sciences and Technologies of Matter",
@@ -25980,9 +25471,7 @@
       "website": "https://www.cnr.it/en",
       "isFeatured": false,
       "subsidiaries": [],
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "relatedContent": [],
       "officialName": "Consiglio Nazionale delle Ricerche",
       "rorId": "https://ror.org/02cmn6c53",
@@ -26025,10 +25514,7 @@
         "S&T Digital Library"
       ],
       "standardized_name": "Consiglio Nazionale delle Ricerche",
-      "aliases": [
-        "National Research Council (CNR) of Italy",
-        "CNR"
-      ],
+      "aliases": ["National Research Council (CNR) of Italy", "CNR"],
       "employees": 8000,
       "annualRevenue": 1000000000,
       "numberOfResearchers": 113,
@@ -26169,9 +25655,7 @@
       },
       "website": "http://www.csic.es/es",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Consejo Superior de Investigaciones Científicas",
       "rorId": "https://ror.org/02gfc7t72",
       "location": {
@@ -26180,20 +25664,20 @@
       },
       "organizationType": "Government",
       "status": "Active",
-      "aliases": [
-        "Consejo Superior de Investigaciones Científicas"
-      ],
-      "acronyms": [
-        "CSIC"
-      ],
+      "aliases": ["Consejo Superior de Investigaciones Científicas"],
+      "acronyms": ["CSIC"],
       "yearEstablished": 1939,
       "externalIds": {
         "GRID": "grid.4711.3"
       },
-      "categories": [
-        "MRI"
+      "categories": ["MRI"],
+      "relatedContent": [
+        {
+          "headline": "Mechanisms Predict Colon Cancer Treatment Response",
+          "url": "https://www.rdworldonline.com/mechanisms-predict-colon-cancer-treatment-response/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/10/Closer_to_a_Cure_for_Gastrointestinal_Cancer_ml.jpg"
+        }
       ],
-      "relatedContent": [],
       "collaborations": [],
       "researchFocus": [
         "Life Sciences",
@@ -26405,20 +25889,14 @@
       },
       "organizationType": "Facility",
       "status": "Active",
-      "aliases": [
-        "KIST"
-      ],
-      "acronyms": [
-        "KIST"
-      ],
+      "aliases": ["KIST"],
+      "acronyms": ["KIST"],
       "yearEstablished": 1966,
       "externalIds": {
         "GRID": "grid.35541.36",
         "FundRef": "501100003693.0"
       },
-      "categories": [
-        "MRI"
-      ],
+      "categories": ["MRI"],
       "researchFocus": [
         "Brain Science and Technology",
         "Artificial Intelligence",
@@ -26674,14 +26152,12 @@
       "isFeatured": false,
       "relatedContent": [
         {
-          "headline": "Harvard Chemists’ Breakthrough in Synthesis Advances a Potent Anti-Cancer Agent",
-          "url": "https://www.drugdiscoverytrends.com/harvard-chemists-breakthrough-in-synthesis-advances-a-potent-anti-cancer-agent/",
-          "imageUrl": "https://drugdiscoverytrends.com/wp-content/uploads/2019/10/190220-cancer.jpg"
+          "headline": "Jaguar, Harvard University to Develop Next-Gen Robotic Factory",
+          "url": "https://www.rdworldonline.com/jaguar-harvard-university-to-develop-next-gen-robotic-factory/",
+          "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2017/09/rd1709_crophero-experiencejaguarsolihullgcbwdesktop940x510tcm91206337desktop940x510-1200x462.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Harvard University",
       "rorId": "https://ror.org/03vek6s52",
       "location": {
@@ -26690,10 +26166,7 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Harvard College",
-        "Harvard"
-      ],
+      "aliases": ["Harvard College", "Harvard"],
       "acronyms": [],
       "yearEstablished": 1636,
       "externalIds": {
@@ -26701,9 +26174,7 @@
         "FundRef": "100007229.0",
         "Wikidata": "Q13371"
       },
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "collaborations": [],
       "teamMembers": [],
       "awards": [],
@@ -26948,9 +26419,7 @@
       },
       "website": "https://www.ethz.ch",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "ETH Zurich",
       "rorId": "https://ror.org/05a28rw58",
       "location": {},
@@ -26968,10 +26437,14 @@
         "QS World University Rankings 2025": "7"
       },
       "parentOrganization": "",
-      "categories": [
-        "UNI"
+      "categories": ["UNI"],
+      "relatedContent": [
+        {
+          "headline": "ETH Zurich Researchers Created An Ai Robot That Beats Humans At Labyrith",
+          "url": "https://www.rdworldonline.com/eth-zurich-researchers-created-an-ai-robot-that-beats-humans-at-labyrith/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2023/12/ETH-Zurich-labyrinth-game-image-2.jpeg"
+        }
       ],
-      "relatedContent": [],
       "teamMembers": [],
       "awards": [],
       "multimedia": [
@@ -27256,23 +26729,14 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2021/04/20210419_Plastic_AVL_1040-1200px-768x549.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "University of California, Berkeley",
       "rorId": "https://ror.org/01an7q238",
       "location": {},
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "UCB",
-        "UC Berkeley",
-        "Cal",
-        "California, Berkeley"
-      ],
-      "acronyms": [
-        "UCB"
-      ],
+      "aliases": ["UCB", "UC Berkeley", "Cal", "California, Berkeley"],
+      "acronyms": ["UCB"],
       "yearEstablished": 1868,
       "externalIds": {
         "GRID": "grid.47840.3f",
@@ -27280,9 +26744,7 @@
         "Wikidata": "Q168756"
       },
       "parentOrganization": "",
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "teamMembers": [],
       "awards": [],
       "multimedia": [
@@ -27548,9 +27010,7 @@
           "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2018/08/178354_web.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Nanyang Technological University",
       "rorId": "https://ror.org/02e7b5302",
       "location": {
@@ -27559,20 +27019,14 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Nanyang Technological University"
-      ],
-      "acronyms": [
-        "NTU"
-      ],
+      "aliases": ["Nanyang Technological University"],
+      "acronyms": ["NTU"],
       "yearEstablished": 1955,
       "externalIds": {
         "GRID": "grid.59025.3b",
         "FundRef": "501100001475.0"
       },
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "researchFocus": [
         "Artificial Intelligence",
         "Quantum Technologies",
@@ -27630,7 +27084,7 @@
           "images": [
             {
               "url": "https://www.rdworldonline.com/wp-content/uploads/2024/10/HIVE.jpg",
-              "caption": "Placeholder image for NTU EcoCampus Initiative",
+              "caption": "Image for NTU EcoCampus Initiative",
               "credit": "Image courtesy of Nanyang Technological University"
             }
           ]
@@ -27792,22 +27246,22 @@
       "location": {},
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Technical University of Denmark"
-      ],
-      "acronyms": [
-        "DTU"
-      ],
+      "aliases": ["Technical University of Denmark"],
+      "acronyms": ["DTU"],
       "yearEstablished": 1829,
       "externalIds": {
         "GRID": "grid.5170.3",
         "FundRef": "501100005192.0",
         "Wikidata": "Q1269766"
       },
-      "categories": [
-        "UNI"
+      "categories": ["UNI"],
+      "relatedContent": [
+        {
+          "headline": "Quantum Electronics Aided By Novel Nano Material",
+          "url": "https://www.rdworldonline.com/quantum-electronics-aided-by-novel-nano-material/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/10/graphenenano-4.jpg"
+        }
       ],
-      "relatedContent": [],
       "researchFocus": [
         "Energy Technologies",
         "Biotechnology",
@@ -28005,26 +27459,20 @@
       },
       "website": "https://www.imperial.ac.uk",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Imperial College London",
       "rorId": "https://ror.org/041kmwe10",
       "location": {},
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Imperial College London"
-      ],
+      "aliases": ["Imperial College London"],
       "acronyms": [],
       "yearEstablished": 1907,
       "externalIds": {
         "GRID": "grid.7445.2",
         "FundRef": "501100000761.0"
       },
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "relatedContent": [],
       "teamMembers": [],
       "awards": "",
@@ -28102,10 +27550,7 @@
       "name": "École Polytechnique Fédérale de Lausanne",
       "description": "The École Polytechnique Fédérale de Lausanne (EPFL), a public research university in Switzerland founded in 1853 as École Spéciale de Lausanne, operates more than 350 laboratories and research groups, conducting research in fields ranging from information and communication technologies to life sciences and engineering. The EPFL+ECAL Lab, established in 2007, combines academic research, artistic creativity, and cultural understanding through a transdisciplinary team of designers, engineers, and psychologists. EPFL collaborates extensively with industry partners and academic institutions, maintaining over 150 international exchange and double degree agreements with universities worldwide.",
       "primaryCategory": "Universities",
-      "additionalCategories": [
-        "Science and Technology",
-        "Innovation Hub"
-      ],
+      "additionalCategories": ["Science and Technology", "Innovation Hub"],
       "researchAreas": [
         "Information and communication technologies",
         "Life sciences",
@@ -28230,9 +27675,7 @@
       },
       "website": "https://www.epfl.ch/en/",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "École Polytechnique Fédérale de Lausanne",
       "rorId": "https://ror.org/02s376052",
       "location": {
@@ -28241,23 +27684,23 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "École Polytechnique Fédérale de Lausanne"
-      ],
-      "acronyms": [
-        "EPFL"
-      ],
+      "aliases": ["École Polytechnique Fédérale de Lausanne"],
+      "acronyms": ["EPFL"],
       "yearEstablished": 1969,
       "externalIds": {
         "GRID": "grid.5333.6",
         "FundRef": "501100001703.0"
       },
       "parentOrganization": "",
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "funding": "Public institution funded by the Swiss Confederation",
-      "relatedContent": [],
+      "relatedContent": [
+        {
+          "headline": "Innovative Biologically Derived Metal Organic Framework Mimics Dna",
+          "url": "https://www.rdworldonline.com/innovative-biologically-derived-metal-organic-framework-mimics-dna/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/09/EPFL2.jpg"
+        }
+      ],
       "fundingSources": [],
       "teamMembers": [],
       "awards": [],
@@ -28330,7 +27773,7 @@
           "images": [
             {
               "url": "https://www.rdworldonline.com/wp-content/uploads/2024/10/blueBrain2.jpg",
-              "caption": "Placeholder image for Blue Brain Project",
+              "caption": "Image for Blue Brain Project",
               "credit": "Image courtesy of École Polytechnique Fédérale de Lausanne"
             }
           ]
@@ -28438,30 +27881,20 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2021/08/AdobeStock_122942306.jpeg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Carnegie Mellon University",
       "rorId": "https://ror.org/05x2bcf33",
       "location": {},
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "CMU",
-        "Carnegie Mellon"
-      ],
-      "acronyms": [
-        "CMU"
-      ],
+      "aliases": ["CMU", "Carnegie Mellon"],
+      "acronyms": ["CMU"],
       "yearEstablished": 1900,
       "externalIds": {
         "GRID": "grid.147455.6",
         "FundRef": "100008047.0"
       },
-      "categories": [
-        "UNI",
-        "RA"
-      ],
+      "categories": ["UNI", "RA"],
       "paperCount": 0,
       "patentCount": 0,
       "funding": "",
@@ -28562,9 +27995,7 @@
         {
           "name": "Frances Arnold",
           "role": "Professor of Chemical Engineering",
-          "awards": [
-            "Nobel Prize in Chemistry (2018)"
-          ],
+          "awards": ["Nobel Prize in Chemistry (2018)"],
           "affiliation": "California Institute of Technology"
         }
       ],
@@ -28698,9 +28129,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/09/192335_web-368x300.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "California Institute of Technology",
       "rorId": "https://ror.org/05dxps055",
       "location": {
@@ -28709,20 +28138,14 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Caltech"
-      ],
-      "acronyms": [
-        "CIT"
-      ],
+      "aliases": ["Caltech"],
+      "acronyms": ["CIT"],
       "yearEstablished": 1891,
       "externalIds": {
         "GRID": "grid.20861.3d",
         "FundRef": "100006961.0"
       },
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "researchFocus": [
         "Quantum Science and Engineering",
         "Bioinformatics",
@@ -28973,9 +28396,7 @@
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2019/09/166130_web-368x300.jpg"
         }
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Princeton University",
       "rorId": "https://ror.org/00hx57361",
       "location": {
@@ -28984,19 +28405,14 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Princeton",
-        "PU"
-      ],
+      "aliases": ["Princeton", "PU"],
       "acronyms": [],
       "yearEstablished": 1746,
       "externalIds": {
         "GRID": "grid.16750.35",
         "FundRef": "100006734.0"
       },
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "researchFocus": [
         "Quantum Science and Engineering",
         "Artificial Intelligence",
@@ -29076,9 +28492,7 @@
         "Electrical and Computer Engineering",
         "Materials Science and Engineering"
       ],
-      "teamMembers": [
-        "Ángel Cabrera (President)"
-      ],
+      "teamMembers": ["Ángel Cabrera (President)"],
       "collaborations": [
         {
           "name": "Georgia Tech Research Institute (GTRI)",
@@ -29246,9 +28660,7 @@
       },
       "website": "https://www.gatech.edu",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Georgia Institute of Technology",
       "rorId": "https://ror.org/01zkghx44",
       "location": {
@@ -29257,12 +28669,8 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "Institute of Gas Technology"
-      ],
-      "acronyms": [
-        "GT"
-      ],
+      "aliases": ["Institute of Gas Technology"],
+      "acronyms": ["GT"],
       "yearEstablished": 1885,
       "externalIds": {
         "GRID": "grid.213917.f",
@@ -29270,10 +28678,14 @@
         "Wikidata": "Q864855"
       },
       "parentOrganization": "",
-      "categories": [
-        "UNI"
+      "categories": ["UNI"],
+      "relatedContent": [
+        {
+          "headline": "Slothbot Takes A Leisurely Approach To Environmental Monitoring",
+          "url": "https://www.rdworldonline.com/slothbot-takes-a-leisurely-approach-to-environmental-monitoring/",
+          "imageUrl": "https://media-rd.s3.amazonaws.com/embedded_image/2019/05/slothbot.jpg"
+        }
       ],
-      "relatedContent": [],
       "researchFocus": [
         "Robotics and Autonomy",
         "Cybersecurity",
@@ -29327,11 +28739,7 @@
       "name": "Delft University of Technology",
       "description": "Delft University of Technology (TU Delft) is the largest engineering sciences university in the Netherlands. It focuses on technologies for societal challenges. Its research facilities and laboratories include the IDE Research Labs (Applied Labs and Foundational Labs), the Model Making and Machine Lab, the Physical and Ergonomics Lab, and the Product Evaluation Laboratory. The university's research spans robotics, AI, quantum technology, and the circular economy, emphasizing innovation, entrepreneurship, and sustainability.",
       "primaryCategory": "Universities",
-      "additionalCategories": [
-        "Engineering",
-        "Technology",
-        "Research"
-      ],
+      "additionalCategories": ["Engineering", "Technology", "Research"],
       "researchAreas": [
         "Robotics",
         "Artificial Intelligence",
@@ -29486,9 +28894,7 @@
       },
       "website": "https://www.tudelft.nl",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Delft University of Technology",
       "rorId": "https://ror.org/02e2c7k09",
       "location": {
@@ -29509,9 +28915,7 @@
         "FundRef": "501100001831.0",
         "Wikidata": "Q752663"
       },
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "relatedContent": [],
       "multimedia": [
         {
@@ -29732,9 +29136,7 @@
       },
       "website": "https://www.kuleuven.be",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "KU Leuven",
       "rorId": "https://ror.org/05f950310",
       "location": {
@@ -29743,20 +29145,14 @@
       },
       "organizationType": "Education",
       "status": "Active",
-      "aliases": [
-        "KU Leuven"
-      ],
-      "acronyms": [
-        "KUL"
-      ],
+      "aliases": ["KU Leuven"],
+      "acronyms": ["KUL"],
       "yearEstablished": 1425,
       "externalIds": {
         "GRID": "grid.5596.f",
         "FundRef": "501100004040.0"
       },
-      "categories": [
-        "UNI"
-      ],
+      "categories": ["UNI"],
       "researchers": "More than 7,000 researchers",
       "relatedContent": [],
       "multimedia": [
@@ -29946,17 +29342,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Yaskawa Electric (Japan)"
-      ],
+      "aliases": ["Yaskawa Electric (Japan)"],
       "acronyms": [],
       "yearEstablished": 1915,
       "externalIds": {
         "GRID": "grid.471331.3"
       },
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "funding": "",
       "researchers": "",
       "relatedContent": [],
@@ -30169,17 +29561,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Boston Dynamics"
-      ],
+      "aliases": ["Boston Dynamics"],
       "acronyms": [],
       "yearEstablished": 1992,
       "externalIds": {
         "GRID": "grid.504279.d"
       },
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "funding": "",
       "researchers": "",
       "relatedContent": [],
@@ -30370,9 +29758,7 @@
       },
       "website": "https://global.abb/group/en",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "ABB (Switzerland)",
       "rorId": "https://ror.org/00ks5vt51",
       "location": {
@@ -30381,18 +29767,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "ABB (Switzerland)"
-      ],
+      "aliases": ["ABB (Switzerland)"],
       "acronyms": [],
       "yearEstablished": 1988,
       "externalIds": {
         "GRID": "grid.420309.c",
         "Wikidata": "Q52825"
       },
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "funding": "",
       "researchers": "",
       "relatedContent": [],
@@ -30565,18 +29947,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Fanuc (Japan)"
-      ],
+      "aliases": ["Fanuc (Japan)"],
       "acronyms": [],
       "yearEstablished": 1958,
       "externalIds": {
         "GRID": "grid.471089.3",
         "FundRef": "501100013125.0"
       },
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "funding": "",
       "researchers": "",
       "relatedContent": [],
@@ -30652,9 +30030,7 @@
         "Energy-efficient Technologies",
         "Human-Robot Collaboration"
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "awards": [
         {
           "name": "KUKA Innovation Award",
@@ -30730,17 +30106,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "KUKA (Germany)"
-      ],
+      "aliases": ["KUKA (Germany)"],
       "acronyms": [],
       "yearEstablished": 1898,
       "externalIds": {
         "GRID": "grid.425675.7"
       },
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "funding": "",
       "researchers": "",
       "relatedContent": [],
@@ -30838,9 +30210,7 @@
         {
           "name": "Esben Østergaard",
           "role": "Co-founder",
-          "awards": [
-            "Engelberger Robotics Award 2018"
-          ],
+          "awards": ["Engelberger Robotics Award 2018"],
           "affiliation": "Former CTO"
         },
         {
@@ -30974,9 +30344,7 @@
       "website": "https://www.universal-robots.com",
       "isFeatured": false,
       "subsidiaries": [],
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "relatedContent": [],
       "collaborations": [],
       "officialName": "Universal Robots A/S",
@@ -31018,9 +30386,7 @@
         "UR Academy Training Centers"
       ],
       "standardized_name": "Universal Robots",
-      "aliases": [
-        "Universal Robots"
-      ],
+      "aliases": ["Universal Robots"],
       "employees": 1000,
       "annualRevenue": 304000000,
       "numberOfResearchers": null,
@@ -31180,17 +30546,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "iRobot (United States)"
-      ],
+      "aliases": ["iRobot (United States)"],
       "acronyms": [],
       "yearEstablished": 1990,
       "externalIds": {
         "GRID": "grid.455684.e"
       },
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "funding": "",
       "researchers": "",
       "relatedContent": [],
@@ -31352,9 +30714,7 @@
       },
       "website": "https://group.softbank/en",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "SoftBank Group (Japan)",
       "rorId": "https://ror.org/02ew2ks20",
       "location": {
@@ -31363,17 +30723,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "SoftBank Group (Japan)"
-      ],
+      "aliases": ["SoftBank Group (Japan)"],
       "acronyms": [],
       "yearEstablished": 1981,
       "externalIds": {
         "GRID": "grid.497125.c"
       },
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "funding": "",
       "researchers": "",
       "relatedContent": [],
@@ -31619,9 +30975,7 @@
       },
       "website": "https://www.dji.com/",
       "isFeatured": false,
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "relatedContent": [],
       "officialName": "",
       "rorId": "https://ror.org/05f50ks09",
@@ -31656,9 +31010,7 @@
         "DJI Aerospace facility in Doral, FL, United States"
       ],
       "standardized_name": "SZ DJI Technology Co., Ltd.",
-      "aliases": [
-        "SZ DJI Technology Co., Ltd."
-      ],
+      "aliases": ["SZ DJI Technology Co., Ltd."],
       "employees": 14000,
       "annualRevenue": 2610294042,
       "numberOfResearchers": 3500,
@@ -31828,9 +31180,7 @@
       "website": "https://industrial.omron.us/en/products/robotics",
       "isFeatured": false,
       "subsidiaries": [],
-      "categories": [
-        "RA"
-      ],
+      "categories": ["RA"],
       "relatedContent": [],
       "fundingSources": [],
       "officialName": "OMRON Corporation",
@@ -31867,9 +31217,7 @@
         "Omron Laboratory at CEET for student projects and robotics exploration"
       ],
       "standardized_name": "Omron Robotics and Safety Technologies",
-      "aliases": [
-        "Omron Robotics and Safety Technologies"
-      ],
+      "aliases": ["Omron Robotics and Safety Technologies"],
       "employees": 28450,
       "annualRevenue": 288600000,
       "numberOfResearchers": null,
@@ -31997,9 +31345,7 @@
       },
       "website": "https://www.tsmc.com/english",
       "isFeatured": true,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Taiwan Semiconductor Manufacturing Company (Taiwan)",
       "rorId": "https://ror.org/02wx79d08",
       "location": {
@@ -32008,19 +31354,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Taiwan Semiconductor Manufacturing Company (Taiwan)"
-      ],
-      "acronyms": [
-        "TSMC"
-      ],
+      "aliases": ["Taiwan Semiconductor Manufacturing Company (Taiwan)"],
+      "acronyms": ["TSMC"],
       "yearEstablished": 1987,
       "externalIds": {
         "GRID": "grid.454156.7"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "relatedContent": [],
       "fundingSources": [],
       "researchFocus": [
@@ -32225,9 +31565,7 @@
       },
       "website": "https://www.micron.com",
       "isFeatured": false,
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "officialName": "",
@@ -32272,9 +31610,7 @@
         "Global Manufacturing Facilities across 17 countries"
       ],
       "standardized_name": "Micron Technology Incorporated",
-      "aliases": [
-        "Micron Technology Incorporated"
-      ],
+      "aliases": ["Micron Technology Incorporated"],
       "employees": 40000,
       "annualRevenue": 25111000000,
       "numberOfResearchers": null,
@@ -32328,10 +31664,7 @@
         "High-Performance Computing",
         "Data Center Technologies"
       ],
-      "subsidiaries": [
-        "Xilinx",
-        "Pensando Systems"
-      ],
+      "subsidiaries": ["Xilinx", "Pensando Systems"],
       "teamMembers": [
         {
           "name": "Dr. Lisa Su",
@@ -32450,19 +31783,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Advanced Micro Devices (United States)"
-      ],
-      "acronyms": [
-        "AMD"
-      ],
+      "aliases": ["Advanced Micro Devices (United States)"],
+      "acronyms": ["AMD"],
       "yearEstablished": 1969,
       "externalIds": {
         "GRID": "grid.467220.5"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "relatedContent": [],
       "researchFocus": [
         "CPU Architecture",
@@ -32515,11 +31842,7 @@
       "name": "NXP Semiconductors NV",
       "description": "NXP Semiconductors, a Dutch semiconductor manufacturing and design company, focuses its R&D efforts on automotive, industrial & IoT, mobile, and communication infrastructure technologies. Headquartered in Eindhoven, Netherlands, NXP has invested significantly in expanding its R&D capabilities, notably with facilities in Austin, Texas. The NXP Advanced Manufacturing Lab at Austin Community College provides hands-on STEM education and training for both adult and high school students, fostering local technical talent in semiconductor manufacturing. The Smart Home Innovation Lab in Austin, designed as a fully furnished home environment, enables engineers to test and develop new smart home technologies in collaboration with partners like Honeywell.",
       "primaryCategory": "Semiconductors & Electronics",
-      "additionalCategories": [
-        "Electronics",
-        "IoT",
-        "Automotive Technology"
-      ],
+      "additionalCategories": ["Electronics", "IoT", "Automotive Technology"],
       "researchAreas": [
         "Secure Connectivity",
         "Near-field Communication",
@@ -32576,9 +31899,7 @@
         "NXP Semiconductors France SAS ; France",
         "Finland"
       ],
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "collaborations": [],
@@ -32630,9 +31951,7 @@
         "Oak Hill Campus Research Facilities"
       ],
       "standardized_name": "NXP Semiconductors NV",
-      "aliases": [
-        "NXP Semiconductors NV"
-      ],
+      "aliases": ["NXP Semiconductors NV"],
       "employees": 34000,
       "annualRevenue": 13300000000,
       "numberOfResearchers": null,
@@ -32757,9 +32076,7 @@
       },
       "website": "https://eng.sk.com/",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "SK Group (South Korea)",
       "rorId": "https://ror.org/03696td91",
       "location": {
@@ -32768,18 +32085,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "SK Group (South Korea)"
-      ],
+      "aliases": ["SK Group (South Korea)"],
       "acronyms": [],
       "yearEstablished": 1953,
       "externalIds": {
         "GRID": "grid.507563.2",
         "ISNI": "0000 0001 0573 1855"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "fundingSources": [],
@@ -32901,9 +32214,7 @@
       },
       "website": "https://www.appliedmaterials.com/us/en.html",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Applied Materials (United States)",
       "rorId": "https://ror.org/04h1q4c89",
       "location": {
@@ -32912,17 +32223,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Applied Materials (United States)"
-      ],
+      "aliases": ["Applied Materials (United States)"],
       "acronyms": [],
       "yearEstablished": 1967,
       "externalIds": {
         "GRID": "grid.455223.7"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "collaborations": [],
@@ -33058,20 +32365,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Texas Instruments (United States)"
-      ],
-      "acronyms": [
-        "TI"
-      ],
+      "aliases": ["Texas Instruments (United States)"],
+      "acronyms": ["TI"],
       "yearEstablished": 1930,
       "externalIds": {
         "GRID": "grid.453810.b",
         "FundRef": "100004361.0"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "collaborations": [],
@@ -33219,9 +32520,7 @@
       },
       "website": "https://www.asm.com/",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "ASM International (Netherlands)",
       "rorId": "https://ror.org/002yxfz10",
       "location": {
@@ -33230,19 +32529,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "ASM International (Netherlands)"
-      ],
-      "acronyms": [
-        "ASMi"
-      ],
+      "aliases": ["ASM International (Netherlands)"],
+      "acronyms": ["ASMi"],
       "yearEstablished": 1968,
       "externalIds": {
         "GRID": "grid.432314.3"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "currentProjects": [],
@@ -33387,9 +32680,7 @@
       },
       "website": "https://www.marvell.com/",
       "isFeatured": false,
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "officialName": "Marvell (United States)",
       "rorId": "https://ror.org/04wmff902",
       "location": {
@@ -33398,18 +32689,14 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Apple (United States)"
-      ],
+      "aliases": ["Apple (United States)"],
       "acronyms": [],
       "yearEstablished": 1995,
       "externalIds": {
         "GRID": "grid.507747.6"
       },
       "parentOrganization": "",
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "collaborations": [],
@@ -33487,9 +32774,7 @@
         "Mixed-Signal ICs",
         "Digital Signal Processing"
       ],
-      "teamMembers": [
-        "Vincent Roche (CEO and Chair of the Board)"
-      ],
+      "teamMembers": ["Vincent Roche (CEO and Chair of the Board)"],
       "facilities": [
         {
           "name": "Headquarters in Wilmington, Massachusetts",
@@ -33556,19 +32841,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Analog Devices (United States)"
-      ],
-      "acronyms": [
-        "ADI"
-      ],
+      "aliases": ["Analog Devices (United States)"],
+      "acronyms": ["ADI"],
       "yearEstablished": 1965,
       "externalIds": {
         "GRID": "grid.455526.5"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "collaborations": [],
@@ -33700,17 +32979,13 @@
       },
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Microchip Technology (United States)"
-      ],
+      "aliases": ["Microchip Technology (United States)"],
       "acronyms": [],
       "yearEstablished": 1989,
       "externalIds": {
         "GRID": "grid.471130.0"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "collaborations": [],
@@ -33785,9 +33060,7 @@
         "Cloud Computing",
         "Enterprise Security"
       ],
-      "subsidiaries": [
-        ""
-      ],
+      "subsidiaries": [""],
       "facilities": [
         {
           "name": "Headquarters in Palo Alto, California",
@@ -33841,17 +33114,13 @@
       "location": {},
       "organizationType": "Company",
       "status": "Active",
-      "aliases": [
-        "Broadcom (United States)"
-      ],
+      "aliases": ["Broadcom (United States)"],
       "acronyms": [],
       "yearEstablished": 1961,
       "externalIds": {
         "GRID": "grid.471058.f"
       },
-      "categories": [
-        "SE"
-      ],
+      "categories": ["SE"],
       "funding": "",
       "relatedContent": [],
       "collaborations": [],
@@ -34087,9 +33356,7 @@
         "Specialized laboratories for biomedical engineering"
       ],
       "standardized_name": "Helmholtz Association of German Research Centres",
-      "aliases": [
-        "Helmholtz Association of German Research Centres"
-      ],
+      "aliases": ["Helmholtz Association of German Research Centres"],
       "employees": 46000,
       "numberOfResearchers": null,
       "annualRnDSpendUSD": null,
@@ -34178,19 +33445,19 @@
             "2020": 1528,
             "2019": 1467
           },
-          "source": "",
-          "notes": ""
+          "source": "OpenAlex",
+          "notes": "The figures are based on data from the OpenAlex database. Pulled Oct. 28, 2024"
         },
         "patents": {
           "patentsPerYear": {
-            "2019": 128,
+            "2019": 69,
             "2020": 92,
             "2021": 98,
             "2022": 101,
             "2023": 116,
             "2024": 133
           },
-          "notes": "2019 data from GreyB. Data from 2020 to 2022 from IFI Claims. Data for other years from https://vips.pnnl.gov/search?dialog=survey."
+          "notes": "2019 figures from Google search filtering out non U.S. entries for that year. 2019 data from GreyB was 128 but are international in scope. 2019 value above estimated using the LLNL historical share of global vs. U.S. patents of around 65%, which is approximately 83. Data for other years from https://vips.pnnl.gov/search?dialog=survey. Source has sparse 2019 data."
         },
         "funding": null,
         "researchers": null,
@@ -34198,7 +33465,13 @@
       },
       "website": "https://www.llnl.gov",
       "isFeatured": false,
-      "relatedContent": [],
+      "relatedContent": [
+        {
+          "headline": "Three lab scientists are inducted into LLNL’s Entrepreneurs’ Hall of Fame",
+          "url": "https://www.rdworldonline.com/three-lab-scientists-are-inducted-into-llnls-entrepreneurs-hall-of-fame/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2022/03/EntrepreneursHallOfFame_875x500px-copy.jpg"
+        }
+      ],
       "recognitions": [
         {
           "name": "Nobel Prizes",
@@ -34216,13 +33489,8 @@
       },
       "organizationType": "National Laboratory",
       "status": "Active",
-      "aliases": [
-        "Lawrence Livermore Laboratory",
-        "LLNL"
-      ],
-      "acronyms": [
-        "LLNL"
-      ],
+      "aliases": ["Lawrence Livermore Laboratory", "LLNL"],
+      "acronyms": ["LLNL"],
       "yearEstablished": 1952,
       "externalIds": {
         "GRID": "",
@@ -34276,7 +33544,7 @@
           "id": "98b3025d-93d6-4039-9958-c8d560953d51",
           "images": [
             {
-              "url": "https://www.rdworldonline.com/wp-content/uploads/2024/10/Lawrence-Livermore-N_National-Ignition-Fa_5cf1ad77.webp",
+              "url": "https://www.rdworldonline.com/wp-content/uploads/2024/10/rc24full-lawrence-livermore-connect.jpg",
               "caption": "Image for National Ignition Facility (NIF)",
               "credit": "Image courtesy of Lawrence Livermore National Laboratory"
             }
@@ -34400,13 +33668,8 @@
       },
       "organizationType": "Research Laboratory",
       "status": "Active",
-      "aliases": [
-        "MIT LL",
-        "Lincoln Lab"
-      ],
-      "acronyms": [
-        "MIT LL"
-      ],
+      "aliases": ["MIT LL", "Lincoln Lab"],
+      "acronyms": ["MIT LL"],
       "yearEstablished": 1951,
       "externalIds": {
         "GRID": "",
@@ -34599,9 +33862,7 @@
       "organizationType": "National Laboratory",
       "status": "Active",
       "aliases": [],
-      "acronyms": [
-        "LANL"
-      ],
+      "acronyms": ["LANL"],
       "yearEstablished": 1943,
       "externalIds": {
         "GRID": "",
@@ -34609,9 +33870,7 @@
         "FundRef": ""
       },
       "parentOrganization": "Department of Energy (DOE)",
-      "categories": [
-        "Multidisciplinary Research Institutes"
-      ],
+      "categories": ["Multidisciplinary Research Institutes"],
       "industryCodes": {
         "NAICS": ""
       },
@@ -34667,10 +33926,7 @@
       "name": "Idaho National Laboratory",
       "description": "Idaho National Laboratory (INL), a U.S. Department of Energy multiprogram national laboratory managed by the Battelle Energy Alliance, focuses its research and development on several key areas. INL is renowned for its nuclear energy research, progress in reactor technologies, fuel cycle research, and nonproliferation, playing a central role in the DOE's Advanced Reactor Technologies (ART) Program. The laboratory also contributes to national and homeland security through research in critical infrastructure protection, cybersecurity, and technologies for defense and intelligence, operating the Cyber Core Integration Center to secure industrial control systems like power, oil, natural gas, and water from cyber threats. Furthermore, INL's energy and environment research focuses on improving energy generation, distribution, and storage, including renewable energy integration and progress in hybrid energy systems, bioenergy, and clean energy technologies. Located on an 890-square-mile desert site in southeastern Idaho, INL, established in 1949 as the National Reactor Testing Station, has a long history of nuclear energy research, including developing much of the world's current knowledge about how nuclear reactors behave.",
       "primaryCategory": "Energy, Environment & Sustainability",
-      "additionalCategories": [
-        "National Security",
-        "Energy and Environment"
-      ],
+      "additionalCategories": ["National Security", "Energy and Environment"],
       "researchAreas": [
         "Nuclear Reactor Technology",
         "Nuclear Fuel Cycle",
@@ -34763,12 +34019,8 @@
       },
       "organizationType": "National Laboratory",
       "status": "Active",
-      "aliases": [
-        "INL"
-      ],
-      "acronyms": [
-        "INL"
-      ],
+      "aliases": ["INL"],
+      "acronyms": ["INL"],
       "yearEstablished": 1949,
       "externalIds": {
         "GRID": "",
@@ -34776,9 +34028,7 @@
         "FundRef": ""
       },
       "parentOrganization": "U.S. Department of Energy",
-      "categories": [
-        "Energy, Environment & Sustainability"
-      ],
+      "categories": ["Energy, Environment & Sustainability"],
       "industryCodes": {
         "NAICS": ""
       },
@@ -34831,10 +34081,7 @@
       "name": "Battelle Memorial Institute",
       "description": "Battelle Memorial Institute (or simply Battelle) is a private nonprofit applied science and technology development company headquartered in Columbus, Ohio. It is one of the world's largest research institutes, conducting research and development work for government and commercial clients.",
       "primaryCategory": "Multidisciplinary Research Institutes",
-      "additionalCategories": [
-        "Applied Science",
-        "Technology Development"
-      ],
+      "additionalCategories": ["Applied Science", "Technology Development"],
       "researchAreas": [
         "Energy",
         "Environment",
@@ -34903,7 +34150,13 @@
       },
       "website": "https://www.battelle.org/",
       "isFeatured": false,
-      "relatedContent": [],
+      "relatedContent": [
+        {
+          "headline": "Battelle CCDS Critical Care Decontamination System Being Deployed To Meet Urgent Need For Personal Protective Equipment For Nation's Healthcare Workforce",
+          "url": "https://www.rdworldonline.com/battelle-ccds-critical-care-decontamination-system-being-deployed-to-meet-urgent-need-for-personal-protective-equipment-for-nations-healthcare-workforce/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2020/03/AdobeStock_332556464.jpeg"
+        }
+      ],
       "recognitions": [
         {
           "name": "Top Workplaces 2023",
@@ -34930,9 +34183,7 @@
         "FundRef": ""
       },
       "parentOrganization": "",
-      "categories": [
-        "Multidisciplinary Research Institutes"
-      ],
+      "categories": ["Multidisciplinary Research Institutes"],
       "industryCodes": {
         "NAICS": ""
       },
@@ -34983,11 +34234,7 @@
       "name": "Southwest Research Institute",
       "description": "The Southwest Research Institute (SwRI), a prominent independent, non-profit R&D organization founded in 1947, occupies a 1,500-acre campus in San Antonio, Texas. Employing more than 3,100 scientists, engineers, and technical staff, SwRI provides multidisciplinary research services across diverse sectors, including aerospace, automotive, energy, and defense. Through its eleven technical divisions, covering areas like applied physics, space science, and intelligent systems, SwRI conducts over 4,000 active research projects for government and industry clients, focusing on complex problem-solving technologies that benefit both technology and human well-being. With annual revenue of nearly $844 million, SwRI demonstrates a strong commitment to community engagement and STEM education through various programs supporting future researchers.",
       "primaryCategory": "Multidisciplinary Research Institutes",
-      "additionalCategories": [
-        "Engineering",
-        "Science",
-        "Technology"
-      ],
+      "additionalCategories": ["Engineering", "Science", "Technology"],
       "researchAreas": [
         "Automation and Data Systems",
         "Chemistry and Chemical Engineering",
@@ -35070,7 +34317,13 @@
       },
       "website": "https://www.swri.org/",
       "isFeatured": false,
-      "relatedContent": [],
+      "relatedContent": [
+        {
+          "headline": "SwRI Celebrates 75 Years Of Service To Humankind",
+          "url": "https://www.rdworldonline.com/swri-celebrates-75-years-of-service-to-humankind/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2022/09/swri-pano-aerial-2022-d025534.jpg"
+        }
+      ],
       "recognitions": [
         {
           "name": "R&D 100 Awards",
@@ -35089,9 +34342,7 @@
       "organizationType": "Non-profit Research Institute",
       "status": "Active",
       "aliases": [],
-      "acronyms": [
-        "SwRI"
-      ],
+      "acronyms": ["SwRI"],
       "yearEstablished": 1947,
       "externalIds": {
         "GRID": "",
@@ -35099,9 +34350,7 @@
         "FundRef": ""
       },
       "parentOrganization": "",
-      "categories": [
-        "Multidisciplinary Research Institutes"
-      ],
+      "categories": ["Multidisciplinary Research Institutes"],
       "industryCodes": {
         "NAICS": "541712"
       },
@@ -35253,9 +34502,7 @@
       "organizationType": "For-Profit Corporation",
       "status": "Active",
       "aliases": [],
-      "acronyms": [
-        "GE"
-      ],
+      "acronyms": ["GE"],
       "yearEstablished": 1892,
       "externalIds": {
         "GRID": "",
@@ -35263,9 +34510,7 @@
         "FundRef": ""
       },
       "parentOrganization": "",
-      "categories": [
-        "Energy, Environment & Sustainability"
-      ],
+      "categories": ["Energy, Environment & Sustainability"],
       "industryCodes": {
         "NAICS": "333611"
       },
@@ -35316,7 +34561,7 @@
           "id": "62fe4673-a625-4876-9d98-ce982a32360f",
           "images": [
             {
-              "url": "https://www.rdworldonline.com/wp-content/uploads/2024/10/GE_Schenectady.jpeg",
+              "url": "https://www.rdworldonline.com/wp-content/uploads/2024/10/General-Electric-Com_GE-Global-Research-C_94eed18c.webp",
               "caption": "Image for GE Global Research Center",
               "credit": "Image courtesy of General Electric Company"
             }
@@ -35329,12 +34574,7 @@
       "name": "Hitachi Ltd.",
       "description": "Hitachi Ltd. operates across three primary business sectors: Digital Systems & Services, Green Energy & Mobility, and Connective Industries. The company provides digital technologies, energy systems, railway technology, industrial equipment, and healthcare systems. Recent key initiatives include a multibillion-dollar partnership with Microsoft to accelerate AI innovation, with plans to invest 300 billion yen ($2.1 billion) in GenAI and train over 50,000 professionals in AI skills. As part of its reorganization, Hitachi Vantara's systems business has been spun off into Hitachi Digital Services, while Hitachi Vantara LLC focuses on data infrastructure services. The company employs approximately 268,655 people worldwide and had revenues of 9,728.7 billion yen for fiscal year 2023.",
       "primaryCategory": "Advanced Technology & Computing",
-      "additionalCategories": [
-        "Energy",
-        "Industry",
-        "Mobility",
-        "Smart Life"
-      ],
+      "additionalCategories": ["Energy", "Industry", "Mobility", "Smart Life"],
       "researchAreas": [
         "Information Technology",
         "Energy",
@@ -35424,9 +34664,7 @@
         "FundRef": ""
       },
       "parentOrganization": "",
-      "categories": [
-        "Advanced Technology & Computing"
-      ],
+      "categories": ["Advanced Technology & Computing"],
       "industryCodes": {
         "NAICS": ""
       },
@@ -35574,6 +34812,11 @@
           "headline": "ITRI Sweeps 2024 Edison Awards with Four Groundbreaking Innovations",
           "url": "https://www.prnewswire.com/news-releases/itri-sweeps-2024-edison-awards-with-four-groundbreaking-innovations-302125892.html",
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/10/Industrial-Technology-Research-Institute.jpg"
+        },
+        {
+          "headline": "R&D 100 Winner Of The Day: Ubiquitous Water Wand (UWAW)",
+          "url": "https://www.rdworldonline.com/rd-100-winner-of-the-day-ubiquitous-water-wand-uwaw/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2022/01/ITRI-UWAW-Photo.png"
         }
       ],
       "recognitions": [
@@ -35594,9 +34837,7 @@
       "organizationType": "Research Institute",
       "status": "Active",
       "aliases": [],
-      "acronyms": [
-        "ITRI"
-      ],
+      "acronyms": ["ITRI"],
       "yearEstablished": 1973,
       "externalIds": {
         "GRID": "",
@@ -35604,9 +34845,7 @@
         "FundRef": ""
       },
       "parentOrganization": "",
-      "categories": [
-        "Semiconductors & Electronics"
-      ],
+      "categories": ["Semiconductors & Electronics"],
       "industryCodes": {
         "NAICS": ""
       },
@@ -35744,9 +34983,7 @@
       "organizationType": "For-Profit Corporation",
       "status": "Active",
       "aliases": [],
-      "acronyms": [
-        "HPE"
-      ],
+      "acronyms": ["HPE"],
       "yearEstablished": 2015,
       "externalIds": {
         "GRID": "",
@@ -35754,9 +34991,7 @@
         "FundRef": ""
       },
       "parentOrganization": "",
-      "categories": [
-        "Advanced Technology & Computing"
-      ],
+      "categories": ["Advanced Technology & Computing"],
       "industryCodes": {
         "NAICS": "334111"
       },
@@ -35920,10 +35155,7 @@
       },
       "organizationType": "Research Institute",
       "status": "Active",
-      "aliases": [
-        "Bell Telephone Laboratories",
-        "AT&T Bell Laboratories"
-      ],
+      "aliases": ["Bell Telephone Laboratories", "AT&T Bell Laboratories"],
       "acronyms": [],
       "yearEstablished": 1925,
       "externalIds": {
@@ -35932,9 +35164,7 @@
         "FundRef": ""
       },
       "parentOrganization": "Nokia Corporation",
-      "categories": [
-        "Advanced Technology & Computing"
-      ],
+      "categories": ["Advanced Technology & Computing"],
       "industryCodes": {
         "NAICS": "541712"
       },
@@ -35951,9 +35181,7 @@
         "Contributions to cellular network technology",
         "Pioneering work in fiber optics and laser technology"
       ],
-      "labFacilities": [
-        "Holmdel Complex"
-      ],
+      "labFacilities": ["Holmdel Complex"],
       "heroImage": {
         "url": "https://www.rdworldonline.com/wp-content/uploads/2024/10/NokiaBellLabs.webp",
         "altText": "Bell Labs (Nokia Bell Labs) image",
@@ -36065,9 +35293,9 @@
       "isFeatured": false,
       "relatedContent": [
         {
-          "headline": "Dow Recognized for Sustainability Efforts with Multiple Awards",
-          "url": "https://corporate.dow.com/en-us/news/press-releases/dow-recognized-for-sustainability-efforts-with-multiple-awards.html",
-          "imageUrl": "/api/placeholder/506/361"
+          "headline": "Dow Packaging Innovation Awards returns for its 2023/2024 edition",
+          "url": "https://www.rdworldonline.com/dow-packaging-innovation-awards-returns-for-its-2023-2024-edition/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2023/10/Dow-PIA-2023-2024-Award-Banner.jpg"
         }
       ],
       "recognitions": [
@@ -36101,9 +35329,7 @@
         "FundRef": ""
       },
       "parentOrganization": "",
-      "categories": [
-        "Energy, Environment & Sustainability"
-      ],
+      "categories": ["Energy, Environment & Sustainability"],
       "industryCodes": {
         "NAICS": "325000"
       },
@@ -36160,10 +35386,7 @@
       "name": "National Institute of Standards and Technology",
       "description": "The National Institute of Standards and Technology (NIST) was established on March 3, 1901, as the National Bureau of Standards, making it one of the nation's oldest physical science laboratories. It was renamed the Bureau of Standards in 1903, reverted to the National Bureau of Standards in 1934, and finally became NIST in 1988. Throughout its history, NIST has made significant contributions across multiple fields, from developing the first neon lighting for the 1904 World's Fair to creating atomic clocks and standards for DNA profiling. Today, the organization supports technologies ranging from nanoscale devices to earthquake-resistant skyscrapers and global communication networks. In recent years, NIST has expanded its focus to include emerging challenges like artificial intelligence safety standards and cybersecurity frameworks. With a fiscal year 2024 budget request of $1.6 billion, NIST continues to serve as a cornerstone of American technological innovation and industrial competitiveness.",
       "primaryCategory": "Multidisciplinary Research Institutes",
-      "additionalCategories": [
-        "Metrology",
-        "Standards Development"
-      ],
+      "additionalCategories": ["Metrology", "Standards Development"],
       "researchAreas": [
         "Physics",
         "Chemistry",
@@ -36233,6 +35456,11 @@
           "headline": "NIST at 100: Foundations for Progress",
           "url": "https://www.nist.gov/pao/nist-100-foundations-progress",
           "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2024/10/cent_collage2.gif"
+        },
+        {
+          "headline": "NIST Announces 2021 R&D Opportunities For Small Businesses",
+          "url": "https://www.rdworldonline.com/rd-100-winner-of-the-day-ubiquitous-water-wand-uwaw/",
+          "imageUrl": "https://www.rdworldonline.com/wp-content/uploads/2021/02/18pml015_clock-chip-with-coffee-bean_2mb.jpg"
         }
       ],
       "recognitions": [
@@ -36253,9 +35481,7 @@
       "organizationType": "Government Agency",
       "status": "Active",
       "aliases": [],
-      "acronyms": [
-        "NIST"
-      ],
+      "acronyms": ["NIST"],
       "yearEstablished": 1901,
       "externalIds": {
         "GRID": "",
@@ -36263,9 +35489,7 @@
         "FundRef": ""
       },
       "parentOrganization": "United States Department of Commerce",
-      "categories": [
-        "Multidisciplinary Research Institutes"
-      ],
+      "categories": ["Multidisciplinary Research Institutes"],
       "industryCodes": {
         "NAICS": "541712 - Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)"
       },
@@ -36401,9 +35625,7 @@
       "organizationType": "Non-profit Research Institute",
       "status": "Active",
       "aliases": [],
-      "acronyms": [
-        "EPRI"
-      ],
+      "acronyms": ["EPRI"],
       "yearEstablished": 1972,
       "externalIds": {
         "GRID": "",
@@ -36411,9 +35633,7 @@
         "FundRef": ""
       },
       "parentOrganization": "",
-      "categories": [
-        "Energy, Environment & Sustainability"
-      ],
+      "categories": ["Energy, Environment & Sustainability"],
       "industryCodes": {
         "NAICS": "541712"
       },

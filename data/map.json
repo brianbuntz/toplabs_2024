@@ -34,7 +34,7 @@
         "formattedAddress": "1090 E Duane Ave, Sunnyvale, CA 94085, USA",
         "country": "United States",
         "city": "Sunnyvale",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1969,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices",
@@ -80,7 +80,7 @@
         "formattedAddress": "909 5th Ave, Seattle, WA 98164, USA",
         "country": "United States",
         "city": "Seattle",
-        "state": "Washington",
+        "state": "WA",
         "types": ["Nonprofit"],
         "established": 2013,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Allen_Institute_for_Artificial_Intelligence",
@@ -103,7 +103,7 @@
         "formattedAddress": "976 Castro St, Mountain View, CA 94040, USA",
         "country": "United States",
         "city": "Mountain View",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 2015,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
@@ -126,7 +126,7 @@
         "formattedAddress": "909 5th Ave, Seattle, WA 98164, USA",
         "country": "United States",
         "city": "Seattle",
-        "state": "Washington",
+        "state": "WA",
         "types": ["Company"],
         "established": 1994,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Amazon.com",
@@ -149,7 +149,7 @@
         "formattedAddress": "2925 Thousand Oaks Blvd, Thousand Oaks, CA 91362, USA",
         "country": "United States",
         "city": "Thousand Oaks",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1980,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Amgen",
@@ -172,7 +172,7 @@
         "formattedAddress": "3 Technology Way, Norwood, MA 02062, USA",
         "country": "United States",
         "city": "Norwood",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Company"],
         "established": 1965,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Analog_Devices",
@@ -195,7 +195,7 @@
         "formattedAddress": "34350 Corum Ct, Union City, CA 94587, USA",
         "country": "United States",
         "city": "Union City",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1976,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
@@ -218,7 +218,7 @@
         "formattedAddress": "3050 Bowers Ave, Santa Clara, CA 95054, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1967,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Applied_Materials",
@@ -241,7 +241,7 @@
         "formattedAddress": "204 Main St, Lemont, IL 60439, USA",
         "country": "United States",
         "city": "Lemont",
-        "state": "Illinois",
+        "state": "IL",
         "types": ["Facility"],
         "established": 1946,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Argonne_National_Laboratory",
@@ -333,7 +333,7 @@
         "formattedAddress": "222 W Smith St, Kent, WA 98032, USA",
         "country": "United States",
         "city": "Kent",
-        "state": "Washington",
+        "state": "WA",
         "types": [],
         "established": "2000",
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Blue_Origin",
@@ -379,7 +379,7 @@
         "formattedAddress": "929 W Cermak Rd, Chicago, IL 60608, USA",
         "country": "United States",
         "city": "Chicago",
-        "state": "Illinois",
+        "state": "IL",
         "types": ["Company"],
         "established": 1916,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Boeing",
@@ -425,7 +425,7 @@
         "formattedAddress": "84 4th Ave, Waltham, MA 02451, USA",
         "country": "United States",
         "city": "Waltham",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Company"],
         "established": 1992,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Boston_Dynamics",
@@ -448,7 +448,7 @@
         "formattedAddress": "300 Boston Scientific Way, Marlborough, MA 01752, USA",
         "country": "United States",
         "city": "Marlborough",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Company"],
         "established": 1979,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Boston_Scientific",
@@ -475,7 +475,7 @@
         "formattedAddress": "255 N Market St #248, San Jose, CA 95110, USA",
         "country": "United States",
         "city": "San Jose",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1961,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Broadcom_Limited",
@@ -498,7 +498,7 @@
         "formattedAddress": "279 E Holly St, Pasadena, CA 91101, USA",
         "country": "United States",
         "city": "Pasadena",
-        "state": "California",
+        "state": "CA",
         "types": ["Education"],
         "established": 1891,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/California_Institute_of_Technology",
@@ -521,7 +521,7 @@
         "formattedAddress": "586 Grant St, Pittsburgh, PA 15219, USA",
         "country": "United States",
         "city": "Pittsburgh",
-        "state": "Pennsylvania",
+        "state": "PA",
         "types": ["Education"],
         "established": 1900,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Carnegie_Mellon_University",
@@ -613,7 +613,7 @@
         "formattedAddress": "3701 Fairfax Dr, Arlington, VA 22203, USA",
         "country": "United States",
         "city": "Arlington",
-        "state": "Virginia",
+        "state": "VA",
         "types": ["Government"],
         "established": 1958,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/DARPA",
@@ -686,7 +686,7 @@
         "formattedAddress": "1 Edwards Way, Irvine, CA 92614, USA",
         "country": "United States",
         "city": "Irvine",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1958,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Edwards_Lifesciences",
@@ -709,7 +709,7 @@
         "formattedAddress": "1861 Monument Cir, Indianapolis, IN 46204, USA",
         "country": "United States",
         "city": "Indianapolis",
-        "state": "Indiana",
+        "state": "IN",
         "types": ["Company"],
         "established": 1876,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
@@ -760,7 +760,7 @@
         "formattedAddress": "1 Edwards Way, Irvine, CA 92614, USA",
         "country": "United States",
         "city": "Irvine",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1958,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Edwards_Lifesciences",
@@ -829,7 +829,7 @@
         "formattedAddress": "20600 Rotunda Dr, Dearborn, MI 48124, USA",
         "country": "United States",
         "city": "Dearborn",
-        "state": "Michigan",
+        "state": "MI",
         "types": ["Company"],
         "established": 1903,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
@@ -921,7 +921,7 @@
         "formattedAddress": "500 W Monroe St Suite 28, Chicago, IL 60661, USA",
         "country": "United States",
         "city": "Chicago",
-        "state": "Illinois",
+        "state": "IL",
         "types": [],
         "established": null,
         "wikipediaUrl": "",
@@ -948,7 +948,7 @@
         "formattedAddress": "245 W Broadway, San Diego, CA 92101, USA",
         "country": "United States",
         "city": "San Diego",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1955,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/General_Atomics",
@@ -975,7 +975,7 @@
         "formattedAddress": "100 Renaissance Center, Detroit, MI 48243, USA",
         "country": "United States",
         "city": "Detroit",
-        "state": "Michigan",
+        "state": "MI",
         "types": ["Company"],
         "established": 1908,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/General_Motors",
@@ -1003,7 +1003,7 @@
         "formattedAddress": "Georgia State Capitol, Atlanta, GA 30334, USA",
         "country": "United States",
         "city": "Atlanta",
-        "state": "Georgia",
+        "state": "GA",
         "types": ["Education"],
         "established": 1885,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Georgia_Institute_of_Technology",
@@ -1026,7 +1026,7 @@
         "formattedAddress": "1350 Massachusetts Ave, Cambridge, MA, 02138, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Education"],
         "established": 1636,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Harvard_University",
@@ -1118,7 +1118,7 @@
         "formattedAddress": "137 E Trade St, Charlotte, NC 28202, USA",
         "country": "United States",
         "city": "Charlotte",
-        "state": "North Carolina",
+        "state": "NC",
         "types": ["Company"],
         "established": 1906,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Honeywell",
@@ -1141,7 +1141,7 @@
         "formattedAddress": "7621 Carter Ct, Bethesda, MD 20817, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "types": ["Nonprofit"],
         "established": 1953,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Howard_Hughes_Medical_Institute",
@@ -1210,7 +1210,7 @@
         "formattedAddress": "1 Orchard Rd, Armonk, NY 10504, USA",
         "country": "United States",
         "city": "Armonk",
-        "state": "New York",
+        "state": "NY",
         "types": ["Company"],
         "established": 1911,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/IBM",
@@ -1279,7 +1279,7 @@
         "formattedAddress": "Ruta Santa Clara - Chor\u00e9, Santa Clara, CA 95050, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1968,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Intel",
@@ -1329,7 +1329,7 @@
         "formattedAddress": "1020 Kifer Rd, Sunnyvale, CA 94086, USA",
         "country": "United States",
         "city": "Sunnyvale",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1995,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Intuitive_Surgical",
@@ -1352,7 +1352,7 @@
         "formattedAddress": "40 Crosby Dr, Bedford, MA 01730, USA",
         "country": "United States",
         "city": "Bedford",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Company"],
         "established": 1990,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/IRobot",
@@ -1379,7 +1379,7 @@
         "formattedAddress": "Pine Park, 239 Delavan St, New Brunswick, NJ 08901, USA",
         "country": "United States",
         "city": "New Brunswick",
-        "state": "New Jersey",
+        "state": "NJ",
         "types": ["Company"],
         "established": 1886,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnson_%26_Johnson",
@@ -1471,7 +1471,7 @@
         "formattedAddress": "1904 University Ave, Berkeley, CA 94704, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "types": ["Facility"],
         "established": 1931,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory",
@@ -1498,7 +1498,7 @@
         "formattedAddress": "4960 Bethesda Ave, Bethesda, MD 20814, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "types": ["Company"],
         "established": 1995,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Lockheed_Martin",
@@ -1521,7 +1521,7 @@
         "formattedAddress": "5438 Marvell Ln, Santa Clara, CA 95054, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1995,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Marvell_Technology_Group",
@@ -1544,7 +1544,7 @@
         "formattedAddress": "5 Leonard Ave, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Education"],
         "established": 1861,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology",
@@ -1590,7 +1590,7 @@
         "formattedAddress": "305 Washington Ave S, Minneapolis, MN 55415, USA",
         "country": "United States",
         "city": "Minneapolis",
-        "state": "Minnesota",
+        "state": "MN",
         "types": ["Company"],
         "established": 1949,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Medtronic",
@@ -1613,7 +1613,7 @@
         "formattedAddress": "309 Provincial Dr, Kenilworth, NJ 07033, USA",
         "country": "United States",
         "city": "Kenilworth",
-        "state": "New Jersey",
+        "state": "NJ",
         "types": ["Company"],
         "established": 1891,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Merck_%26_Co.",
@@ -1636,7 +1636,7 @@
         "formattedAddress": "1010 El Camino Real, Menlo Park, CA 94025, USA",
         "country": "United States",
         "city": "Menlo Park",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 2004,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Meta_Platforms",
@@ -1659,7 +1659,7 @@
         "formattedAddress": "2355 W Chandler Blvd, Chandler, AZ 85224, USA",
         "country": "United States",
         "city": "Chandler",
-        "state": "Arizona",
+        "state": "AZ",
         "types": ["Company"],
         "established": 1989,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Microchip_Technology",
@@ -1682,7 +1682,7 @@
         "formattedAddress": "16388 Redmond Way, Redmond, WA 98052, USA",
         "country": "United States",
         "city": "Redmond",
-        "state": "Washington",
+        "state": "WA",
         "types": ["Company"],
         "established": 1975,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Microsoft",
@@ -1705,7 +1705,7 @@
         "formattedAddress": "5 Leonard Ave, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Education"],
         "established": 1861,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology",
@@ -1797,7 +1797,7 @@
         "formattedAddress": "1600 E St NW, Washington, DC 20500, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "types": ["Government"],
         "established": 1958,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/NASA",
@@ -1820,7 +1820,7 @@
         "formattedAddress": "4960 Bethesda Ave, Bethesda, MD 20814, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "types": ["Government"],
         "established": 1887,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/National_Institutes_of_Health",
@@ -1843,7 +1843,7 @@
         "formattedAddress": "798 12th St, Golden, CO 80401, USA",
         "country": "United States",
         "city": "Golden",
-        "state": "Colorado",
+        "state": "CO",
         "types": ["Facility"],
         "established": 1974,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Renewable_Energy_Laboratory",
@@ -1866,7 +1866,7 @@
         "formattedAddress": "1600 E St NW, Washington, DC 20500, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "types": ["Government"],
         "established": 1916,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Research_Council_(United_States)",
@@ -1889,7 +1889,7 @@
         "formattedAddress": "100 W Broad St, Falls Church, VA 22046, USA",
         "country": "United States",
         "city": "Falls Church",
-        "state": "Virginia",
+        "state": "VA",
         "types": ["Company"],
         "established": 1994,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Northrop_Grumman",
@@ -1939,7 +1939,7 @@
         "formattedAddress": "1777 Broadway, Boulder, CO 80302, USA",
         "country": "United States",
         "city": "Boulder",
-        "state": "Colorado",
+        "state": "CO",
         "types": ["Facility"],
         "established": 1930,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/National_Center_for_Atmospheric_Research",
@@ -1962,7 +1962,7 @@
         "formattedAddress": "Ruta Santa Clara - Chor\u00e9, Santa Clara, CA 95050, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1993,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Nvidia",
@@ -1985,7 +1985,7 @@
         "formattedAddress": "110 N Illinois Ave, Oak Ridge, TN 37830, USA",
         "country": "United States",
         "city": "Oak Ridge",
-        "state": "Tennessee",
+        "state": "TN",
         "types": ["Facility"],
         "established": 1943,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Oak_Ridge_National_Laboratory",
@@ -2008,7 +2008,7 @@
         "formattedAddress": "14 US-101, San Francisco, CA 94103, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 2015,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/OpenAI",
@@ -2031,7 +2031,7 @@
         "formattedAddress": "(FLAG STOP)Williams Blvd at Stevens Dr, Richland, WA 99352, USA",
         "country": "United States",
         "city": "Richland",
-        "state": "Washington",
+        "state": "WA",
         "types": ["Facility"],
         "established": 1965,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Pacific_Northwest_National_Laboratory",
@@ -2054,7 +2054,7 @@
         "formattedAddress": "Nassau Hall, Princeton, NJ 08542, USA",
         "country": "United States",
         "city": "Princeton",
-        "state": "New Jersey",
+        "state": "NJ",
         "types": ["Education"],
         "established": 1746,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Princeton_University",
@@ -2077,7 +2077,7 @@
         "formattedAddress": "5555 Morehouse Dr, San Diego, CA 92121, USA",
         "country": "United States",
         "city": "San Diego",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 1985,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Qualcomm",
@@ -2196,7 +2196,7 @@
         "formattedAddress": "3881 McGowen St, Lakewood, CA 90712, USA",
         "country": "United States",
         "city": "Lakewood",
-        "state": "California",
+        "state": "CA",
         "types": [],
         "established": "2006",
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Rocket_Lab",
@@ -2242,7 +2242,7 @@
         "formattedAddress": "736 N Oakland St, Arlington, VA 22203, USA",
         "country": "United States",
         "city": "Arlington",
-        "state": "Virginia",
+        "state": "VA",
         "types": ["Company"],
         "established": 1922,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Raytheon_Technologies",
@@ -2288,7 +2288,7 @@
         "formattedAddress": "316 Central Ave NW, Albuquerque, NM 87102, USA",
         "country": "United States",
         "city": "Albuquerque",
-        "state": "New Mexico",
+        "state": "NM",
         "types": ["Facility"],
         "established": 1948,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandia_National_Laboratories",
@@ -2311,7 +2311,7 @@
         "formattedAddress": "245 W Broadway, San Diego, CA 92101, USA",
         "country": "United States",
         "city": "San Diego",
-        "state": "California",
+        "state": "CA",
         "types": ["Nonprofit"],
         "established": 1991,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Scripps_Research_Institute",
@@ -2430,7 +2430,7 @@
         "formattedAddress": "52448-54298 Boca Chica Blvd, Brownsville, TX 78521, USA",
         "country": "United States",
         "city": "Brownsville",
-        "state": "Texas",
+        "state": "TX",
         "types": ["Company"],
         "established": 2002,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/SpaceX",
@@ -2453,7 +2453,7 @@
         "formattedAddress": "473 Via Ortega, Stanford, CA 94305",
         "country": "United States",
         "city": "Stanford",
-        "state": "California",
+        "state": "CA",
         "types": ["Research Institute"],
         "established": 2009,
         "wikipediaUrl": "https://energy.stanford.edu/",
@@ -2476,7 +2476,7 @@
         "formattedAddress": "1010 El Camino Real, Menlo Park, CA 94025, USA",
         "country": "United States",
         "city": "Menlo Park",
-        "state": "California",
+        "state": "CA",
         "types": ["Nonprofit"],
         "established": 1946,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/SRI_International",
@@ -2499,7 +2499,7 @@
         "formattedAddress": "300 Boswell Bldg, Stanford, CA 94305, USA",
         "country": "United States",
         "city": "Stanford",
-        "state": "California",
+        "state": "CA",
         "types": ["Education"],
         "established": 1891,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/Stanford_University",
@@ -2526,7 +2526,7 @@
         "formattedAddress": "2825 Airview Blvd, Portage, MI 49002, USA",
         "country": "United States",
         "city": "Portage",
-        "state": "Michigan",
+        "state": "MI",
         "types": ["Company"],
         "established": 1946,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Stryker_Corporation",
@@ -2641,7 +2641,7 @@
         "formattedAddress": "3500 Deer Creek Rd, Palo Alto, CA 94304, USA",
         "country": "United States",
         "city": "Palo Alto",
-        "state": "California",
+        "state": "CA",
         "types": ["Company"],
         "established": 2003,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
@@ -2664,7 +2664,7 @@
         "formattedAddress": "8831 Forest Ln, Dallas, TX 75243, USA",
         "country": "United States",
         "city": "Dallas",
-        "state": "Texas",
+        "state": "TX",
         "types": ["Company"],
         "established": 1930,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_Instruments",
@@ -2710,7 +2710,7 @@
         "formattedAddress": "32 South St STE 399, Waltham, MA 02453, USA",
         "country": "United States",
         "city": "Waltham",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Company"],
         "established": 2006,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific",
@@ -2779,7 +2779,7 @@
         "formattedAddress": "1904 University Ave, Berkeley, CA 94704, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "types": ["Education"],
         "established": 1868,
         "wikipediaUrl": "http://en.wikipedia.org/wiki/University_of_California,_Berkeley",
@@ -2825,7 +2825,7 @@
         "formattedAddress": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
         "country": "United States",
         "city": "Mountain View",
-        "state": "California",
+        "state": "CA",
         "types": [],
         "established": null,
         "wikipediaUrl": "",
@@ -2871,7 +2871,7 @@
         "formattedAddress": "21 Cahoon Ct, Falmouth, MA 02540, USA",
         "country": "United States",
         "city": "Falmouth",
-        "state": "Massachusetts",
+        "state": "MA",
         "types": ["Nonprofit"],
         "established": 1930,
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Woods_Hole_Oceanographic_Institution",
@@ -2917,7 +2917,7 @@
         "formattedAddress": "500 W Monroe St Suite 28, Chicago, IL 60661, USA",
         "country": "United States",
         "city": "Chicago",
-        "state": "Illinois",
+        "state": "IL",
         "types": [],
         "established": "",
         "wikipediaUrl": "https://en.wikipedia.org/wiki/GE_HealthCare",
@@ -2986,7 +2986,7 @@
         "formattedAddress": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
         "country": "United States",
         "city": "Mountain View",
-        "state": "California",
+        "state": "CA",
         "types": [],
         "established": "2016",
         "wikipediaUrl": "https://en.wikipedia.org/wiki/Waymo",
@@ -3009,7 +3009,7 @@
         "formattedAddress": "1091 Market Pl, San Ramon, CA 94583, USA",
         "country": "United States",
         "city": "San Ramon",
-        "state": "California",
+        "state": "CA",
         "types": [],
         "established": null,
         "wikipediaUrl": "",
@@ -3032,7 +3032,7 @@
         "formattedAddress": "625 W Main St, Boise, ID 83702, USA",
         "country": "United States",
         "city": "Boise",
-        "state": "Idaho",
+        "state": "ID",
         "types": [],
         "established": null,
         "wikipediaUrl": "",
@@ -3298,7 +3298,7 @@
         "formattedAddress": "701 Hostetler Way W # B, The Dalles, OR 97058, USA",
         "country": "United States",
         "city": "The Dalles",
-        "state": "Oregon",
+        "state": "OR",
         "parentCompanyId": "36824c85-563e-4028-be73-4af0ab002d4a",
         "standardized_name": "IBM (United States)",
         "aliases": ["IBM (United States)"]
@@ -3318,7 +3318,7 @@
         "formattedAddress": "2485 Augustine Dr, Santa Clara, CA 95054, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "9fa8f3dd-ee2d-473a-8e23-a66a1257d43c",
         "standardized_name": "Advanced Micro Devices (United States)",
         "aliases": ["Advanced Micro Devices (United States)"]
@@ -3498,7 +3498,7 @@
         "formattedAddress": "2550 Wasser Terrace, Herndon, VA 20171, USA",
         "country": "United States",
         "city": "Herndon",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "45a6db15-e401-4c00-bb40-4c9d8c6288b2",
         "standardized_name": "IBM (United States)",
         "aliases": ["IBM (United States)"]
@@ -3518,7 +3518,7 @@
         "formattedAddress": "398 Madison St, Seattle, WA 98154, USA",
         "country": "United States",
         "city": "Seattle",
-        "state": "Washington",
+        "state": "WA",
         "parentCompanyId": "33ec96f7-91de-44a7-8002-1d4d8894418f",
         "standardized_name": "Allen Institute for Artificial Intelligence",
         "aliases": ["Allen Institute for Artificial Intelligence"]
@@ -3558,7 +3558,7 @@
         "formattedAddress": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
         "country": "United States",
         "city": "Mountain View",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "c5ca33af-5a0c-4bc4-a70a-a062a2c3a300",
         "standardized_name": "Apple (United States)",
         "aliases": ["Apple (United States)"]
@@ -3778,7 +3778,7 @@
         "formattedAddress": "450 SW Yamhill St, Portland, OR 97204, USA",
         "country": "United States",
         "city": "Portland",
-        "state": "Oregon",
+        "state": "OR",
         "parentCompanyId": "042a4bc0-1076-476e-adf6-95b917f5fc61",
         "standardized_name": "Apple (United States)",
         "aliases": ["Apple (United States)"]
@@ -3858,7 +3858,7 @@
         "formattedAddress": "5225 Wiley Post Way suite 275, Salt Lake City, UT 84116, USA",
         "country": "United States",
         "city": "Salt Lake City",
-        "state": "Utah",
+        "state": "UT",
         "parentCompanyId": "f4a77fbd-d731-4b13-9351-366bf6b9d40c",
         "standardized_name": "Applied Materials (United Kingdom)",
         "aliases": ["Applied Materials (United Kingdom)"]
@@ -3878,7 +3878,7 @@
         "formattedAddress": "9700 S Cass Ave, Lemont, IL 60439, USA",
         "country": "United States",
         "city": "Lemont",
-        "state": "Illinois",
+        "state": "IL",
         "parentCompanyId": "61b405be-218f-4d61-8df0-5c82fb8a1a34",
         "standardized_name": "Subsidiary of Argonne National Laboratory",
         "aliases": ["Subsidiary of Argonne National Laboratory"]
@@ -4023,7 +4023,7 @@
         "formattedAddress": "3049 Ualena St #910, Honolulu, HI 96819, USA",
         "country": "United States",
         "city": "Honolulu",
-        "state": "Hawaii",
+        "state": "HI",
         "parentCompanyId": "4f7d4d50-95cd-4a33-baeb-5c5deb017453",
         "standardized_name": "BAE Systems (United States)",
         "aliases": ["BAE Systems (United States)"]
@@ -4103,7 +4103,7 @@
         "formattedAddress": "222 W Smith St, Kent, WA 98032, USA",
         "country": "United States",
         "city": "Kent",
-        "state": "Washington",
+        "state": "WA",
         "parentCompanyId": "de82ad2d-7b05-4c2b-8270-d0334cafe756",
         "standardized_name": "New Shepard",
         "aliases": ["New Shepard"]
@@ -4123,7 +4123,7 @@
         "formattedAddress": "222 W Smith St, Kent, WA 98032, USA",
         "country": "United States",
         "city": "Kent",
-        "state": "Washington",
+        "state": "WA",
         "parentCompanyId": "de82ad2d-7b05-4c2b-8270-d0334cafe756",
         "standardized_name": "New Glenn",
         "aliases": ["New Glenn"]
@@ -4143,7 +4143,7 @@
         "formattedAddress": "498 Commerce Dr, Schaumburg, IL 60173, USA",
         "country": "United States",
         "city": "Schaumburg",
-        "state": "Illinois",
+        "state": "IL",
         "parentCompanyId": "2306baa6-fdaa-4906-9f47-10fc7c06023b",
         "standardized_name": "BMW of North America (United States)",
         "aliases": ["BMW of North America (United States)"]
@@ -4183,7 +4183,7 @@
         "formattedAddress": "7755 E Marginal Wy S, Seattle, WA 98108, USA",
         "country": "United States",
         "city": "Seattle",
-        "state": "Washington",
+        "state": "WA",
         "parentCompanyId": "494efac4-7e9d-41f4-a288-034cdb5c1dee",
         "standardized_name": "OpenAI (United States)",
         "aliases": ["OpenAI (United States)"]
@@ -4283,7 +4283,7 @@
         "formattedAddress": "55 Inverness Dr E, Englewood, CO 80112, USA",
         "country": "United States",
         "city": "Englewood",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "494efac4-7e9d-41f4-a288-034cdb5c1dee",
         "standardized_name": "Jeppensen",
         "aliases": ["Jeppensen"]
@@ -4303,7 +4303,7 @@
         "formattedAddress": "Sijan Hall, 2348 Sijan Dr, Air Force Academy, CO 80840, USA",
         "country": "United States",
         "city": "Air Force Academy",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "494efac4-7e9d-41f4-a288-034cdb5c1dee",
         "standardized_name": "McDonnel Douglas (United States)",
         "aliases": ["McDonnel Douglas (United States)"]
@@ -4543,7 +4543,7 @@
         "formattedAddress": "384 Santa Trinita Ave, Sunnyvale, CA 94085, USA",
         "country": "United States",
         "city": "Sunnyvale",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "017d7d5b-da4d-48b0-96b3-f64138dfc54a",
         "standardized_name": "Robert Bosch (United States)",
         "aliases": ["Robert Bosch (United States)"]
@@ -4583,7 +4583,7 @@
         "formattedAddress": "200 Smith St, Waltham, MA 02451, USA",
         "country": "United States",
         "city": "Waltham",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "6b80e8a8-5f26-47f2-83e0-c1acd2cb285b",
         "standardized_name": "Subsidiary of Boston Dynamics",
         "aliases": ["Subsidiary of Boston Dynamics"]
@@ -4647,7 +4647,7 @@
         "formattedAddress": "16340 W Bernardo Dr, San Diego, CA 92127, USA",
         "country": "United States",
         "city": "San Diego",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "1747a052-5cc1-44fc-b3e4-cadc69e80401",
         "standardized_name": "Broadcom (United States)",
         "aliases": ["Broadcom (United States)"]
@@ -4687,7 +4687,7 @@
         "formattedAddress": "1320 Ridder Park Dr, San Jose, CA 95131, USA",
         "country": "United States",
         "city": "San Jose",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "1747a052-5cc1-44fc-b3e4-cadc69e80401",
         "standardized_name": "Broadcom (Ireland)",
         "aliases": ["Broadcom (Ireland)"]
@@ -4747,7 +4747,7 @@
         "formattedAddress": "1320 Ridder Park Dr, San Jose, CA 95131, USA",
         "country": "United States",
         "city": "San Jose",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "1747a052-5cc1-44fc-b3e4-cadc69e80401",
         "standardized_name": "Broadcom (Spain)",
         "aliases": ["Broadcom (Spain)"]
@@ -4787,7 +4787,7 @@
         "formattedAddress": "1200 E California Blvd, Pasadena, CA 91125, USA",
         "country": "United States",
         "city": "Pasadena",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "17269d06-87e6-496c-a7ae-607b48df8bf5",
         "standardized_name": "California Institute of Technology",
         "aliases": ["Caltech"]
@@ -4827,7 +4827,7 @@
         "formattedAddress": "390 4th St, San Francisco, CA 94107, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "17269d06-87e6-496c-a7ae-607b48df8bf5",
         "standardized_name": "Infrared Processing and Analysis Center",
         "aliases": ["Infrared Processing and Analysis Center"]
@@ -4847,7 +4847,7 @@
         "formattedAddress": "1200 E California Blvd, Pasadena, CA 91125, USA",
         "country": "United States",
         "city": "Pasadena",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "17269d06-87e6-496c-a7ae-607b48df8bf5",
         "standardized_name": "Joint Center for Artificial Photosynthesis",
         "aliases": ["Joint Center for Artificial Photosynthesis"]
@@ -4887,7 +4887,7 @@
         "formattedAddress": "6R2H+M6, La Ca\u00f1ada Flintridge, CA 91011, USA",
         "country": "United States",
         "city": "La Ca\u00f1ada Flintridge",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "17269d06-87e6-496c-a7ae-607b48df8bf5",
         "standardized_name": "Jet Propulsion Laboratory",
         "aliases": [
@@ -4932,7 +4932,7 @@
         "formattedAddress": "279 E Holly St, Pasadena, CA 91101, USA",
         "country": "United States",
         "city": "Pasadena",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "17269d06-87e6-496c-a7ae-607b48df8bf5",
         "standardized_name": "Resnick Sustainability Institute",
         "aliases": ["Resnick Sustainability Institute"]
@@ -4952,7 +4952,7 @@
         "formattedAddress": "5000 Forbes Ave, Pittsburgh, PA 15213, USA",
         "country": "United States",
         "city": "Pittsburgh",
-        "state": "Pennsylvania",
+        "state": "PA",
         "parentCompanyId": "6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
         "standardized_name": "Carnegie Mellon University",
         "aliases": ["CMU", "Carnegie Mellon"]
@@ -4972,7 +4972,7 @@
         "formattedAddress": "23 S Akron Rd, Mountain View, CA 94043, USA",
         "country": "United States",
         "city": "Mountain View",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
         "standardized_name": "Carnegie Mellon University",
         "aliases": ["CMU", "Carnegie Mellon"]
@@ -4992,7 +4992,7 @@
         "formattedAddress": "23 S Akron Rd, Mountain View, CA 94043, USA",
         "country": "United States",
         "city": "Mountain View",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
         "standardized_name": "Carnegie Mellon University",
         "aliases": ["CMU", "Carnegie Mellon"]
@@ -5032,7 +5032,7 @@
         "formattedAddress": "4400 Fifth Ave, Pittsburgh, PA 15213, USA",
         "country": "United States",
         "city": "Pittsburgh",
-        "state": "Pennsylvania",
+        "state": "PA",
         "parentCompanyId": "6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
         "standardized_name": "Center for the Neural Basis of Cognition",
         "aliases": ["Center for the Neural Basis of Cognition"]
@@ -5072,7 +5072,7 @@
         "formattedAddress": "654 King St, Alexandria, VA 22314, USA",
         "country": "United States",
         "city": "Alexandria",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
         "standardized_name": "Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support",
         "aliases": [
@@ -5114,7 +5114,7 @@
         "formattedAddress": "5115 Centre Ave, Pittsburgh, PA 15224, USA",
         "country": "United States",
         "city": "Pittsburgh",
-        "state": "Pennsylvania",
+        "state": "PA",
         "parentCompanyId": "6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
         "standardized_name": "UPMC Hillman Cancer Center",
         "aliases": ["UPMC Hillman Cancer Center"]
@@ -5134,7 +5134,7 @@
         "formattedAddress": "301, Durham Center, 613 Morrill Rd, Ames, IA 50011, USA",
         "country": "United States",
         "city": "Ames",
-        "state": "Iowa",
+        "state": "IA",
         "parentCompanyId": "6a9c0d98-a2e0-4db3-8734-22d5c16db31f",
         "standardized_name": "Center for Statistics and Applications in Forensic Evidence",
         "aliases": [
@@ -5156,7 +5156,7 @@
         "formattedAddress": "1445 W Baseline Rd, Phoenix, AZ 85041, USA",
         "country": "United States",
         "city": "Phoenix",
-        "state": "Arizona",
+        "state": "AZ",
         "parentCompanyId": "36384649-bbfd-406e-814a-6bab259c797f",
         "standardized_name": "Academy of Mathematics and Systems Science",
         "aliases": ["Academy of Mathematics and Systems Science"]
@@ -5276,7 +5276,7 @@
         "formattedAddress": "175, Li Ka Shing Center, MC#3370, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "36384649-bbfd-406e-814a-6bab259c797f",
         "standardized_name": "Center for Excellence in Brain Science and Intelligence Technology",
         "aliases": [
@@ -5298,7 +5298,7 @@
         "formattedAddress": "1600 Holloway Ave, San Francisco, CA 94132, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "36384649-bbfd-406e-814a-6bab259c797f",
         "standardized_name": "Center for Excellence in Molecular Cell Science",
         "aliases": ["Center for Excellence in Molecular Cell Science"]
@@ -5318,7 +5318,7 @@
         "formattedAddress": "1066 Bogue St, East Lansing, MI 48824, USA",
         "country": "United States",
         "city": "East Lansing",
-        "state": "Michigan",
+        "state": "MI",
         "parentCompanyId": "36384649-bbfd-406e-814a-6bab259c797f",
         "standardized_name": "Center for Excellence in Molecular Plant Sciences",
         "aliases": ["Center for Excellence in Molecular Plant Sciences"]
@@ -6644,7 +6644,7 @@
         "formattedAddress": "3450 Mitchell Ln, Boulder, CO 80301, USA",
         "country": "United States",
         "city": "Boulder",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "36384649-bbfd-406e-814a-6bab259c797f",
         "standardized_name": "National Science Library",
         "aliases": ["National Science Library"]
@@ -7186,7 +7186,7 @@
         "formattedAddress": "1201 W Dayton St, Madison, WI 53715, USA",
         "country": "United States",
         "city": "Madison",
-        "state": "Wisconsin",
+        "state": "WI",
         "parentCompanyId": "36384649-bbfd-406e-814a-6bab259c797f",
         "standardized_name": "Technology and Engineering Center for Space Utilization",
         "aliases": ["Technology and Engineering Center for Space Utilization"]
@@ -7692,7 +7692,7 @@
         "formattedAddress": "13011 Aa Rd, Lebanon, KS 66952, USA",
         "country": "United States",
         "city": "Lebanon",
-        "state": "Kansas",
+        "state": "KS",
         "parentCompanyId": "38861d8d-1e1b-4638-a627-f03514d19c17",
         "standardized_name": "Intel (United States)",
         "aliases": ["Intel (United States)"]
@@ -7712,7 +7712,7 @@
         "formattedAddress": "675 N Randolph St, Arlington, VA 22203, USA",
         "country": "United States",
         "city": "Arlington",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "ff20d095-48d6-4db7-8fed-62a33d4bfbaa",
         "standardized_name": "Subsidiary of Defense Advanced Research Projects Agency",
         "aliases": ["Subsidiary of Defense Advanced Research Projects Agency"]
@@ -7776,7 +7776,7 @@
         "formattedAddress": "260 Panama St, Stanford, CA 94305, USA",
         "country": "United States",
         "city": "Stanford",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "2dc7e635-1aa6-4d75-bdb5-228d6756a8ed",
         "standardized_name": "NCCR Chemical Biology - Visualisation and Control of Biological Processes Using Chemistry",
         "aliases": [
@@ -7922,7 +7922,7 @@
         "formattedAddress": "2301 Executive Dr, Indianapolis, IN 46241, USA",
         "country": "United States",
         "city": "Indianapolis",
-        "state": "Indiana",
+        "state": "IN",
         "parentCompanyId": "59daa27a-5a2b-44ad-b5e4-da2ff5a9ebc1",
         "standardized_name": "Eli Lilly (United States)",
         "aliases": ["Eli Lilly (United States)"]
@@ -8162,7 +8162,7 @@
         "formattedAddress": "3711 Market St # 7, Philadelphia, PA 19104, USA",
         "country": "United States",
         "city": "Philadelphia",
-        "state": "Pennsylvania",
+        "state": "PA",
         "parentCompanyId": "59daa27a-5a2b-44ad-b5e4-da2ff5a9ebc1",
         "standardized_name": "Avid Radiopharmaceuticals (United States)",
         "aliases": ["Avid Radiopharmaceuticals (United States)"]
@@ -8473,7 +8473,7 @@
         "formattedAddress": "1 American Rd, Dearborn, MI 48126, USA",
         "country": "United States",
         "city": "Dearborn",
-        "state": "Michigan",
+        "state": "MI",
         "parentCompanyId": "2bfbfb5f-0ef9-4a87-ae96-cf1e4d8e9d1f",
         "standardized_name": "Ford Motor Company (United States)",
         "aliases": ["Ford Motor Company (United States)"]
@@ -8733,7 +8733,7 @@
         "formattedAddress": "2322 E Oakland Park Blvd, Fort Lauderdale, FL 33306, USA",
         "country": "United States",
         "city": "Fort Lauderdale",
-        "state": "Florida",
+        "state": "FL",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Centre Max Weber",
         "aliases": ["Centre Max Weber"]
@@ -9495,7 +9495,7 @@
         "formattedAddress": "121 S Estes Dr #105, Chapel Hill, NC 27514, USA",
         "country": "United States",
         "city": "Chapel Hill",
-        "state": "North Carolina",
+        "state": "NC",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Triangle",
         "aliases": ["Triangle"]
@@ -10177,7 +10177,7 @@
         "formattedAddress": "8399-8391 Westview Dr, Houston, TX 77055, USA",
         "country": "United States",
         "city": "Houston",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Geo-Ocean",
         "aliases": ["Geo-Ocean"]
@@ -10409,7 +10409,7 @@
         "formattedAddress": "1479 Gortner Ave, Falcon Heights, MN 55108, USA",
         "country": "United States",
         "city": "Falcon Heights",
-        "state": "Minnesota",
+        "state": "MN",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Enzyme and Cell Engineering - Molecular Recognition and Biocatalysis",
         "aliases": [
@@ -10431,7 +10431,7 @@
         "formattedAddress": "1665 Central Campus Mall 216 UCB, Boulder, CO 80309, USA",
         "country": "United States",
         "city": "Boulder",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Sciences pour l'Environnement",
         "aliases": ["Sciences pour l'Environnement"]
@@ -12451,7 +12451,7 @@
         "formattedAddress": "2 Sather Rd, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "UCSD-CNRS Joint Research Chemistry Laboratory",
         "aliases": ["UCSD-CNRS Joint Research Chemistry Laboratory"]
@@ -13069,7 +13069,7 @@
         "formattedAddress": "4516 Anaheim Ave NE, Albuquerque, NM 87113, USA",
         "country": "United States",
         "city": "Albuquerque",
-        "state": "New Mexico",
+        "state": "NM",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Passages",
         "aliases": ["Passages"]
@@ -13417,7 +13417,7 @@
         "formattedAddress": "420 W 118th St, New York, NY 10027, USA",
         "country": "United States",
         "city": "New York",
-        "state": "New York",
+        "state": "NY",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Center for Environmental Economics - Montpellier",
         "aliases": ["Center for Environmental Economics - Montpellier"]
@@ -13437,7 +13437,7 @@
         "formattedAddress": "11716 Sorrento Valley Rd, San Diego, CA 92121, USA",
         "country": "United States",
         "city": "San Diego",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Vision pour la Robotique",
         "aliases": ["Vision pour la Robotique"]
@@ -13479,7 +13479,7 @@
         "formattedAddress": "1600 E St NW, Washington, DC 20500, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Epigenetics, Data, Politics",
         "aliases": ["Epigenetics, Data, Politics"]
@@ -13625,7 +13625,7 @@
         "formattedAddress": "17220 Edwards Rd, Cerritos, CA 90703, USA",
         "country": "United States",
         "city": "Cerritos",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "Light, nanomaterials, nanotechnologies",
         "aliases": ["Light, nanomaterials, nanotechnologies"]
@@ -13685,7 +13685,7 @@
         "formattedAddress": "8292 Industrial Ave, Roseville, CA 95678, USA",
         "country": "United States",
         "city": "Roseville",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "2c09dfe6-e38c-4250-9c7d-bad08f367f8c",
         "standardized_name": "RESTORE",
         "aliases": ["RESTORE"]
@@ -16393,7 +16393,7 @@
         "formattedAddress": "245 W Broadway, San Diego, CA 92101, USA",
         "country": "United States",
         "city": "San Diego",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "eedb6bd2-38de-4c19-bfd6-af01ce013d6c",
         "standardized_name": "DIII-D National Fusion Facility",
         "aliases": ["DIII-D National Fusion Facility"]
@@ -16453,7 +16453,7 @@
         "formattedAddress": "261 4th St NW, Atlanta, GA 30318, USA",
         "country": "United States",
         "city": "Atlanta",
-        "state": "Georgia",
+        "state": "GA",
         "parentCompanyId": "08f77fa8-5a7f-4faa-a08a-19cbdb57cdd5",
         "standardized_name": "Institute of Gas Technology",
         "aliases": ["Institute of Gas Technology"]
@@ -16473,7 +16473,7 @@
         "formattedAddress": "55 Park Pl NE, Atlanta, GA 30303, USA",
         "country": "United States",
         "city": "Atlanta",
-        "state": "Georgia",
+        "state": "GA",
         "parentCompanyId": "08f77fa8-5a7f-4faa-a08a-19cbdb57cdd5",
         "standardized_name": "Center for Translational Research in Neuroimaging and Data Science",
         "aliases": [
@@ -16495,7 +16495,7 @@
         "formattedAddress": "270 Ferst Dr, Atlanta, GA 30332, USA",
         "country": "United States",
         "city": "Atlanta",
-        "state": "Georgia",
+        "state": "GA",
         "parentCompanyId": "08f77fa8-5a7f-4faa-a08a-19cbdb57cdd5",
         "standardized_name": "Georgia Space Grant Consortium",
         "aliases": ["Georgia Space Grant Consortium"]
@@ -16535,7 +16535,7 @@
         "formattedAddress": "313 Ferst Dr NW, Atlanta, GA 30332, USA",
         "country": "United States",
         "city": "Atlanta",
-        "state": "Georgia",
+        "state": "GA",
         "parentCompanyId": "08f77fa8-5a7f-4faa-a08a-19cbdb57cdd5",
         "standardized_name": "The Wallace H. Coulter Department of Biomedical Engineering",
         "aliases": [
@@ -16577,7 +16577,7 @@
         "formattedAddress": "270 Washington St SW # 1156, Atlanta, GA 30334, USA",
         "country": "United States",
         "city": "Atlanta",
-        "state": "Georgia",
+        "state": "GA",
         "parentCompanyId": "08f77fa8-5a7f-4faa-a08a-19cbdb57cdd5",
         "standardized_name": "University of Georgia",
         "aliases": ["UGa", "UGA"]
@@ -16637,7 +16637,7 @@
         "formattedAddress": "1371 E 13th Ave, Eugene, OR 97403, USA",
         "country": "United States",
         "city": "Eugene",
-        "state": "Oregon",
+        "state": "OR",
         "parentCompanyId": "08f77fa8-5a7f-4faa-a08a-19cbdb57cdd5",
         "standardized_name": "Materials Science in Extreme Environments University Research Alliance",
         "aliases": [
@@ -16659,7 +16659,7 @@
         "formattedAddress": "40 Tremont St, Boston, MA 02108, USA",
         "country": "United States",
         "city": "Boston",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Athinoula A. Martinos Center for Biomedical Imaging",
         "aliases": ["Athinoula A. Martinos Center for Biomedical Imaging"]
@@ -16679,7 +16679,7 @@
         "formattedAddress": "615 Westlake Ave N, Seattle, WA 98109, USA",
         "country": "United States",
         "city": "Seattle",
-        "state": "Washington",
+        "state": "WA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Berenson Allen Center for Noninvasive Brain Stimulation",
         "aliases": ["Berenson Allen Center for Noninvasive Brain Stimulation"]
@@ -16699,7 +16699,7 @@
         "formattedAddress": "Observatory Building E, 60 Garden St, Cambridge, MA 02138, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Center for Astrophysics Harvard & Smithsonian",
         "aliases": ["Center for Astrophysics Harvard & Smithsonian"]
@@ -16719,7 +16719,7 @@
         "formattedAddress": "401 Terry Ave N, Seattle, WA 98109, USA",
         "country": "United States",
         "city": "Seattle",
-        "state": "Washington",
+        "state": "WA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Center for Systems Biology",
         "aliases": ["Center for Systems Biology"]
@@ -16739,7 +16739,7 @@
         "formattedAddress": "555 Mission Bay Boulevard South, San Francisco, CA 94158, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Center for Vascular Biology Research",
         "aliases": ["Center for Vascular Biology Research"]
@@ -16759,7 +16759,7 @@
         "formattedAddress": "125 Nashua St, Boston, MA 02114, USA",
         "country": "United States",
         "city": "Boston",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Gordon Center for Medical Imaging",
         "aliases": ["Gordon Center for Medical Imaging"]
@@ -16779,7 +16779,7 @@
         "formattedAddress": "7 Divinity Ave, Cambridge, MA 02138, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Harvard Stem Cell Institute",
         "aliases": ["Harvard Stem Cell Institute"]
@@ -16799,7 +16799,7 @@
         "formattedAddress": "119 W 23rd St # 802, New York, NY 10011, USA",
         "country": "United States",
         "city": "New York",
-        "state": "New York",
+        "state": "NY",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Harvard University",
         "aliases": ["Harvard College", "Harvard"]
@@ -16819,7 +16819,7 @@
         "formattedAddress": "5 Leonard Ave, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "MIT-Harvard Center for Ultracold Atoms",
         "aliases": ["MIT-Harvard Center for Ultracold Atoms"]
@@ -16839,7 +16839,7 @@
         "formattedAddress": "600 Main St, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Ragon Institute of MGH, MIT and Harvard",
         "aliases": ["Ragon Institute of MGH, MIT and Harvard"]
@@ -16901,7 +16901,7 @@
         "formattedAddress": "40 Tremont St, Boston, MA 02108, USA",
         "country": "United States",
         "city": "Boston",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Arnold Arboretum",
         "aliases": ["Arnold Arboretum"]
@@ -16921,7 +16921,7 @@
         "formattedAddress": "5 Common St, Petersham, MA 01366, USA",
         "country": "United States",
         "city": "Petersham",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Harvard Forest Long Term Ecological Research",
         "aliases": ["Harvard Forest Long Term Ecological Research"]
@@ -16941,7 +16941,7 @@
         "formattedAddress": "201 Brookline Ave, Boston, MA 02215, USA",
         "country": "United States",
         "city": "Boston",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Wyss Institute for Biologically Inspired Engineering",
         "aliases": ["Wyss Institute", "Wyss Institute at Harvard"]
@@ -16961,7 +16961,7 @@
         "formattedAddress": "450 Brookline Ave, Boston, MA 02215, USA",
         "country": "United States",
         "city": "Boston",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Dana-Farber/Harvard Cancer Center",
         "aliases": ["Dana-Farber/Harvard Cancer Center"]
@@ -16981,7 +16981,7 @@
         "formattedAddress": "26 Trowbridge St, Cambridge, MA 02138, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "ce884bb9-d6b9-4764-8505-09041e121392",
         "standardized_name": "Real Colegio Complutense",
         "aliases": ["Real Colegio Complutense"]
@@ -17472,7 +17472,7 @@
         "formattedAddress": "17700 State Rte 50, Clermont, FL 34711, USA",
         "country": "United States",
         "city": "Clermont",
-        "state": "Florida",
+        "state": "FL",
         "parentCompanyId": "e38734a9-37b9-4be2-93e1-fe1333058626",
         "standardized_name": "OpenAI (United States)",
         "aliases": ["OpenAI (United States)"]
@@ -17532,7 +17532,7 @@
         "formattedAddress": "17700 State Rte 50, Clermont, FL 34711, USA",
         "country": "United States",
         "city": "Clermont",
-        "state": "Florida",
+        "state": "FL",
         "parentCompanyId": "e38734a9-37b9-4be2-93e1-fe1333058626",
         "standardized_name": "OpenAI (United States)",
         "aliases": ["OpenAI (United States)"]
@@ -17752,7 +17752,7 @@
         "formattedAddress": "19700 Russell Br Dr, Sterling, VA 20166, USA",
         "country": "United States",
         "city": "Sterling",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "b09ddcfb-0a71-40e5-b5fd-2011233a9a94",
         "standardized_name": "Janelia Research Campus",
         "aliases": ["Janelia Research Campus"]
@@ -17852,7 +17852,7 @@
         "formattedAddress": "2 Trans Am Plaza Dr #500, Oakbrook Terrace, IL 60181, USA",
         "country": "United States",
         "city": "Oakbrook Terrace",
-        "state": "Illinois",
+        "state": "IL",
         "parentCompanyId": "d6bc507b-97e7-4c28-bfae-11e290a41cf6",
         "standardized_name": "General Motors (United States)",
         "aliases": ["General Motors (United States)"]
@@ -17932,7 +17932,7 @@
         "formattedAddress": "1 Orchard Rd, Armonk, NY 10504, USA",
         "country": "United States",
         "city": "Armonk",
-        "state": "New York",
+        "state": "NY",
         "parentCompanyId": "aff2cf9a-6cba-4703-ac47-8dd80604b472",
         "standardized_name": "IBM (United States)",
         "aliases": ["IBM (United States)"]
@@ -18032,7 +18032,7 @@
         "formattedAddress": "2200 Mission College Blvd, Santa Clara, CA 95054, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "faf2dd3e-2c1a-45cf-adca-a4836bec20de",
         "standardized_name": "Intel Corporation (United States)",
         "aliases": ["Intel Corporation (United States)"]
@@ -18292,7 +18292,7 @@
         "formattedAddress": "8 Crosby Dr, Bedford, MA 01730, USA",
         "country": "United States",
         "city": "Bedford",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "2e50f889-0de4-4945-970d-f31e5ace1558",
         "standardized_name": "Subsidiary of iRobot Corporation",
         "aliases": ["Subsidiary of iRobot Corporation"]
@@ -18312,7 +18312,7 @@
         "formattedAddress": "1 Johnson Dr, New Brunswick, NJ 08933, USA",
         "country": "United States",
         "city": "New Brunswick",
-        "state": "New Jersey",
+        "state": "NJ",
         "parentCompanyId": "71976d86-b57f-4cb3-aea7-a4bf38d63a1b",
         "standardized_name": "Subsidiary of Johnson & Johnson",
         "aliases": ["Subsidiary of Johnson & Johnson"]
@@ -18592,7 +18592,7 @@
         "formattedAddress": "6600 Center Dr, Sterling Heights, MI 48312, USA",
         "country": "United States",
         "city": "Sterling Heights",
-        "state": "Michigan",
+        "state": "MI",
         "parentCompanyId": "5c9b437d-cba9-4ddb-afc6-b3cc9aff27b4",
         "standardized_name": "Apple (United States)",
         "aliases": ["Apple (United States)"]
@@ -18612,7 +18612,7 @@
         "formattedAddress": "1200 E California Blvd, Pasadena, CA 91125, USA",
         "country": "United States",
         "city": "Pasadena",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Joint Center for Artificial Photosynthesis",
         "aliases": ["Joint Center for Artificial Photosynthesis"]
@@ -18632,7 +18632,7 @@
         "formattedAddress": "1904 University Ave, Berkeley, CA 94704, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Advanced Light Source",
         "aliases": ["Advanced Light Source"]
@@ -18652,7 +18652,7 @@
         "formattedAddress": "VPHX+6F Parking lot, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Joint Genome Institute",
         "aliases": ["Joint Genome Institute"]
@@ -18672,7 +18672,7 @@
         "formattedAddress": "473 Via Ortega, Stanford, CA 94305, USA",
         "country": "United States",
         "city": "Stanford",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Environmental System Science Data Infrastructure for a Virtual Ecosystem",
         "aliases": [
@@ -18694,7 +18694,7 @@
         "formattedAddress": "67 Cyclotron Rd, Berkeley, CA 94705, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Molecular Foundry",
         "aliases": ["MF", "The Molecular Foundry"]
@@ -18714,7 +18714,7 @@
         "formattedAddress": "59 Chu Rd, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "National Energy Research Scientific Computing Center",
         "aliases": ["National Energy Research Scientific Computing Center"]
@@ -18734,7 +18734,7 @@
         "formattedAddress": "Building 59 Chu Rd, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Energy Sciences Network",
         "aliases": ["Energy Sciences Network"]
@@ -18754,7 +18754,7 @@
         "formattedAddress": "1904 University Ave, Berkeley, CA 94704, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "National Microbiome Data Collaborative",
         "aliases": ["National Microbiome Data Collaborative"]
@@ -18774,7 +18774,7 @@
         "formattedAddress": "2 Sather Rd, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "University of California",
         "aliases": ["UC System", "University of California System", "UC"]
@@ -18794,7 +18794,7 @@
         "formattedAddress": "1000 Independence Ave SW, Washington, DC 20024, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Office of Science",
         "aliases": ["Office of Science"]
@@ -18814,7 +18814,7 @@
         "formattedAddress": "110 N Illinois Ave, Oak Ridge, TN 37830, USA",
         "country": "United States",
         "city": "Oak Ridge",
-        "state": "Tennessee",
+        "state": "TN",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Atmospheric Radiation Measurement User Facility",
         "aliases": ["Atmospheric Radiation Measurement User Facility"]
@@ -18834,7 +18834,7 @@
         "formattedAddress": "1200 E California Blvd, Pasadena, CA 91125, USA",
         "country": "United States",
         "city": "Pasadena",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Joint Center for Artificial Photosynthesis",
         "aliases": ["Joint Center for Artificial Photosynthesis"]
@@ -18854,7 +18854,7 @@
         "formattedAddress": "1904 University Ave, Berkeley, CA 94704, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Advanced Light Source",
         "aliases": ["Advanced Light Source"]
@@ -18874,7 +18874,7 @@
         "formattedAddress": "VPHX+6F Parking lot, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Joint Genome Institute",
         "aliases": ["Joint Genome Institute"]
@@ -18894,7 +18894,7 @@
         "formattedAddress": "473 Via Ortega, Stanford, CA 94305, USA",
         "country": "United States",
         "city": "Stanford",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Environmental System Science Data Infrastructure for a Virtual Ecosystem",
         "aliases": [
@@ -18916,7 +18916,7 @@
         "formattedAddress": "67 Cyclotron Rd, Berkeley, CA 94705, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Molecular Foundry",
         "aliases": ["MF", "The Molecular Foundry"]
@@ -18936,7 +18936,7 @@
         "formattedAddress": "59 Chu Rd, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "National Energy Research Scientific Computing Center",
         "aliases": ["National Energy Research Scientific Computing Center"]
@@ -18956,7 +18956,7 @@
         "formattedAddress": "Building 59 Chu Rd, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Energy Sciences Network",
         "aliases": ["Energy Sciences Network"]
@@ -18976,7 +18976,7 @@
         "formattedAddress": "1904 University Ave, Berkeley, CA 94704, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "National Microbiome Data Collaborative",
         "aliases": ["National Microbiome Data Collaborative"]
@@ -18996,7 +18996,7 @@
         "formattedAddress": "2 Sather Rd, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "University of California",
         "aliases": ["UC System", "University of California System", "UC"]
@@ -19016,7 +19016,7 @@
         "formattedAddress": "1000 Independence Ave SW, Washington, DC 20024, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Office of Science",
         "aliases": ["Office of Science"]
@@ -19036,7 +19036,7 @@
         "formattedAddress": "110 N Illinois Ave, Oak Ridge, TN 37830, USA",
         "country": "United States",
         "city": "Oak Ridge",
-        "state": "Tennessee",
+        "state": "TN",
         "parentCompanyId": "ff15731d-9257-4018-87e5-bf00dc361f33",
         "standardized_name": "Atmospheric Radiation Measurement User Facility",
         "aliases": ["Atmospheric Radiation Measurement User Facility"]
@@ -19124,7 +19124,7 @@
         "formattedAddress": "5QXM+X4 Hygiene, CO, USA",
         "country": "United States",
         "city": "Hygiene",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "b341f908-fff3-4910-bf3f-7586e90fecfc",
         "standardized_name": "Martin Marietta (United States)",
         "aliases": ["Martin Marietta (United States)"]
@@ -19144,7 +19144,7 @@
         "formattedAddress": "6801 Rockledge Dr, Bethesda, MD 20817, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "b341f908-fff3-4910-bf3f-7586e90fecfc",
         "standardized_name": "Lockheed (United States)",
         "aliases": ["Lockheed (United States)"]
@@ -19164,7 +19164,7 @@
         "formattedAddress": "1111 Lockheed Martin Way, Sunnyvale, CA 94089, USA",
         "country": "United States",
         "city": "Sunnyvale",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "b341f908-fff3-4910-bf3f-7586e90fecfc",
         "standardized_name": "Lockheed Missiles and Space Company (United States)",
         "aliases": ["Lockheed Missiles and Space Company (United States)"]
@@ -19252,7 +19252,7 @@
         "formattedAddress": "5QXM+X4 Hygiene, CO, USA",
         "country": "United States",
         "city": "Hygiene",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "b341f908-fff3-4910-bf3f-7586e90fecfc",
         "standardized_name": "Martin Marietta (United States)",
         "aliases": ["Martin Marietta (United States)"]
@@ -19272,7 +19272,7 @@
         "formattedAddress": "6801 Rockledge Dr, Bethesda, MD 20817, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "b341f908-fff3-4910-bf3f-7586e90fecfc",
         "standardized_name": "Lockheed (United States)",
         "aliases": ["Lockheed (United States)"]
@@ -19292,7 +19292,7 @@
         "formattedAddress": "1111 Lockheed Martin Way, Sunnyvale, CA 94089, USA",
         "country": "United States",
         "city": "Sunnyvale",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "b341f908-fff3-4910-bf3f-7586e90fecfc",
         "standardized_name": "Lockheed Missiles and Space Company (United States)",
         "aliases": ["Lockheed Missiles and Space Company (United States)"]
@@ -19312,7 +19312,7 @@
         "formattedAddress": "5488 Marvell Ln, Santa Clara, CA 95054, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "a6669cad-3783-4a20-8f08-b126cfd5838d",
         "standardized_name": "Apple (United States)",
         "aliases": ["Apple (United States)"]
@@ -19392,7 +19392,7 @@
         "formattedAddress": "40 Tremont St, Boston, MA 02108, USA",
         "country": "United States",
         "city": "Boston",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Athinoula A. Martinos Center for Biomedical Imaging",
         "aliases": ["Athinoula A. Martinos Center for Biomedical Imaging"]
@@ -19412,7 +19412,7 @@
         "formattedAddress": "77 Mass. Ave., E14, Wiesner Bldg, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Cambridge\u2013MIT Institute",
         "aliases": ["Cambridge\u2013MIT Institute"]
@@ -19432,7 +19432,7 @@
         "formattedAddress": "500 Technology Square NE47-4F, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Institute for Soldier Nanotechnologies",
         "aliases": ["Institute for Soldier Nanotechnologies"]
@@ -19452,7 +19452,7 @@
         "formattedAddress": "244 Wood St, Lexington, MA 02420, USA",
         "country": "United States",
         "city": "Lexington",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "MIT Lincoln Laboratory",
         "aliases": ["MIT LL", "Lincoln Lab"]
@@ -19472,7 +19472,7 @@
         "formattedAddress": "12 Emily St, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "MIT Sea Grant",
         "aliases": ["MIT Sea Grant"]
@@ -19492,7 +19492,7 @@
         "formattedAddress": "5 Leonard Ave, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "MIT-Harvard Center for Ultracold Atoms",
         "aliases": ["MIT-Harvard Center for Ultracold Atoms"]
@@ -19512,7 +19512,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Massachusetts Space Grant Consortium",
         "aliases": ["Massachusetts Space Grant Consortium"]
@@ -19552,7 +19552,7 @@
         "formattedAddress": "5959 Horton St, Emeryville, CA 94608, USA",
         "country": "United States",
         "city": "Emeryville",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Novartis-MIT Center for Continuous Manufacturing",
         "aliases": ["Novartis-MIT Center for Continuous Manufacturing"]
@@ -19572,7 +19572,7 @@
         "formattedAddress": "600 Main St, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Ragon Institute of MGH, MIT and Harvard",
         "aliases": ["Ragon Institute of MGH, MIT and Harvard"]
@@ -19614,7 +19614,7 @@
         "formattedAddress": "455 Main St, Cambridge, MA 02142, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Whitehead Institute for Biomedical Research",
         "aliases": ["Whitehead Institute for Biomedical Research"]
@@ -19654,7 +19654,7 @@
         "formattedAddress": "500 Main St building 76, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Koch Institute for Integrative Cancer Research At MIT",
         "aliases": ["Koch Institute for Integrative Cancer Research At MIT"]
@@ -19696,7 +19696,7 @@
         "formattedAddress": "2300 Delaware Ave, Santa Cruz, CA 95060, USA",
         "country": "United States",
         "city": "Santa Cruz",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "6ae04ed3-c127-4adb-95b9-fc36f07cc126",
         "standardized_name": "Chemical Genomics Centre",
         "aliases": ["Chemical Genomics Centre"]
@@ -19858,7 +19858,7 @@
         "formattedAddress": "1 Max Planck Way, Jupiter, FL 33458, USA",
         "country": "United States",
         "city": "Jupiter",
-        "state": "Florida",
+        "state": "FL",
         "parentCompanyId": "6ae04ed3-c127-4adb-95b9-fc36f07cc126",
         "standardized_name": "Max Planck Florida Institute for Neuroscience",
         "aliases": ["Max Planck Florida Institute for Neuroscience"]
@@ -21584,7 +21584,7 @@
         "formattedAddress": "5848 S University Ave, Chicago, IL 60637, USA",
         "country": "United States",
         "city": "Chicago",
-        "state": "Illinois",
+        "state": "IL",
         "parentCompanyId": "6ae04ed3-c127-4adb-95b9-fc36f07cc126",
         "standardized_name": "Social Neuroscience Lab",
         "aliases": ["Social Neuroscience Lab"]
@@ -21726,7 +21726,7 @@
         "formattedAddress": "7000 Central Ave NE, Fridley, MN 55432, USA",
         "country": "United States",
         "city": "Fridley",
-        "state": "Minnesota",
+        "state": "MN",
         "parentCompanyId": "d5c78a9e-4dc7-4cc5-b75c-8dcb62139dda",
         "standardized_name": "Subsidiary of Medtronic",
         "aliases": ["Subsidiary of Medtronic"]
@@ -21746,7 +21746,7 @@
         "formattedAddress": "2816 Crums Ln, Louisville, KY 40216, USA",
         "country": "United States",
         "city": "Louisville",
-        "state": "Kentucky",
+        "state": "KY",
         "parentCompanyId": "22bcc0db-daca-4194-acbd-5dbe7ab1449f",
         "standardized_name": "MSD (United States)",
         "aliases": ["MSD (United States)"]
@@ -22308,7 +22308,7 @@
         "formattedAddress": "12 Emily St, Cambridge, MA 02139, USA",
         "country": "United States",
         "city": "Cambridge",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "MIT Sea Grant",
         "aliases": ["MIT Sea Grant"]
@@ -22328,7 +22328,7 @@
         "formattedAddress": "5959 Horton St, Emeryville, CA 94608, USA",
         "country": "United States",
         "city": "Emeryville",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "4ba85440-7518-493c-a902-01e468bbd573",
         "standardized_name": "Novartis-MIT Center for Continuous Manufacturing",
         "aliases": ["Novartis-MIT Center for Continuous Manufacturing"]
@@ -22428,7 +22428,7 @@
         "formattedAddress": "579 Clyde Ave #340, Mountain View, CA 94043, USA",
         "country": "United States",
         "city": "Mountain View",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "e38734a9-37b9-4be2-93e1-fe1333058626",
         "standardized_name": "Mitsubishi Electric (United States)",
         "aliases": ["Mitsubishi Electric (United States)"]
@@ -22528,7 +22528,7 @@
         "formattedAddress": "1 Tranquility Base, Huntsville, AL 35805, USA",
         "country": "United States",
         "city": "Huntsville",
-        "state": "Alabama",
+        "state": "AL",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Alabama Space Grant Consortium",
         "aliases": ["Alabama Space Grant Consortium"]
@@ -22548,7 +22548,7 @@
         "formattedAddress": "1731 S Chandalar, Fairbanks, AK 99709, USA",
         "country": "United States",
         "city": "Fairbanks",
-        "state": "Alaska",
+        "state": "AK",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Alaska Space Grant Program",
         "aliases": ["Alaska Space Grant Program"]
@@ -22568,7 +22568,7 @@
         "formattedAddress": "943a Moffett Blvd, Mountain View, CA 94035, USA",
         "country": "United States",
         "city": "Mountain View",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Amoco Corporation",
         "aliases": ["Amoco (Research Center)", "Amoco Corp."]
@@ -22588,7 +22588,7 @@
         "formattedAddress": "3050 Knox St, Las Cruces, NM 88003, USA",
         "country": "United States",
         "city": "Las Cruces",
-        "state": "New Mexico",
+        "state": "NM",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Arizona Space Grant Consortium",
         "aliases": ["Arizona Space Grant Consortium"]
@@ -22608,7 +22608,7 @@
         "formattedAddress": "Ross Hall, 2801 S University Ave, Little Rock, AR 72204, USA",
         "country": "United States",
         "city": "Little Rock",
-        "state": "Arkansas",
+        "state": "AR",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Arkansas Space Grant Consortium",
         "aliases": ["Arkansas Space Grant Consortium"]
@@ -22628,7 +22628,7 @@
         "formattedAddress": "4800 Lilly Ave, Edwards, CA 93523, USA",
         "country": "United States",
         "city": "Edwards Air Force Base",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Armstrong Flight Research Center",
         "aliases": ["Armstrong Flight Research Center"]
@@ -22648,7 +22648,7 @@
         "formattedAddress": "West Pickle Research Building, 3925 W Braker Ln, Austin, TX 78759, USA",
         "country": "United States",
         "city": "Austin",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "California Space Grant Consortium",
         "aliases": ["California Space Grant Consortium"]
@@ -22668,7 +22668,7 @@
         "formattedAddress": "East Lobby, 300 E St SW, Washington, DC 20024, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Carbon Cycle and Ecosystems",
         "aliases": ["Carbon Cycle and Ecosystems"]
@@ -22688,7 +22688,7 @@
         "formattedAddress": "3050 Knox St, Las Cruces, NM 88003, USA",
         "country": "United States",
         "city": "Las Cruces",
-        "state": "New Mexico",
+        "state": "NM",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Colorado Space Grant Consortium",
         "aliases": ["Colorado Space Grant Consortium"]
@@ -22708,7 +22708,7 @@
         "formattedAddress": "Abrahms Hall, Hartford, CT 06117, USA",
         "country": "United States",
         "city": "Hartford",
-        "state": "Connecticut",
+        "state": "CT",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Connecticut Space Grant Consortium",
         "aliases": ["Connecticut Space Grant Consortium"]
@@ -22728,7 +22728,7 @@
         "formattedAddress": "Gore Hall, 114 The Green, Newark, DE 19716, USA",
         "country": "United States",
         "city": "Newark",
-        "state": "Delaware",
+        "state": "DE",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Delaware Space Grant Consortium",
         "aliases": ["Delaware Space Grant Consortium"]
@@ -22748,7 +22748,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "District of Columbia Space Grant Consortium",
         "aliases": ["District of Columbia Space Grant Consortium"]
@@ -22768,7 +22768,7 @@
         "formattedAddress": "12760 Pegasus Dr, Orlando, FL 32816, USA",
         "country": "United States",
         "city": "Orlando",
-        "state": "Florida",
+        "state": "FL",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Florida Space Grant Consortium",
         "aliases": ["Florida Space Grant Consortium"]
@@ -22788,7 +22788,7 @@
         "formattedAddress": "270 Ferst Dr, Atlanta, GA 30332, USA",
         "country": "United States",
         "city": "Atlanta",
-        "state": "Georgia",
+        "state": "GA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Georgia Space Grant Consortium",
         "aliases": ["Georgia Space Grant Consortium"]
@@ -22808,7 +22808,7 @@
         "formattedAddress": "NASA Glenn Research Center, 21000 Brookpark Rd, Cleveland, OH 44135, USA",
         "country": "United States",
         "city": "Cleveland",
-        "state": "Ohio",
+        "state": "OH",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "CURENT Research Center",
         "aliases": ["CURENT Research Center"]
@@ -22828,7 +22828,7 @@
         "formattedAddress": "8800 Greenbelt Rd, Greenbelt, MD 20770, USA",
         "country": "United States",
         "city": "Greenbelt",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Goddard Space Flight Center",
         "aliases": ["Goddard Space Flight Center"]
@@ -22848,7 +22848,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Hawaii Space Grant Consortium",
         "aliases": ["Hawaii Space Grant Consortium"]
@@ -22868,7 +22868,7 @@
         "formattedAddress": "128 E 3rd St, Moscow, ID 83843, USA",
         "country": "United States",
         "city": "Moscow",
-        "state": "Idaho",
+        "state": "ID",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Idaho Space Grant Consortium",
         "aliases": ["Idaho Space Grant Consortium"]
@@ -22888,7 +22888,7 @@
         "formattedAddress": "1234 Howe Hall, Ames, IA 50011, USA",
         "country": "United States",
         "city": "Ames",
-        "state": "Iowa",
+        "state": "IA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Illinois Space Grant Consortium",
         "aliases": ["Illinois Space Grant Consortium"]
@@ -22908,7 +22908,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Indiana Space Grant Consortium",
         "aliases": ["Indiana Space Grant Consortium"]
@@ -22928,7 +22928,7 @@
         "formattedAddress": "1 Tranquility Base, Huntsville, AL 35805, USA",
         "country": "United States",
         "city": "Huntsville",
-        "state": "Alabama",
+        "state": "AL",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "International Space Station",
         "aliases": ["International Space Station"]
@@ -22948,7 +22948,7 @@
         "formattedAddress": "1234 Howe Hall, Ames, IA 50011, USA",
         "country": "United States",
         "city": "Ames",
-        "state": "Iowa",
+        "state": "IA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Iowa Space Grant Consortium",
         "aliases": ["Iowa Space Grant Consortium"]
@@ -22968,7 +22968,7 @@
         "formattedAddress": "6R2H+M6, La Ca\u00f1ada Flintridge, CA 91011, USA",
         "country": "United States",
         "city": "La Ca\u00f1ada Flintridge",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Jet Propulsion Laboratory",
         "aliases": [
@@ -22993,7 +22993,7 @@
         "formattedAddress": "2101 E NASA Pkwy, Houston, TX 77058, USA",
         "country": "United States",
         "city": "Houston",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Johnson Space Center",
         "aliases": ["Johnson Space Center"]
@@ -23013,7 +23013,7 @@
         "formattedAddress": "West Pickle Research Building, 3925 W Braker Ln, Austin, TX 78759, USA",
         "country": "United States",
         "city": "Austin",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Kansas Space Grant Consortium",
         "aliases": ["Kansas Space Grant Consortium"]
@@ -23033,7 +23033,7 @@
         "formattedAddress": "H8FX+P5 Titusville, FL, USA",
         "country": "United States",
         "city": "Titusville",
-        "state": "Florida",
+        "state": "FL",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Kennedy Space Center",
         "aliases": ["Kennedy Space Center"]
@@ -23053,7 +23053,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Kentucky Space Grant Consortium",
         "aliases": ["Kentucky Space Grant Consortium"]
@@ -23073,7 +23073,7 @@
         "formattedAddress": "1 Nasa Dr, Hampton, VA 23666, USA",
         "country": "United States",
         "city": "Hampton",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Langley Research Center",
         "aliases": ["Langley Research Center"]
@@ -23093,7 +23093,7 @@
         "formattedAddress": "Ross Hall, 2801 S University Ave, Little Rock, AR 72204, USA",
         "country": "United States",
         "city": "Little Rock",
-        "state": "Arkansas",
+        "state": "AR",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Louisiana Space Grant Consortium",
         "aliases": ["Louisiana Space Grant Consortium"]
@@ -23113,7 +23113,7 @@
         "formattedAddress": "87 Winthrop St, Augusta, ME 04330, USA",
         "country": "United States",
         "city": "Augusta",
-        "state": "Maine",
+        "state": "ME",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Maine Space Grant Consortium",
         "aliases": ["Maine Space Grant Consortium"]
@@ -23133,7 +23133,7 @@
         "formattedAddress": "4610 Martin Rd SW, Huntsville, AL 35810, USA",
         "country": "United States",
         "city": "Huntsville",
-        "state": "Alabama",
+        "state": "AL",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Marshall Space Flight Center",
         "aliases": ["Marshall Space Flight Center"]
@@ -23153,7 +23153,7 @@
         "formattedAddress": "3400 Charles St, Baltimore, MD 21218, USA",
         "country": "United States",
         "city": "Baltimore",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Maryland Space Grant Consortium",
         "aliases": ["Maryland Space Grant Consortium"]
@@ -23173,7 +23173,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Massachusetts Space Grant Consortium",
         "aliases": ["Massachusetts Space Grant Consortium"]
@@ -23193,7 +23193,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Michigan Space Grant Consortium",
         "aliases": ["Michigan Space Grant Consortium"]
@@ -23213,7 +23213,7 @@
         "formattedAddress": "13800 Old Gentilly Rd, New Orleans, LA 70129, USA",
         "country": "United States",
         "city": "New Orleans",
-        "state": "Louisiana",
+        "state": "LA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Michoud Assembly Facility",
         "aliases": ["Michoud Assembly Facility"]
@@ -23233,7 +23233,7 @@
         "formattedAddress": "Ross Hall, 2801 S University Ave, Little Rock, AR 72204, USA",
         "country": "United States",
         "city": "Little Rock",
-        "state": "Arkansas",
+        "state": "AR",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Mississippi Space Grant Consortium",
         "aliases": ["Mississippi Space Grant Consortium"]
@@ -23253,7 +23253,7 @@
         "formattedAddress": "87 Winthrop St, Augusta, ME 04330, USA",
         "country": "United States",
         "city": "Augusta",
-        "state": "Maine",
+        "state": "ME",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Montana Space Grant Consortium",
         "aliases": ["Montana Space Grant Consortium"]
@@ -23273,7 +23273,7 @@
         "formattedAddress": "1234 Howe Hall, Ames, IA 50011, USA",
         "country": "United States",
         "city": "Ames",
-        "state": "Iowa",
+        "state": "IA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Nebraska Space Grant Consortium",
         "aliases": ["Nebraska Space Grant Consortium"]
@@ -23293,7 +23293,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Nevada Space Grant Consortium",
         "aliases": ["Nevada Space Grant Consortium"]
@@ -23313,7 +23313,7 @@
         "formattedAddress": "Mansfield House, 25 Colchester Ave, Burlington, VT 05405, USA",
         "country": "United States",
         "city": "Burlington",
-        "state": "Vermont",
+        "state": "VT",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "New Hampshire Space Grant Consortium",
         "aliases": ["New Hampshire Space Grant Consortium"]
@@ -23333,7 +23333,7 @@
         "formattedAddress": "Gore Hall, 114 The Green, Newark, DE 19716, USA",
         "country": "United States",
         "city": "Newark",
-        "state": "Delaware",
+        "state": "DE",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "New Jersey Space Grant Consortium",
         "aliases": ["New Jersey Space Grant Consortium"]
@@ -23353,7 +23353,7 @@
         "formattedAddress": "3050 Knox St, Las Cruces, NM 88003, USA",
         "country": "United States",
         "city": "Las Cruces",
-        "state": "New Mexico",
+        "state": "NM",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "New Mexico Space Grant Consortium",
         "aliases": ["New Mexico Space Grant Consortium"]
@@ -23373,7 +23373,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "New York Space Grant Consortium",
         "aliases": ["New York Space Grant Consortium"]
@@ -23393,7 +23393,7 @@
         "formattedAddress": "Professional Workforce Development Center, 600 Butler Farm Rd #2253, Hampton, VA 23666, USA",
         "country": "United States",
         "city": "Hampton",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "North Carolina Space Grant Consortium",
         "aliases": ["North Carolina Space Grant Consortium"]
@@ -23413,7 +23413,7 @@
         "formattedAddress": "321 Princeton St, Grand Forks, ND 58203, USA",
         "country": "United States",
         "city": "Grand Forks",
-        "state": "North Dakota",
+        "state": "ND",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "North Dakota Space Grant Consortium",
         "aliases": ["North Dakota Space Grant Consortium"]
@@ -23433,7 +23433,7 @@
         "formattedAddress": "22800 Cedar Point Rd, Cleveland, OH 44142, USA",
         "country": "United States",
         "city": "Cleveland",
-        "state": "Ohio",
+        "state": "OH",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Ohio Space Grant Consortium",
         "aliases": ["Ohio Space Grant Consortium"]
@@ -23453,7 +23453,7 @@
         "formattedAddress": "West Pickle Research Building, 3925 W Braker Ln, Austin, TX 78759, USA",
         "country": "United States",
         "city": "Austin",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Oklahoma Space Grant Consortium",
         "aliases": ["Oklahoma Space Grant Consortium"]
@@ -23473,7 +23473,7 @@
         "formattedAddress": "Mansfield House, 25 Colchester Ave, Burlington, VT 05405, USA",
         "country": "United States",
         "city": "Burlington",
-        "state": "Vermont",
+        "state": "VT",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Oregon Space Grant Consortium",
         "aliases": ["Oregon Space Grant Consortium"]
@@ -23493,7 +23493,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Pennsylvania Space Grant Consortium",
         "aliases": ["Pennsylvania Space Grant Consortium"]
@@ -23513,7 +23513,7 @@
         "formattedAddress": "8800 Greenbelt Rd, Greenbelt, MD 20771, USA",
         "country": "United States",
         "city": "Greenbelt",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Planetary Data System",
         "aliases": ["Planetary Data System"]
@@ -23533,7 +23533,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Puerto Rico Space Grant Consortium",
         "aliases": ["Puerto Rico Space Grant Consortium"]
@@ -23553,7 +23553,7 @@
         "formattedAddress": "79 Waterman St, Providence, RI 02912, USA",
         "country": "United States",
         "city": "Providence",
-        "state": "Rhode Island",
+        "state": "RI",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Rhode Island Space Grant Consortium",
         "aliases": ["Rhode Island Space Grant Consortium"]
@@ -23573,7 +23573,7 @@
         "formattedAddress": "1103 Balch Blvd, John C. Stennis Space Center, MS 39529, USA",
         "country": "United States",
         "city": "John C. Stennis Space Center",
-        "state": "Mississippi",
+        "state": "MS",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "NASA Shared Services Center",
         "aliases": ["NASA Shared Services Center"]
@@ -23593,7 +23593,7 @@
         "formattedAddress": "Ruta Santa Clara - Chor\u00e9, Santa Clara, CA 95050, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Solar System Exploration Research Virtual Institute",
         "aliases": ["Solar System Exploration Research Virtual Institute"]
@@ -23613,7 +23613,7 @@
         "formattedAddress": "287 Meeting St, Charleston, SC 29401, USA",
         "country": "United States",
         "city": "Charleston",
-        "state": "South Carolina",
+        "state": "SC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "South Carolina Space Grant Consortium",
         "aliases": ["South Carolina Space Grant Consortium"]
@@ -23633,7 +23633,7 @@
         "formattedAddress": "3417 Chapel Ln, Rapid City, SD 57702, USA",
         "country": "United States",
         "city": "Rapid City",
-        "state": "South Dakota",
+        "state": "SD",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "South Dakota Space Grant Consortium",
         "aliases": ["South Dakota Space Grant Consortium"]
@@ -23653,7 +23653,7 @@
         "formattedAddress": "9C62+Q6 John C. Stennis Space Center, MS, USA",
         "country": "United States",
         "city": "John C. Stennis Space Center",
-        "state": "Mississippi",
+        "state": "MS",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Stennis Space Center",
         "aliases": ["Stennis Space Center"]
@@ -23673,7 +23673,7 @@
         "formattedAddress": "West Pickle Research Building, 3925 W Braker Ln, Austin, TX 78759, USA",
         "country": "United States",
         "city": "Austin",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Tennessee Space Grant Consortium",
         "aliases": ["Tennessee Space Grant Consortium"]
@@ -23693,7 +23693,7 @@
         "formattedAddress": "West Pickle Research Building, 3925 W Braker Ln, Austin, TX 78759, USA",
         "country": "United States",
         "city": "Austin",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Texas Space Grant Consortium",
         "aliases": ["Texas Space Grant Consortium"]
@@ -23713,7 +23713,7 @@
         "formattedAddress": "West Pickle Research Building, 3925 W Braker Ln, Austin, TX 78759, USA",
         "country": "United States",
         "city": "Austin",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Utah Space Grant Consortium",
         "aliases": ["Utah Space Grant Consortium"]
@@ -23733,7 +23733,7 @@
         "formattedAddress": "Mansfield House, 25 Colchester Ave, Burlington, VT 05405, USA",
         "country": "United States",
         "city": "Burlington",
-        "state": "Vermont",
+        "state": "VT",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Vermont Space Grant Consortium",
         "aliases": ["Vermont Space Grant Consortium"]
@@ -23753,7 +23753,7 @@
         "formattedAddress": "Professional Workforce Development Center, 600 Butler Farm Rd #2253, Hampton, VA 23666, USA",
         "country": "United States",
         "city": "Hampton",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Virginia Space Grant Consortium",
         "aliases": ["Virginia Space Grant Consortium"]
@@ -23773,7 +23773,7 @@
         "formattedAddress": "34200 Fulton St, Wallops Island, VA 23337, USA",
         "country": "United States",
         "city": "Wallops Island",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Wallops Flight Facility",
         "aliases": ["Wallops Flight Facility"]
@@ -23793,7 +23793,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Washington Space Grant Consortium",
         "aliases": ["Washington Space Grant Consortium"]
@@ -23813,7 +23813,7 @@
         "formattedAddress": "Professional Workforce Development Center, 600 Butler Farm Rd #2253, Hampton, VA 23666, USA",
         "country": "United States",
         "city": "Hampton",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "West Virginia Space Grant Consortium",
         "aliases": ["West Virginia Space Grant Consortium"]
@@ -23833,7 +23833,7 @@
         "formattedAddress": "1234 Howe Hall, Ames, IA 50011, USA",
         "country": "United States",
         "city": "Ames",
-        "state": "Iowa",
+        "state": "IA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Wisconsin Space Grant Consortium",
         "aliases": ["Wisconsin Space Grant Consortium"]
@@ -23853,7 +23853,7 @@
         "formattedAddress": "4400 Massachusetts Ave NW #7, Washington, DC 20016, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "Wyoming Space Grant Consortium",
         "aliases": ["Wyoming Space Grant Consortium"]
@@ -23893,7 +23893,7 @@
         "formattedAddress": "1600 E St NW, Washington, DC 20500, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "NASA Planetary Science",
         "aliases": ["NASA Planetary Science"]
@@ -23913,7 +23913,7 @@
         "formattedAddress": "1107 NE 45th St Suite 315, Seattle, WA 98105, USA",
         "country": "United States",
         "city": "Seattle",
-        "state": "Washington",
+        "state": "WA",
         "parentCompanyId": "fd54ace3-9a21-4bd8-8dac-a166f25243d5",
         "standardized_name": "NASA Earth Science",
         "aliases": ["NASA Earth Science"]
@@ -23933,7 +23933,7 @@
         "formattedAddress": "510 S Center St STC 320, Rexburg, ID 83460, USA",
         "country": "United States",
         "city": "Rexburg",
-        "state": "Idaho",
+        "state": "ID",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "Center for Information Technology",
         "aliases": ["Center for Information Technology"]
@@ -23953,7 +23953,7 @@
         "formattedAddress": "6701a Rockledge Dr, Bethesda, MD 20817, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "Center for Scientific Review",
         "aliases": ["Center for Scientific Review"]
@@ -23973,7 +23973,7 @@
         "formattedAddress": "9000 Rockville Pike, Bethesda, MD 20892, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
         "aliases": [
@@ -23995,7 +23995,7 @@
         "formattedAddress": "31 Center Dr, Bethesda, MD 20892, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "Fogarty International Center",
         "aliases": ["Fogarty International Center"]
@@ -24035,7 +24035,7 @@
         "formattedAddress": "8560 Progress Drive, Frederick, MD 21701, USA",
         "country": "United States",
         "city": "Frederick",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "National Center for Advancing Translational Sciences",
         "aliases": ["National Center for Advancing Translational Sciences"]
@@ -24055,7 +24055,7 @@
         "formattedAddress": "1600 E Jefferson St Suite 110, Seattle, WA 98122, USA",
         "country": "United States",
         "city": "Seattle",
-        "state": "Washington",
+        "state": "WA",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "National Center for Complementary and Integrative Health",
         "aliases": ["National Center for Complementary and Integrative Health"]
@@ -24095,7 +24095,7 @@
         "formattedAddress": "4960 Bethesda Ave, Bethesda, MD 20814, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "National Heart Lung and Blood Institute",
         "aliases": ["National Heart Lung and Blood Institute"]
@@ -24135,7 +24135,7 @@
         "formattedAddress": "9000 Rockville Pike Building 4, Bethesda, MD 20892, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "National Institute of Allergy and Infectious Diseases",
         "aliases": ["National Institute of Allergy and Infectious Diseases"]
@@ -24155,7 +24155,7 @@
         "formattedAddress": "1 AMS Circle, Bethesda, MD 20892, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
         "aliases": [
@@ -24423,7 +24423,7 @@
         "formattedAddress": "9000 Rockville Pike, Bethesda, MD 20892, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "National Institute on Minority Health and Health Disparities",
         "aliases": [
@@ -24445,7 +24445,7 @@
         "formattedAddress": "10 Center Dr, Bethesda, MD 20892, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "National Institutes of Health Clinical Center",
         "aliases": ["National Institutes of Health Clinical Center"]
@@ -24465,7 +24465,7 @@
         "formattedAddress": "330 21st St NW, Washington, DC 20006, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "Office of the Director",
         "aliases": ["Office of the Director"]
@@ -24485,7 +24485,7 @@
         "formattedAddress": "8600 Rockville Pike #2E-17B, Bethesda, MD 20894, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "United States National Library of Medicine",
         "aliases": ["United States National Library of Medicine"]
@@ -24505,7 +24505,7 @@
         "formattedAddress": "4960 Bethesda Ave, Bethesda, MD 20814, USA",
         "country": "United States",
         "city": "Bethesda",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "70504991-8893-43db-8ecd-2206f09e21c1",
         "standardized_name": "Office of Research Infrastructure Programs",
         "aliases": ["Office of Research Infrastructure Programs"]
@@ -24525,7 +24525,7 @@
         "formattedAddress": "15013 Denver W Pkwy, Golden, CO 80401, USA",
         "country": "United States",
         "city": "Golden",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "59f5a5a6-04de-4bef-8e14-060d1b4c7d9c",
         "standardized_name": "National Renewable Energy Laboratory",
         "aliases": ["NREL"]
@@ -24545,7 +24545,7 @@
         "formattedAddress": "500 5th St NW #310, Washington, DC 20001, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "df58310f-dd2f-4c00-aef3-36a17a38325c",
         "standardized_name": "National Academies Press",
         "aliases": ["National Academies Press"]
@@ -24565,7 +24565,7 @@
         "formattedAddress": "2101 Constitution Ave. NW, Washington, DC 20418, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "df58310f-dd2f-4c00-aef3-36a17a38325c",
         "standardized_name": "National Academy of Engineering",
         "aliases": ["National Academy of Engineering"]
@@ -24585,7 +24585,7 @@
         "formattedAddress": "49 S Porter St, Portland, OR 97201, USA",
         "country": "United States",
         "city": "Portland",
-        "state": "Oregon",
+        "state": "OR",
         "parentCompanyId": "df58310f-dd2f-4c00-aef3-36a17a38325c",
         "standardized_name": "National Academy of Medicine",
         "aliases": ["National Academy of Medicine"]
@@ -24605,7 +24605,7 @@
         "formattedAddress": "2101 Constitution Ave. NW, Washington, DC 20418, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "df58310f-dd2f-4c00-aef3-36a17a38325c",
         "standardized_name": "Estonian Academy of Sciences",
         "aliases": ["Eesti Teaduste Akadeemia", "ETA"]
@@ -24625,7 +24625,7 @@
         "formattedAddress": "2101 Constitution Ave. NW, Washington, DC 20418, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "df58310f-dd2f-4c00-aef3-36a17a38325c",
         "standardized_name": "Transportation Research Board",
         "aliases": ["Transportation Research Board"]
@@ -24645,7 +24645,7 @@
         "formattedAddress": "500 E California Ave, Sunnyvale, CA 94086, USA",
         "country": "United States",
         "city": "Sunnyvale",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "c40bc4ed-3974-4932-9d23-a9be21cb76f2",
         "standardized_name": "Northrop Corporation",
         "aliases": [
@@ -24689,7 +24689,7 @@
         "formattedAddress": "401 E Hendy Ave, Sunnyvale, CA 94086, USA",
         "country": "United States",
         "city": "Sunnyvale",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "c40bc4ed-3974-4932-9d23-a9be21cb76f2",
         "standardized_name": "Northrop Grumman Corp.",
         "aliases": ["Northrop Grumman Corp."]
@@ -24729,7 +24729,7 @@
         "formattedAddress": "84 Church St SE, Minneapolis, MN 55455, USA",
         "country": "United States",
         "city": "Minneapolis",
-        "state": "Minnesota",
+        "state": "MN",
         "parentCompanyId": "c40bc4ed-3974-4932-9d23-a9be21cb76f2",
         "standardized_name": "Northwestern University",
         "aliases": ["NU", "Northwestern"]
@@ -24889,7 +24889,7 @@
         "formattedAddress": "800 Scudders Mill Rd, Plainsboro Township, NJ 08536, USA",
         "country": "United States",
         "city": "Plainsboro Township",
-        "state": "New Jersey",
+        "state": "NJ",
         "parentCompanyId": "daa0f1b5-aafd-42c5-bbdd-37fb38433815",
         "standardized_name": "Novo Nordisk (United States)",
         "aliases": ["Novo Nordisk (United States)"]
@@ -24909,7 +24909,7 @@
         "formattedAddress": "1777 Broadway, Boulder, CO 80302, USA",
         "country": "United States",
         "city": "Boulder",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
         "standardized_name": "Climate and Global Dynamics Laboratory",
         "aliases": ["Climate and Global Dynamics Laboratory"]
@@ -24929,7 +24929,7 @@
         "formattedAddress": "1777 Broadway, Boulder, CO 80302, USA",
         "country": "United States",
         "city": "Boulder",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
         "standardized_name": "Atmospheric Chemistry Observations & Modeling",
         "aliases": ["Atmospheric Chemistry Observations & Modeling"]
@@ -24949,7 +24949,7 @@
         "formattedAddress": "V49F+5H Upton, NY, USA",
         "country": "United States",
         "city": "Upton",
-        "state": "New York",
+        "state": "NY",
         "parentCompanyId": "c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
         "standardized_name": "Computational & Information Systems Laboratory",
         "aliases": ["Computational & Information Systems Laboratory"]
@@ -24969,7 +24969,7 @@
         "formattedAddress": "302 N Burrowes Rd, State College, PA 16801, USA",
         "country": "United States",
         "city": "State College",
-        "state": "Pennsylvania",
+        "state": "PA",
         "parentCompanyId": "c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
         "standardized_name": "Earth Observing Laboratory",
         "aliases": ["Earth Observing Laboratory"]
@@ -24989,7 +24989,7 @@
         "formattedAddress": "1777 Broadway, Boulder, CO 80302, USA",
         "country": "United States",
         "city": "Boulder",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
         "standardized_name": "Mesoscale & Microscale Meteorology Laboratory",
         "aliases": ["Mesoscale & Microscale Meteorology Laboratory"]
@@ -25009,7 +25009,7 @@
         "formattedAddress": "93 3rd St, San Francisco, CA 94103, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
         "standardized_name": "Research Applications Laboratory",
         "aliases": ["Research Applications Laboratory"]
@@ -25029,7 +25029,7 @@
         "formattedAddress": "3080 Center Green Dr, Boulder, CO 80301, USA",
         "country": "United States",
         "city": "Boulder",
-        "state": "Colorado",
+        "state": "CO",
         "parentCompanyId": "c014b9b6-48de-4d35-bd9f-2a6a4f8edaab",
         "standardized_name": "High Altitude Observatory",
         "aliases": ["High Altitude Observatory"]
@@ -25049,7 +25049,7 @@
         "formattedAddress": "2788 San Tomas Expy, Santa Clara, CA 95051, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "b48e18d5-e406-4f7b-a061-940008b717df",
         "standardized_name": "Nvidia (United States)",
         "aliases": ["Nvidia (United States)"]
@@ -25089,7 +25089,7 @@
         "formattedAddress": "2788 San Tomas Expy, Santa Clara, CA 95051, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "b48e18d5-e406-4f7b-a061-940008b717df",
         "standardized_name": "NVIDIA (Italy)",
         "aliases": ["NVIDIA (Italy)"]
@@ -25129,7 +25129,7 @@
         "formattedAddress": "110 N Illinois Ave, Oak Ridge, TN 37830, USA",
         "country": "United States",
         "city": "Oak Ridge",
-        "state": "Tennessee",
+        "state": "TN",
         "parentCompanyId": "ef84a311-3a1c-4d37-ba66-d3cd5fe5de4e",
         "standardized_name": "Atmospheric Radiation Measurement User Facility",
         "aliases": ["Atmospheric Radiation Measurement User Facility"]
@@ -25149,7 +25149,7 @@
         "formattedAddress": "8610 Nano Ctr Dr, Oak Ridge, TN 37748, USA",
         "country": "United States",
         "city": "Oak Ridge",
-        "state": "Tennessee",
+        "state": "TN",
         "parentCompanyId": "ef84a311-3a1c-4d37-ba66-d3cd5fe5de4e",
         "standardized_name": "Center for Nanophase Materials Sciences",
         "aliases": ["Center for Nanophase Materials Sciences"]
@@ -25169,7 +25169,7 @@
         "formattedAddress": "WM9W+5H Oak Ridge, TN, USA",
         "country": "United States",
         "city": "Oak Ridge",
-        "state": "Tennessee",
+        "state": "TN",
         "parentCompanyId": "ef84a311-3a1c-4d37-ba66-d3cd5fe5de4e",
         "standardized_name": "High Flux Isotope Reactor",
         "aliases": ["High Flux Isotope Reactor"]
@@ -25189,7 +25189,7 @@
         "formattedAddress": "110 N Illinois Ave, Oak Ridge, TN 37830, USA",
         "country": "United States",
         "city": "Oak Ridge",
-        "state": "Tennessee",
+        "state": "TN",
         "parentCompanyId": "ef84a311-3a1c-4d37-ba66-d3cd5fe5de4e",
         "standardized_name": "Oak Ridge Leadership Computing Facility",
         "aliases": ["Oak Ridge Leadership Computing Facility"]
@@ -25209,7 +25209,7 @@
         "formattedAddress": "8600 Nano Ctr Dr, Oak Ridge, TN 37830, USA",
         "country": "United States",
         "city": "Oak Ridge",
-        "state": "Tennessee",
+        "state": "TN",
         "parentCompanyId": "ef84a311-3a1c-4d37-ba66-d3cd5fe5de4e",
         "standardized_name": "Spallation Neutron Source",
         "aliases": ["Spallation Neutron Source"]
@@ -25249,7 +25249,7 @@
         "formattedAddress": "5825 University Research Ct, Riverdale, MD 20737, USA",
         "country": "United States",
         "city": "Riverdale Park",
-        "state": "Maryland",
+        "state": "MD",
         "parentCompanyId": "e886f747-f186-4d38-b2f8-30c8debfddc0",
         "standardized_name": "Joint Global Change Research Institute",
         "aliases": ["Joint Global Change Research Institute"]
@@ -25269,7 +25269,7 @@
         "formattedAddress": "1066 Bogue St, East Lansing, MI 48824, USA",
         "country": "United States",
         "city": "East Lansing",
-        "state": "Michigan",
+        "state": "MI",
         "parentCompanyId": "e886f747-f186-4d38-b2f8-30c8debfddc0",
         "standardized_name": "Environmental Molecular Sciences Laboratory",
         "aliases": ["Environmental Molecular Sciences Laboratory"]
@@ -25349,7 +25349,7 @@
         "formattedAddress": "8 Woodlands Wy, Princeton, NJ 08544, USA",
         "country": "United States",
         "city": "Princeton",
-        "state": "New Jersey",
+        "state": "NJ",
         "parentCompanyId": "0e7582b5-75ac-441c-8734-edfd9991485d",
         "standardized_name": "Princeton University",
         "aliases": ["Princeton", "PU"]
@@ -25369,7 +25369,7 @@
         "formattedAddress": "James E. Talmage Math Sciences/Computer Bldg, Provo, UT 84604, USA",
         "country": "United States",
         "city": "Provo",
-        "state": "Utah",
+        "state": "UT",
         "parentCompanyId": "0e7582b5-75ac-441c-8734-edfd9991485d",
         "standardized_name": "Center for Discrete Mathematics and Theoretical Computer Science",
         "aliases": [
@@ -25391,7 +25391,7 @@
         "formattedAddress": "100 Stellarator Rd, Princeton, NJ 08540, USA",
         "country": "United States",
         "city": "Princeton",
-        "state": "New Jersey",
+        "state": "NJ",
         "parentCompanyId": "0e7582b5-75ac-441c-8734-edfd9991485d",
         "standardized_name": "Princeton University",
         "aliases": ["Plastic Physics Laboratory"]
@@ -25411,7 +25411,7 @@
         "formattedAddress": "Nassau Hall, Princeton, NJ 08542, USA",
         "country": "United States",
         "city": "Princeton",
-        "state": "New Jersey",
+        "state": "NJ",
         "parentCompanyId": "0e7582b5-75ac-441c-8734-edfd9991485d",
         "standardized_name": "National Spherical Torus Experiment \u2013 Upgrade",
         "aliases": ["National Spherical Torus Experiment \u2013 Upgrade"]
@@ -25431,7 +25431,7 @@
         "formattedAddress": "1003 Fourth Ave, San Diego, CA 92101, USA",
         "country": "United States",
         "city": "San Diego",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "bfbb6344-47ef-4f05-8ffc-25c811de26eb",
         "standardized_name": "Subsidiary of Qualcomm",
         "aliases": ["Subsidiary of Qualcomm"]
@@ -25451,7 +25451,7 @@
         "formattedAddress": "777 Old Saw Mill River Rd, Tarrytown, NY 10591, USA",
         "country": "United States",
         "city": "Tarrytown",
-        "state": "New York",
+        "state": "NY",
         "parentCompanyId": "20ada047-4f6d-4b50-a971-5eae33a8b858",
         "standardized_name": "Subsidiary of Regeneron Pharmaceuticals Inc",
         "aliases": ["Subsidiary of Regeneron Pharmaceuticals Inc"]
@@ -26411,7 +26411,7 @@
         "formattedAddress": "2881 Scott Blvd, Santa Clara, CA 95050, USA",
         "country": "United States",
         "city": "Santa Clara",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "4a6de86a-309a-4242-9e91-4eda79135ccd",
         "standardized_name": "Broadcom (United States)",
         "aliases": ["Broadcom (United States)"]
@@ -26431,7 +26431,7 @@
         "formattedAddress": "400 Summer St, Boston, MA 02210, USA",
         "country": "United States",
         "city": "Boston",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "4a6de86a-309a-4242-9e91-4eda79135ccd",
         "standardized_name": "Foundation Medicine (United States)",
         "aliases": ["Foundation Medicine (United States)"]
@@ -26551,7 +26551,7 @@
         "formattedAddress": "1000 Wilson Blvd, Arlington, VA 22209, USA",
         "country": "United States",
         "city": "Arlington",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "58b7a5d0-492b-458b-b158-766ccae5cda5",
         "standardized_name": "Subsidiary of RTX Corporation",
         "aliases": ["Subsidiary of RTX Corporation"]
@@ -26611,7 +26611,7 @@
         "formattedAddress": "7011 East Ave, Livermore, CA 94550, USA",
         "country": "United States",
         "city": "Livermore",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "a605662e-d683-4f40-ae58-cd36184c5665",
         "standardized_name": "Sandia National Laboratories",
         "aliases": ["Sandia Labs", "Sandia"]
@@ -26631,7 +26631,7 @@
         "formattedAddress": "10550 N Torrey Pines Rd, La Jolla, CA 92037, USA",
         "country": "United States",
         "city": "San Diego",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "2f123f6a-9f62-43df-9f9c-ddd71ff2a956",
         "standardized_name": "Subsidiary of Scripps Research Institute",
         "aliases": ["Subsidiary of Scripps Research Institute"]
@@ -27171,7 +27171,7 @@
         "formattedAddress": "300 New Jersey Ave NW, Washington, DC 20534, USA",
         "country": "United States",
         "city": "Washington",
-        "state": "District of Columbia",
+        "state": "DC",
         "parentCompanyId": "138d2822-8c80-4eaa-a207-e1e23804ce2f",
         "standardized_name": "Amgen (United States)",
         "aliases": ["Amgen (United States)"]
@@ -27251,7 +27251,7 @@
         "formattedAddress": "790 South 75th Avenue, Phoenix, AZ 85043, USA",
         "country": "United States",
         "city": "Phoenix",
-        "state": "Arizona",
+        "state": "AZ",
         "parentCompanyId": "ee4bfeda-e6e6-4768-bd82-613137e9d863",
         "standardized_name": "SK Group (United States)",
         "aliases": ["SK Group (United States)"]
@@ -27271,7 +27271,7 @@
         "formattedAddress": "461 From Rd #385, Paramus, NJ 07652, USA",
         "country": "United States",
         "city": "Paramus",
-        "state": "New Jersey",
+        "state": "NJ",
         "parentCompanyId": "ee4bfeda-e6e6-4768-bd82-613137e9d863",
         "standardized_name": "SK Life Science (United States)",
         "aliases": ["SK Life Science (United States)"]
@@ -27311,7 +27311,7 @@
         "formattedAddress": "52448-54298 Boca Chica Blvd, Brownsville, TX 78521, USA",
         "country": "United States",
         "city": "Brownsville",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "55712613-44eb-4c11-bf1d-8a23c9dfaa91",
         "standardized_name": "Subsidiary of SpaceX",
         "aliases": ["Subsidiary of SpaceX"]
@@ -27371,7 +27371,7 @@
         "formattedAddress": "333 Ravenswood Ave, Menlo Park, CA 94025, USA",
         "country": "United States",
         "city": "Menlo Park",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "64ce50a1-2625-4de6-a985-b1866e3ddf64",
         "standardized_name": "Subsidiary of Stanford Research Institute",
         "aliases": ["Subsidiary of Stanford Research Institute"]
@@ -27411,7 +27411,7 @@
         "formattedAddress": "251, Giannini Hall, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "Center for Effective Global Action",
         "aliases": ["Center for Effective Global Action"]
@@ -27431,7 +27431,7 @@
         "formattedAddress": "450 Jane Stanford Way, Stanford, CA 94305, USA",
         "country": "United States",
         "city": "Stanford",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "Eterna Massive Open Laboratory",
         "aliases": ["Eterna Massive Open Laboratory"]
@@ -27491,7 +27491,7 @@
         "formattedAddress": "499 Illinois St, San Francisco, CA 94158, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "Chan Zuckerberg Biohub San Francisco",
         "aliases": ["Chan Zuckerberg Biohub San Francisco"]
@@ -27511,7 +27511,7 @@
         "formattedAddress": "295 Campus Drive, Palo Alto, CA 94305, USA",
         "country": "United States",
         "city": "Palo Alto",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "Stanford Medicine",
         "aliases": ["Stanford Medicine"]
@@ -27531,7 +27531,7 @@
         "formattedAddress": "9300 Children's Blvd, Fresno, CA 93720, USA",
         "country": "United States",
         "city": "Fresno",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "Children's Hospital Central California",
         "aliases": ["Children's Hospital Central California"]
@@ -27551,7 +27551,7 @@
         "formattedAddress": "2575 Sand Hill Rd, Menlo Park, CA 94025, USA",
         "country": "United States",
         "city": "Menlo Park",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "Fermi National Accelerator Laboratory",
         "aliases": ["FNAL", "Fermilab"]
@@ -27571,7 +27571,7 @@
         "formattedAddress": "1010 El Camino Real, Menlo Park, CA 94025, USA",
         "country": "United States",
         "city": "Menlo Park",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "SLAC National Accelerator Laboratory",
         "aliases": [
@@ -27595,7 +27595,7 @@
         "formattedAddress": "Main Gate (Information Booth), Portola Valley, CA 94028, USA",
         "country": "United States",
         "city": "Portola Valley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "Facility for Advanced Accelerator Experimental Tests-II",
         "aliases": ["Facility for Advanced Accelerator Experimental Tests-II"]
@@ -27615,7 +27615,7 @@
         "formattedAddress": "300 Boswell Bldg, Stanford, CA 94305, USA",
         "country": "United States",
         "city": "Stanford",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "ca1fe3f6-0a2d-4718-9b8b-2b8ded3ec6c2",
         "standardized_name": "Stanford SystemX Alliance",
         "aliases": ["Stanford SystemX Alliance"]
@@ -27775,7 +27775,7 @@
         "formattedAddress": "5088 W Innovation Cir, Phoenix, AZ 85083, USA",
         "country": "United States",
         "city": "Phoenix",
-        "state": "Arizona",
+        "state": "AZ",
         "parentCompanyId": "85431f24-58f1-4563-9219-7a7a086018b0",
         "standardized_name": "Taiwan Semiconductor Manufacturing Company (United States)",
         "aliases": [
@@ -27857,7 +27857,7 @@
         "formattedAddress": "101 1/2 E 5th St., Austin, TX 78701, USA",
         "country": "United States",
         "city": "Austin",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "a59b98b6-c8b3-4d4d-926f-6225e9a22f2c",
         "standardized_name": "Subsidiary of Tesla",
         "aliases": ["Subsidiary of Tesla"]
@@ -27877,7 +27877,7 @@
         "formattedAddress": "12500 T I Blvd, Dallas, TX 75243, USA",
         "country": "United States",
         "city": "Dallas",
-        "state": "Texas",
+        "state": "TX",
         "parentCompanyId": "8b7cf982-72d4-4c9f-a7e4-ceba84a99f21",
         "standardized_name": "Texas Instruments (United States)",
         "aliases": ["Texas Instruments (United States)"]
@@ -28369,7 +28369,7 @@
         "formattedAddress": "Two Potomac Yard, 2733 Crystal Dr, Arlington, VA 22202, USA",
         "country": "United States",
         "city": "Arlington",
-        "state": "Virginia",
+        "state": "VA",
         "parentCompanyId": "6a41990d-230a-49b7-ac6f-1883ec8a3536",
         "standardized_name": "Tesla (United States)",
         "aliases": ["Tesla (United States)"]
@@ -28771,7 +28771,7 @@
         "formattedAddress": "27175 Haggerty Rd suite 160, Novi, MI 48377, USA",
         "country": "United States",
         "city": "Novi",
-        "state": "Michigan",
+        "state": "MI",
         "parentCompanyId": "93c0b312-5000-4697-8552-77b39dfc8dde",
         "standardized_name": "Universal Robots",
         "aliases": ["Universal Robots"]
@@ -28791,7 +28791,7 @@
         "formattedAddress": "251, Giannini Hall, Berkeley, CA 94720, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "59316c9c-39f9-4e7a-8b51-4caa803e993f",
         "standardized_name": "Center for Effective Global Action",
         "aliases": ["Center for Effective Global Action"]
@@ -28851,7 +28851,7 @@
         "formattedAddress": "800 Buchanan St, Berkeley, CA 94710, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "59316c9c-39f9-4e7a-8b51-4caa803e993f",
         "standardized_name": "Plant Gene Expression Center",
         "aliases": ["Plant Gene Expression Center"]
@@ -28891,7 +28891,7 @@
         "formattedAddress": "499 Illinois St, San Francisco, CA 94158, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "59316c9c-39f9-4e7a-8b51-4caa803e993f",
         "standardized_name": "Chan Zuckerberg Biohub San Francisco",
         "aliases": ["Chan Zuckerberg Biohub San Francisco"]
@@ -28911,7 +28911,7 @@
         "formattedAddress": "14 US-101, San Francisco, CA 94103, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "59316c9c-39f9-4e7a-8b51-4caa803e993f",
         "standardized_name": "QB3",
         "aliases": ["QB3"]
@@ -28931,7 +28931,7 @@
         "formattedAddress": "1904 University Ave, Berkeley, CA 94704, USA",
         "country": "United States",
         "city": "Berkeley",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "59316c9c-39f9-4e7a-8b51-4caa803e993f",
         "standardized_name": "Pacific Earthquake Engineering Research Center",
         "aliases": ["Pacific Earthquake Engineering Research Center"]
@@ -29031,7 +29031,7 @@
         "formattedAddress": "72 Water St, Falmouth, MA 02543, USA",
         "country": "United States",
         "city": "Falmouth",
-        "state": "Massachusetts",
+        "state": "MA",
         "parentCompanyId": "427f74b3-fb58-4db7-952e-bd393b029370",
         "standardized_name": "Woods Hole Sea Grant",
         "aliases": ["Woods Hole Sea Grant"]
@@ -29051,7 +29051,7 @@
         "formattedAddress": "HMCQ+WV Cutler, ME, USA",
         "country": "United States",
         "city": "Cutler",
-        "state": "Maine",
+        "state": "ME",
         "parentCompanyId": "427f74b3-fb58-4db7-952e-bd393b029370",
         "standardized_name": "Northeast U.S. Shelf Long Term Ecological Research",
         "aliases": ["Northeast U.S. Shelf Long Term Ecological Research"]
@@ -29091,11 +29091,15 @@
         "locationStatus": "approximate",
         "parentCompanyId": "5108b109-4d69-4567-bbcb-2383cfa94811",
         "standardized_name": "3D Systems Corporation",
-        "aliases": ["3D Systems Corp.", "3D Systems, Inc."]
+        "aliases": ["3D Systems Corp.", "3D Systems, Inc."],
+        "formattedAddress": "447 Indio Way",
+        "city": "Sunnyvale",
+        "state": "CA",
+        "country": "United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [-122.014687, 37.388935]
       }
     },
     {
@@ -29108,11 +29112,15 @@
         "locationStatus": "approximate",
         "parentCompanyId": "5108b109-4d69-4567-bbcb-2383cfa94811",
         "standardized_name": "Instruments SA Inc.",
-        "aliases": []
+        "aliases": [],
+        "formattedAddress": "1515 Danner Dr",
+        "city": "Aurora",
+        "state": "OH",
+        "country": "United States"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [-81.34549, 41.317725]
       }
     },
     {
@@ -29125,7 +29133,7 @@
         "formattedAddress": "55R4+84 Florence, SC, USA",
         "country": "United States",
         "city": "Florence",
-        "state": "South Carolina",
+        "state": "SC",
         "parentCompanyId": "5108b109-4d69-4567-bbcb-2383cfa94811",
         "standardized_name": "GE Healthcare Ltd",
         "aliases": ["GE Healthcare Ltd"]
@@ -29145,7 +29153,7 @@
         "formattedAddress": "3112 Cooke Way Suite #B, Oklahoma City, OK 73179, USA",
         "country": "United States",
         "city": "Oklahoma City",
-        "state": "Oklahoma",
+        "state": "OK",
         "parentCompanyId": "5108b109-4d69-4567-bbcb-2383cfa94811",
         "standardized_name": "Agility Healthcare Solutions",
         "aliases": ["Agility Healthcare Solutions"]
@@ -29165,7 +29173,7 @@
         "formattedAddress": "1 Research Cir, Niskayuna, NY 12309, USA",
         "country": "United States",
         "city": "",
-        "state": "New York",
+        "state": "NY",
         "parentCompanyId": "5108b109-4d69-4567-bbcb-2383cfa94811",
         "standardized_name": "GE Global Research",
         "aliases": ["GE Global Research"]
@@ -29185,7 +29193,7 @@
         "formattedAddress": "2377 Crenshaw Blvd Ste. 210, Torrance, CA 90501, USA",
         "country": "United States",
         "city": "Torrance",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "5108b109-4d69-4567-bbcb-2383cfa94811",
         "standardized_name": "IDX Systems Corporation",
         "aliases": ["IDX Systems Corporation"]
@@ -29345,7 +29353,7 @@
         "formattedAddress": "430 Pacific Ave, San Francisco, CA 94133, USA",
         "country": "United States",
         "city": "San Francisco",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "44b218f7-d46d-47a5-adeb-5f3edc09d320",
         "standardized_name": "Mobilize",
         "aliases": ["Mobilize"]
@@ -29385,7 +29393,7 @@
         "formattedAddress": "2076 Main St, Prairie Du Rocher, IL 62277, USA",
         "country": "United States",
         "city": "Prairie du Rocher",
-        "state": "Illinois",
+        "state": "IL",
         "parentCompanyId": "44b218f7-d46d-47a5-adeb-5f3edc09d320",
         "standardized_name": "Renault",
         "aliases": ["Renault"]
@@ -29445,7 +29453,7 @@
         "formattedAddress": "2900 Pacific Coast Hwy, Torrance, CA 90505, USA",
         "country": "United States",
         "city": "Torrance",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "44b218f7-d46d-47a5-adeb-5f3edc09d320",
         "standardized_name": "Infinitum",
         "aliases": ["Infinitum"]
@@ -29465,7 +29473,7 @@
         "formattedAddress": "411 D Ave, National City, CA 91950, USA",
         "country": "United States",
         "city": "National City",
-        "state": "California",
+        "state": "CA",
         "parentCompanyId": "c5ca33af-5a0c-4bc4-a70a-a062a2c3a300",
         "standardized_name": "Huimo Business Consulting",
         "aliases": ["Huimo Business Consulting"]
